@@ -1,0 +1,49 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/sell-or-part-exchange-sewing-machine",
+  "type": "post",
+  "date": "2026-09-19",
+  "title": "How to Sell or Part-Exchange an Old Sewing Machine",
+  "description": "Upgrading or clearing a workroom? How to value, sell or part-exchange a domestic or industrial sewing machine, and what dealers look for before making an offer.",
+  "h1": "Selling or part-exchanging a sewing machine",
+  "eyebrow": "Deals · Trade-in",
+  "intro": "Your old machine may be worth more than you think. Here is how to get a fair price, or put its value towards an upgrade.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1466027397211-20d0f2449a3f",
+    "alt": "Vintage black and gold sewing machine",
+    "credit": "Annie Spratt",
+    "creditUrl": "https://unsplash.com/@anniespratt"
+  },
+  "keywords": [
+    "sell sewing machine",
+    "part exchange sewing machine",
+    "sewing machine trade in",
+    "sell industrial sewing machine",
+    "we buy sewing machines"
+  ],
+  "cardText": "Valuing, selling and part-exchanging domestic and industrial machines.",
+  "sections": [
+    {
+      "h2": "What affects value",
+      "html": "<ul><li>Make, model and age.</li><li>Working condition and service history.</li><li>Accessories: feet, bobbin case, manual, table and motor for industrials.</li><li>Demand: some industrial and specialist machines are always sought after.</li></ul>"
+    },
+    {
+      "h2": "Selling privately",
+      "html": "<p>Online marketplaces can get a higher price, but you handle photos, questions, viewings and delivery. Be honest about faults and offer a demonstration.</p>"
+    },
+    {
+      "h2": "Selling to or part-exchanging with a dealer",
+      "html": "<p>A dealer will usually offer less than a private buyer because they test, service and resell the machine, but it is quick and simple, and part exchange reduces the cost of your next machine.</p>"
+    },
+    {
+      "h2": "Clearing a workroom",
+      "html": "<p>If you are closing or downsizing a production room, a specialist can assess several machines at once. <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> in Leicester buys selected machines outright and offers part exchange against replacement machines. Many of Leicester’s old <a href=\"/leicester-hosiery/\">hosiery workrooms</a> have passed their machines on this way. See our <a href=\"/deals/\">deals page</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

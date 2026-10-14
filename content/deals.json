@@ -1,0 +1,116 @@
+{
+  "updated": "2026-10-14",
+  "slug": "deals",
+  "nav": "Deals",
+  "navOrder": 6,
+  "title": "Sewing Machine Deals UK: Machines, Parts & Servicing",
+  "description": "Where to find genuine deals on sewing machines, parts and servicing in the UK: tested used machines, part exchange, PKSM’s eBay stock and smart buying tips.",
+  "eyebrow": "Deals · Used machines · Part exchange",
+  "h1": "Deals on sewing machines, parts and servicing",
+  "intro": "We don’t invent discounts. Instead, here are the honest routes to a better price on machines and parts, with current stock always listed by the seller.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1476683874822-744764a2438f",
+    "alt": "Old treadle sewing machine on a wooden stand",
+    "credit": "Janko Ferlič",
+    "creditUrl": "https://unsplash.com/@itfeelslikefilm"
+  },
+  "cardText": "Tested used machines, part exchange, live stock listings and smart buying tips.",
+  "keywords": [
+    "sewing machine deals",
+    "cheap sewing machine",
+    "used sewing machine",
+    "second hand sewing machine",
+    "sewing machine sale",
+    "part exchange sewing machine",
+    "ebay sewing machine"
+  ],
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "Where the real deals are",
+      "items": [
+        {
+          "icon": "store",
+          "badge": "Live stock",
+          "title": "PKSM’s eBay store",
+          "text": "Machines, parts and accessories from PK Sewing Machines, Leicester. Stock and prices change regularly.",
+          "href": "https://www.ebay.co.uk/sch/i.html?_ssn=rajsud57",
+          "cta": "View current listings"
+        },
+        {
+          "icon": "repeat",
+          "badge": "Trade-in",
+          "title": "Part exchange your old machine",
+          "text": "Put the value of your current machine towards an upgrade.",
+          "href": "/blog/sell-or-part-exchange-sewing-machine/",
+          "cta": "How it works"
+        },
+        {
+          "icon": "check",
+          "badge": "Value",
+          "title": "Serviced used machines",
+          "text": "A bench-tested used machine from a specialist can beat a budget new one.",
+          "href": "/blog/buying-a-used-sewing-machine/",
+          "cta": "Used checklist"
+        },
+        {
+          "icon": "calendar",
+          "badge": "Events",
+          "title": "Shows and open days",
+          "text": "Craft shows such as Knit + Stitch often have exhibitor offers.",
+          "href": "/blog/knit-and-stitch-show-harrogate/",
+          "cta": "Show guide"
+        },
+        {
+          "icon": "tag",
+          "badge": "Parts",
+          "title": "Buy consumables in packs",
+          "text": "Needles and bobbins are usually cheaper per unit in multi-packs.",
+          "href": "/sewing-machine-parts/",
+          "cta": "Parts guide"
+        },
+        {
+          "icon": "shield",
+          "badge": "Protection",
+          "title": "Know your rights",
+          "text": "Buying from a business gives you more protection than a private sale.",
+          "href": "/blog/buying-a-used-sewing-machine/",
+          "cta": "Read more"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Is a “deal” really a deal?",
+      "html": "<ul><li>Compare the <strong>total cost</strong>: delivery, a service and any missing accessories.</li><li>A machine that needs a £50+ repair is not a bargain at a low price.</li><li>Check parts availability for the model before you buy.</li><li>Ask what testing, warranty or returns the seller offers.</li></ul>"
+    },
+    {
+      "h2": "Buying from a business vs a private seller",
+      "html": "<p>In the UK, goods bought from a business must be of satisfactory quality, fit for purpose and as described under the Consumer Rights Act 2015. Private sales give you far fewer rights, so inspect and test carefully. Note that PKSM states its used machines are tested on its own bench before sale and sold as seen, so ask about the terms on any machine you are interested in.</p>"
+    },
+    {
+      "h2": "Featured: PK Sewing Machines",
+      "html": "<aside class=\"pk-callout\"><p class=\"pk-k\">Leicester specialist</p><p><strong>PK Sewing Machines</strong> has sold, serviced and repaired domestic and industrial sewing machines from 415 St Saviours Road, Leicester LE5 4HH since 1982. PKSM’s website showcases its range, and its eBay store lists current machines, parts and accessories with live prices. Call 0116 273 6552 about stock or visit <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>.</p></aside>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    },
+    {
+      "title": "PK Sewing Machines on eBay",
+      "url": "https://www.ebay.co.uk/sch/i.html?_ssn=rajsud57"
+    },
+    {
+      "title": "Citizens Advice: consumer rights",
+      "url": "https://www.citizensadvice.org.uk/consumer/"
+    }
+  ],
+  "related": [
+    "sewing-machines",
+    "pk-sewing-machines-leicester",
+    "blog/buying-a-used-sewing-machine"
+  ]
+}

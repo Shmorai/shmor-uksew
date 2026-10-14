@@ -1,0 +1,54 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/william-lee-stocking-frame",
+  "type": "post",
+  "date": "2026-09-28",
+  "title": "William Lee and the Stocking Frame: The 1589 Invention",
+  "description": "How William Lee’s stocking frame of 1589 mechanised knitting, why Elizabeth I refused him a patent, and how it led to the East Midlands hosiery industry.",
+  "h1": "William Lee and the stocking frame",
+  "eyebrow": "Heritage · Inventions",
+  "intro": "Every machine-knitted sock owes something to a 16th-century Nottinghamshire inventor. Here is the story of the stocking frame.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1585499583264-491df5142e83",
+    "alt": "Blue, white and yellow knitted socks",
+    "credit": "Nick Page",
+    "creditUrl": "https://unsplash.com/@nickpage"
+  },
+  "keywords": [
+    "william lee",
+    "stocking frame",
+    "knitting machine history",
+    "calverton",
+    "hosiery history",
+    "first knitting machine"
+  ],
+  "cardText": "The 1589 invention that started an industry.",
+  "sections": [
+    {
+      "h2": "The inventor",
+      "html": "<p>William Lee of Calverton, near Nottingham, is credited with inventing the stocking frame in 1589. Little is known for certain about him, though he is usually described as a clergyman.</p>"
+    },
+    {
+      "h2": "A royal refusal",
+      "html": "<p>The early frame made coarse fabric. Queen Elizabeth I is said to have refused Lee a patent, reportedly saying she would consider it if the machine could make fine silk stockings. Her successor, James I, also declined.</p>"
+    },
+    {
+      "h2": "From invention to industry",
+      "html": "<p>Lee’s frame spread slowly, but over the next two centuries framework knitting became the main industry of Nottinghamshire, Leicestershire and Derbyshire. You can see stocking frames at the museums in <a href=\"/blog/framework-knitting-museums-east-midlands/\">Wigston and Ruddington</a>.</p>"
+    },
+    {
+      "h2": "Same principle, modern machines",
+      "html": "<p>Today’s knitting machines and the overlockers and coverstitch machines that sew knitted garments are distant descendants. Leicester workrooms still rely on them, supported by specialists such as <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a>. Read about <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nottinghamshire HER: Inventions from Nottingham, the stocking frame",
+      "url": "https://her.nottinghamshire.gov.uk/whats-new/inventions-from-nottingham-the-stocking-frame"
+    },
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

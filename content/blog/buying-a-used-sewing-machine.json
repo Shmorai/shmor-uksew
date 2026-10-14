@@ -1,0 +1,57 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/buying-a-used-sewing-machine",
+  "type": "post",
+  "date": "2026-10-06",
+  "title": "Buying a Used Sewing Machine: The UK Checklist",
+  "description": "Buying a second-hand sewing machine in the UK? What to check, questions to ask, dealer vs private sale, your consumer rights and why servicing matters.",
+  "h1": "Buying a used sewing machine: the checklist",
+  "eyebrow": "Deals · Used machines",
+  "intro": "A used machine can be a brilliant buy, or an expensive mistake. Use this checklist before you hand over any money.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1476683874822-744764a2438f",
+    "alt": "Old treadle sewing machine on a wooden stand",
+    "credit": "Janko Ferlič",
+    "creditUrl": "https://unsplash.com/@itfeelslikefilm"
+  },
+  "keywords": [
+    "used sewing machine",
+    "second hand sewing machine",
+    "buy used sewing machine",
+    "refurbished sewing machine",
+    "sewing machine deals"
+  ],
+  "cardText": "What to check, what to ask and your rights when buying used.",
+  "sections": [
+    {
+      "h2": "Check the basics",
+      "html": "<ul><li>Does it power on, and does the motor run smoothly at slow and fast speeds?</li><li>Does the handwheel turn freely?</li><li>Is the foot pedal and power cable intact, with no damage?</li><li>Are the bobbin case, bobbins and presser feet included?</li></ul>"
+    },
+    {
+      "h2": "Sew a test seam",
+      "html": "<p>Sew straight stitch and zigzag on two layers of cotton. Look for even stitches on both sides, no loops underneath and steady feeding. Try reverse and, if it has one, the buttonhole.</p>"
+    },
+    {
+      "h2": "Ask the right questions",
+      "html": "<ul><li>When was it last serviced?</li><li>Why is it being sold?</li><li>Is the manual available, or can it be found online?</li><li>Are parts still available for this model?</li></ul>"
+    },
+    {
+      "h2": "Dealer vs private sale",
+      "html": "<p>Buying from a business gives you rights under the Consumer Rights Act 2015: goods must be of satisfactory quality, fit for purpose and as described. Private sales offer much less protection. Read the seller’s terms carefully, especially for items described as “sold as seen”.</p>"
+    },
+    {
+      "h2": "A tested machine from a specialist",
+      "html": "<p><a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> in Leicester tests used machines on its own bench before sale, and lists current stock on <a href=\"https://www.ebay.co.uk/sch/i.html?_ssn=rajsud57\" rel=\"noopener\" target=\"_blank\">eBay</a>. See our <a href=\"/deals/\">deals page</a> for more routes to a fair price. Leicester has been a centre of the textile trade for centuries, as our <a href=\"/leicester-hosiery/\">heritage guide</a> explains, so it is a good place to look.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Citizens Advice: consumer rights",
+      "url": "https://www.citizensadvice.org.uk/consumer/"
+    },
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

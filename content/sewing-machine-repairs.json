@@ -1,0 +1,89 @@
+{
+  "updated": "2026-10-14",
+  "slug": "sewing-machine-repairs",
+  "nav": "Repairs",
+  "navOrder": 2,
+  "title": "Sewing Machine Repairs & Servicing in Leicester and the UK",
+  "description": "When to service a sewing machine, what a service includes and common faults. Featuring PK Sewing Machines in Leicester, with servicing listed from £35.",
+  "eyebrow": "Repairs · Servicing · Call-outs",
+  "h1": "Sewing machine repairs and servicing",
+  "intro": "A regular service keeps stitches even and prevents expensive breakdowns. Here is what is involved and where to go in Leicester.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1524292332709-b33366a7f165",
+    "alt": "Engineer repairing a sewing machine",
+    "credit": "Lidya Nada",
+    "creditUrl": "https://unsplash.com/@lidyanada"
+  },
+  "cardText": "What a service includes, how often to book one, and Leicester repair options.",
+  "keywords": [
+    "sewing machine repair",
+    "sewing machine service",
+    "sewing machine repair leicester",
+    "sewing machine service near me",
+    "sewing machine engineer",
+    "industrial call out"
+  ],
+  "blocks": [
+    {
+      "type": "steps",
+      "title": "What a typical service covers",
+      "items": [
+        {
+          "icon": "search",
+          "title": "Inspect & test",
+          "text": "Check stitch quality, noise and any reported faults before work starts."
+        },
+        {
+          "icon": "droplet",
+          "title": "Clean & oil",
+          "text": "Remove lint and old oil from the hook area, feed dogs and moving parts, then lubricate."
+        },
+        {
+          "icon": "gauge",
+          "title": "Adjust",
+          "text": "Set tension, timing and feed so stitches form correctly."
+        },
+        {
+          "icon": "check",
+          "title": "Test & explain",
+          "text": "Sew test seams and explain any parts that need replacing."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How often to service",
+      "html": "<p>As a rule of thumb, home machines in regular use benefit from a service every year or so, and sooner if stitch quality changes. Industrial machines in daily production need daily care and more frequent professional checks. See <a href=\"/blog/how-often-to-service-a-sewing-machine/\">how often to service a sewing machine</a>.</p>"
+    },
+    {
+      "h2": "Signs your machine needs attention",
+      "html": "<ul><li>Skipped stitches or looping underneath.</li><li>Thread bunching (“bird’s nesting”) under the fabric.</li><li>Knocking, grinding or a much louder motor.</li><li>Fabric not feeding evenly.</li><li>Needles breaking often.</li></ul><p>Start with our <a href=\"/blog/common-sewing-machine-problems/\">common sewing machine problems</a> guide. Many faults are fixed by rethreading and a new needle.</p>"
+    },
+    {
+      "h2": "Repairs in Leicester and the East Midlands",
+      "html": "<aside class=\"pk-callout\"><p class=\"pk-k\">Leicester specialist</p><p><strong>PK Sewing Machines</strong> has sold, serviced and repaired domestic and industrial sewing machines from 415 St Saviours Road, Leicester LE5 4HH since 1982. PK Sewing Machines services and repairs domestic and industrial machines in its Leicester workshop, lists servicing from £35 on its website, and offers on-site industrial call-outs across the East Midlands. Collection and delivery can be arranged for a quote. Call 0116 273 6552 or visit <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>.</p></aside><p>Prices are set by the repairer and depend on the machine and the work needed, so ask for a quote first.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does a sewing machine service cost in Leicester?",
+      "a": "It depends on the machine and the work. PK Sewing Machines lists servicing from £35 on pksm.co.uk; call them for a quote on your machine."
+    },
+    {
+      "q": "Is it worth repairing an old sewing machine?",
+      "a": "Often, yes. Well-built older machines can run for decades. A specialist can tell you whether parts are available and whether the repair is good value."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "related": [
+    "pk-sewing-machines-leicester",
+    "blog/common-sewing-machine-problems",
+    "blog/how-often-to-service-a-sewing-machine"
+  ]
+}

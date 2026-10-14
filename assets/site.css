@@ -223,3 +223,148 @@ section h2 { font-size: clamp(26px, 3.4vw, 36px); margin-bottom: 24px; }
 .meter-track span { display: block; height: 100%; border-radius: inherit; background: var(--accent); }
 .meter p { margin: 0; color: var(--ink-2); font-size: 14.5px; }
 .meter-badge { align-self: flex-start; font-size: 12px; font-weight: 600; color: var(--ink-3); }
+
+/* =====================================================================
+   UK Sew theme: heritage British hosiery house
+   Cream "paper" pages, deep navy ink, pillar-box crimson, brass details,
+   serif display (Fraunces) + Inter. Stitch motif = dashed crimson rules.
+   ===================================================================== */
+:root {
+  color-scheme: light;
+  --navy: #14234B; --navy-2: #1E3366; --crimson: #C8102E; --crimson-2: #A30D25; --brass: #8A6A36;
+  --accent: var(--crimson); --accent-2: var(--navy-2);
+  --bg: #F7F3EC; --surface: #FFFFFF; --surface-2: #EFE8DB; --line: #E2D8C6;
+  --ink: #14234B; --ink-2: #3D4863; --ink-3: #6E7387;
+  --radius: 14px;
+  --display: "Fraunces", Georgia, "Times New Roman", serif;
+  --font: "Inter", system-ui, sans-serif;
+}
+body { background: var(--bg); color: var(--ink); }
+h1, h2, h3, h4 { font-weight: 700; letter-spacing: -.015em; }
+::selection { background: var(--crimson); color: #fff; }
+
+/* Top bar + header */
+.topbar { background: var(--navy); color: #D9DEEA; font-size: 13px; }
+.topbar-in { display: flex; justify-content: space-between; gap: 16px; padding-top: 8px; padding-bottom: 8px; }
+.topbar a { text-decoration: none; } .topbar a:hover { color: #fff; }
+.tb-pk strong { color: #fff; }
+.site-header { background: rgba(247,243,236,.95); border-bottom: 1px solid var(--line); }
+.bar { height: 76px; }
+.brand-wrap { display: flex; align-items: center; gap: 10px; }
+.brand { display: inline-flex; align-items: center; gap: 10px; }
+.us-mark { width: 40px; height: 40px; flex: 0 0 auto; }
+.us-word { font: 700 26px/1 var(--display); color: var(--navy); letter-spacing: -.02em; white-space: nowrap; }
+.us-word b { color: var(--crimson); font-weight: 800; }
+.by { font-size: 11.5px; font-weight: 600; color: var(--ink-3); border: 1px solid var(--line); border-radius: 999px; padding: 3px 9px; text-decoration: none; white-space: nowrap; }
+.by:hover { color: var(--navy); border-color: var(--navy); }
+.nav { gap: 20px; align-items: center; }
+.nav a { color: var(--ink-2); font-weight: 600; font-size: 14.5px; }
+.nav a:hover { color: var(--crimson); }
+.nav .nav-pk { background: var(--crimson); color: #fff; padding: 9px 14px; border-radius: 8px; }
+.nav .nav-pk:hover { background: var(--crimson-2); color: #fff; }
+@media (max-width: 1120px) { .nav { gap: 14px; } .nav a { font-size: 13.5px; } .by { display: none; } }
+@media (max-width: 960px) {
+  .menu { display: block; }
+  .nav { display: none; position: absolute; left: 0; right: 0; top: 76px; flex-direction: column; align-items: stretch; gap: 0; background: var(--surface); border-bottom: 1px solid var(--line); padding: 8px 20px 16px; }
+  .nav.open { display: flex; }
+  .nav a { padding: 12px 0; border-bottom: 1px solid var(--line); font-size: 15px; }
+  .nav .nav-pk { margin-top: 12px; text-align: center; border: 0; padding: 12px; }
+}
+@media (max-width: 860px) { .tb-heritage { display: none; } .topbar-in { justify-content: center; } }
+@media (max-width: 420px) { .tb-pk { font-size: 12px; text-align: center; } }
+
+/* Hero */
+.hero.has-img::after { background: linear-gradient(90deg, rgba(14,24,52,.92) 0%, rgba(14,24,52,.74) 45%, rgba(14,24,52,.3) 100%); }
+.hero-home { padding: 112px 0 104px; }
+.hero h1 { font-weight: 700; letter-spacing: -.025em; }
+.hero .hl { color: #F6CDD3; font-style: italic; }
+.eyebrow { font: 700 12.5px var(--font); letter-spacing: .16em; color: var(--brass); }
+.hero.has-img .eyebrow { color: #E7CFA4; }
+.hero:not(.has-img) { background: var(--navy); color: #fff; }
+.hero:not(.has-img) h1, .hero:not(.has-img) .lede { color: #fff; }
+.hero.has-img .lede { color: #E8ECF5; }
+.hero .lede a { color: #fff; }
+.hero .search { background: #fff; border: 0; box-shadow: 0 12px 34px rgba(0,0,0,.22); border-radius: 10px; }
+.search button { font-family: var(--font); background: var(--crimson); border-radius: 8px; }
+.search button:hover { background: var(--crimson-2); }
+.search input { color: var(--ink); }
+.hero .chips a { color: #fff; border-color: rgba(255,255,255,.4); background: rgba(255,255,255,.08); }
+.hero .chips a:hover { border-color: #fff; background: rgba(255,255,255,.18); }
+.hero::before { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 6px; z-index: 1; background: repeating-linear-gradient(90deg, var(--crimson) 0 14px, transparent 14px 22px); }
+.hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 26px; }
+.btn-red, .btn-ghost { display: inline-flex; align-items: center; justify-content: center; font-weight: 700; font-size: 15px; padding: 13px 20px; border-radius: 8px; text-decoration: none; }
+.btn-red { background: var(--crimson); color: #fff; } .btn-red:hover { background: var(--crimson-2); }
+.btn-ghost { background: #fff; color: var(--navy); } .btn-ghost:hover { background: #F1ECE2; }
+.crumbs ol { color: var(--ink-3); }
+
+/* Section headings with a stitch underline */
+section h2, .block-head h2 { color: var(--navy); }
+.block-head h2::after, .highlights h2::after, .related > .wrap > h2::after, .faq h2::after { content: ""; display: block; width: 64px; height: 3px; margin-top: 12px; background: repeating-linear-gradient(90deg, var(--crimson) 0 8px, transparent 8px 13px); }
+.block-more { color: var(--crimson); }
+
+/* Cards */
+.tile, .card, .offer, .deal, .spec, .steps li, .meter, .faq details, .person { background: var(--surface); border-color: var(--line); box-shadow: 0 1px 0 rgba(20,35,75,.04), 0 10px 28px rgba(20,35,75,.05); }
+.card:hover, .offer:hover, .deal:hover { border-color: var(--crimson); border-style: dashed; }
+.cta { color: var(--crimson); font-family: var(--font); font-weight: 700; }
+.deal-top .ico { background: #F6E3E6; color: var(--crimson); }
+.deal-badge, .spec-badge { background: var(--navy); }
+.spec-chip { background: var(--navy); color: #fff; font-family: var(--display); }
+.spec-foot a { color: var(--crimson); }
+.spec-tabs button { font-family: var(--font); background: #fff; }
+.spec-tabs button[aria-pressed="true"] { background: var(--navy); border-color: var(--navy); }
+.steps li::before { color: #EADFCB; font-family: var(--display); }
+.steps .ico, .strip-list .ico, .byline .ico { color: var(--crimson); }
+.tile-ico { background: #F6E3E6; }
+.tile-photo { border-radius: 12px; }
+.tile-badge { background: var(--crimson); backdrop-filter: none; }
+.tile-shade { background: linear-gradient(180deg, rgba(14,24,52,0) 30%, rgba(14,24,52,.85) 100%); }
+.blocks-strip { background: var(--surface); border-bottom: 1px solid var(--line); }
+.highlights { background: var(--surface-2); }
+.highlights .tile p a { color: var(--crimson); }
+.pill { background: #fff; }
+
+/* Featured PKSM band */
+.blocks.pk-feature { padding: 64px 0; background: var(--navy); color: #fff; }
+.pkf { display: grid; grid-template-columns: 1.15fr .85fr; border-radius: 16px; overflow: hidden; background: var(--navy-2); box-shadow: 0 30px 60px rgba(0,0,0,.25); }
+.pkf-copy { padding: 44px; }
+.pkf-k { margin: 0 0 10px; font-size: 12.5px; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; color: #E7CFA4; }
+.pkf h2 { color: #fff; font-size: clamp(30px, 4vw, 44px); margin: 0 0 14px; }
+.pkf-lede { color: #D9DEEA; font-size: 17px; margin: 0 0 18px; }
+.pkf-list { list-style: none; margin: 0 0 26px; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 12px 20px; }
+.pkf-list li { border-left: 3px solid var(--crimson); padding-left: 12px; color: #C9D0E0; font-size: 14.5px; }
+.pkf-list strong { display: block; color: #fff; font-size: 16px; }
+.pkf-actions { display: flex; flex-wrap: wrap; gap: 12px; }
+.pkf-photo { position: relative; min-height: 340px; }
+.pkf-photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.pkf-cap { position: absolute; right: 10px; bottom: 6px; margin: 0; font-size: 11px; color: rgba(255,255,255,.85); text-shadow: 0 1px 2px rgba(0,0,0,.6); }
+@media (max-width: 820px) { .pkf { grid-template-columns: 1fr; } .pkf-copy { padding: 28px 22px; } .pkf-photo { min-height: 240px; } .pkf-list { grid-template-columns: 1fr; } }
+
+/* Article */
+.prose { color: var(--ink-2); }
+.prose h2 { color: var(--navy); }
+.prose a, .sources a, .more-link a, .byline a { color: var(--crimson); }
+.toc { border-left-color: var(--crimson); }
+.pk-callout { margin: 22px 0; padding: 18px 20px; background: var(--surface); border: 2px dashed #E6B9C0; border-left: 6px solid var(--crimson); border-radius: 10px; color: var(--ink-2); }
+.pk-callout p { margin: 0; }
+.pk-callout .pk-k { font-size: 12px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--crimson); margin-bottom: 4px; }
+.contact-list { list-style: none; padding: 20px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+.faq summary { font-family: var(--display); color: var(--navy); }
+.faq summary::after { color: var(--crimson); }
+
+/* CTA band + footer */
+.cta-band .wrap { background: var(--navy); border: 0; color: #fff; }
+.cta-band h2 { color: #fff; }
+.cta-band .search { background: #fff; border: 0; }
+.site-footer { background: var(--navy); color: #AEB6CA; border-top: 0; margin-top: 56px; padding-top: 0; }
+.stitch-rule { height: 6px; background: repeating-linear-gradient(90deg, var(--crimson) 0 14px, transparent 14px 22px); margin-bottom: 52px; }
+.site-footer .us-word { color: #fff; }
+.foot-cols h4 { color: #fff; font-family: var(--font); }
+.foot-cols a:hover { color: #fff; }
+.site-footer p a { color: #E7CFA4; }
+.foot-pk { font-size: 13px; }
+.disclosure { border-top-color: rgba(255,255,255,.12); }
+
+/* Home: departments, PKSM and deals first; journal posts after them (HTML order unchanged) */
+body.home main { display: flex; flex-direction: column; }
+body.home main > .related.posts { order: 1; }
+body.home main > .content, body.home main > .faq, body.home main > .related:not(.posts), body.home main > .cta-band { order: 2; }

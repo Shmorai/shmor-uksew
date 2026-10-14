@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/common-sewing-machine-problems",
+  "type": "post",
+  "date": "2026-09-22",
+  "title": "Common Sewing Machine Problems and How to Fix Them",
+  "description": "Skipped stitches, thread bunching, breaking needles or fabric not feeding? Simple fixes for common sewing machine problems, and when to call an engineer.",
+  "h1": "Common sewing machine problems and fixes",
+  "eyebrow": "Troubleshooting",
+  "intro": "Most sewing machine trouble comes down to threading, the needle or lint. Try these fixes before booking a repair.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1560796952-f1c9b838544c",
+    "alt": "Close-up of a sewing machine needle and presser foot",
+    "credit": "J Williams",
+    "creditUrl": "https://unsplash.com/@jwill14"
+  },
+  "keywords": [
+    "sewing machine problems",
+    "skipped stitches",
+    "thread bunching",
+    "bird nesting",
+    "sewing machine not feeding",
+    "sewing machine repair"
+  ],
+  "cardText": "Quick fixes for skipped stitches, bunching, breaking needles and more.",
+  "sections": [
+    {
+      "h2": "Thread bunching underneath (“bird’s nest”)",
+      "html": "<p>This is almost always an <strong>upper threading</strong> problem. Raise the presser foot (which opens the tension discs), rethread the top thread completely, and try again.</p>"
+    },
+    {
+      "h2": "Skipped stitches",
+      "html": "<p>Change the needle first. Make sure it is the right type and size for the fabric (a ballpoint for knits) and inserted the right way round, fully up.</p>"
+    },
+    {
+      "h2": "Needles keep breaking",
+      "html": "<p>Check you are not pulling the fabric, the needle is the right size for thick seams, and the presser foot is correctly fitted. A machine that breaks needles on light fabric may have a timing problem.</p>"
+    },
+    {
+      "h2": "Fabric not feeding",
+      "html": "<p>Check the feed dogs are raised (not in darning mode), clean lint from between them, and check the stitch length is not set to zero.</p>"
+    },
+    {
+      "h2": "Loud knocking or grinding",
+      "html": "<p>Stop sewing. Unplug and check for broken needle fragments or thread wrapped round the hook. If the noise continues, book a service.</p>"
+    },
+    {
+      "h2": "When to call a pro",
+      "html": "<p>Timing, motor and electrical faults need an engineer. <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> has repaired machines in Leicester since 1982, from domestic to industrial. Leicester’s <a href=\"/leicester-hosiery/\">hosiery heritage</a> means there is real expertise on hand. See <a href=\"/sewing-machine-repairs/\">repairs and servicing</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "updated": "2026-10-14",
+  "slug": "sewing-machine-parts",
+  "nav": "Parts",
+  "navOrder": 3,
+  "title": "Sewing Machine Parts UK: Needles, Bobbins, Feet & Belts",
+  "description": "Find the right sewing machine parts in the UK: needle systems, bobbins and cases, presser feet, belts, motors and hard-to-find spares, with Leicester help.",
+  "eyebrow": "Parts department",
+  "h1": "Sewing machine parts, needles and spares",
+  "intro": "Needles, bobbins, feet, belts and hooks: how to find the right part first time, for domestic and industrial machines.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1502217625004-89c03571bcca",
+    "alt": "Macro photo of a sewing machine needle",
+    "credit": "Ilya lix",
+    "creditUrl": "https://unsplash.com/@ilya90"
+  },
+  "cardText": "Needle systems, bobbins, presser feet, belts, motors and hard-to-find spares.",
+  "keywords": [
+    "sewing machine parts",
+    "sewing machine needles",
+    "bobbin case",
+    "presser foot",
+    "sewing machine belt",
+    "groz-beckert",
+    "organ needles",
+    "schmetz",
+    "spare parts",
+    "singer parts"
+  ],
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "Parts by category",
+      "items": [
+        {
+          "icon": "zap",
+          "title": "Needles",
+          "text": "Domestic 130/705H, industrial DBx1 and DCx27 systems, plus ballpoint, jeans and leather points.",
+          "href": "/blog/sewing-machine-needles-guide/",
+          "cta": "Needle guide"
+        },
+        {
+          "icon": "repeat",
+          "title": "Bobbins & cases",
+          "text": "Class 15, class 66, L-style and M-style bobbins, metal or plastic. The wrong one causes stitch problems.",
+          "href": "/blog/bobbins-and-bobbin-cases-guide/",
+          "cta": "Bobbin guide"
+        },
+        {
+          "icon": "tag",
+          "title": "Presser feet",
+          "text": "Zipper, buttonhole, walking, hemming and specialist feet. Check shank type first.",
+          "href": "/blog/presser-feet-guide/",
+          "cta": "Feet guide"
+        },
+        {
+          "icon": "gauge",
+          "title": "Belts, motors & pedals",
+          "text": "Drive belts, motor brushes, foot controls and servo motors for older and industrial machines."
+        },
+        {
+          "icon": "compass",
+          "title": "Hooks & mechanical",
+          "text": "Rotary hooks, loopers, needle plates, feed dogs and tension assemblies."
+        },
+        {
+          "icon": "search",
+          "title": "Hard-to-find",
+          "text": "Vintage and discontinued parts can often be sourced through specialist trade contacts.",
+          "href": "/pk-sewing-machines-leicester/",
+          "cta": "Ask PKSM"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How to get the right part first time",
+      "html": "<ol><li>Find the <strong>make and model number</strong>, usually on a plate on the back or underside of the machine.</li><li>For needles, check the <strong>needle system</strong> in the manual or on the old needle packet (for example 130/705H for most domestic machines).</li><li>For bobbins, compare against the old one, or take it with you. Similar-looking bobbins are not interchangeable.</li><li>For feet, check whether your machine is <strong>low shank, high shank or slant shank</strong>, or uses snap-on feet.</li><li>If in doubt, take the machine or part to a specialist.</li></ol>"
+    },
+    {
+      "h2": "Featured parts specialist in Leicester",
+      "html": "<aside class=\"pk-callout\"><p class=\"pk-k\">Leicester specialist</p><p><strong>PK Sewing Machines</strong> has sold, serviced and repaired domestic and industrial sewing machines from 415 St Saviours Road, Leicester LE5 4HH since 1982. PKSM’s parts department stocks over 5,000 spare parts, accessories and consumables for domestic and industrial machines, including needles from brands such as Groz-Beckert and Organ. Send the make and model and they will help identify the right part. Visit <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>.</p></aside>"
+    },
+    {
+      "h2": "Genuine vs compatible parts",
+      "html": "<p>Compatible parts can be good value for consumables like bobbins and feet, but for timing-critical parts such as hooks and loopers, quality matters. Poorly made hooks can cause skipped stitches and damage.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are all sewing machine needles the same?",
+      "a": "No. Most domestic machines use the 130/705H system, but industrial machines use other systems such as DBx1 or DCx27. Sizes and point types also vary by fabric."
+    },
+    {
+      "q": "Where can I find parts for an old Singer?",
+      "a": "Specialist dealers with large parts stocks, such as PK Sewing Machines in Leicester, can often supply or source parts for older machines. Have the model number ready."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    },
+    {
+      "title": "Groz-Beckert: sewing needles",
+      "url": "https://www.groz-beckert.com/"
+    },
+    {
+      "title": "SCHMETZ: needle guides",
+      "url": "https://www.schmetz.com/"
+    }
+  ],
+  "related": [
+    "haberdashery-and-accessories",
+    "sewing-machine-repairs",
+    "pk-sewing-machines-leicester"
+  ]
+}

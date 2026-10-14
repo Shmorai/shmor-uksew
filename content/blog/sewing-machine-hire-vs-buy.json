@@ -1,0 +1,48 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/sewing-machine-hire-vs-buy",
+  "type": "post",
+  "date": "2026-09-24",
+  "title": "Sewing Machine Hire vs Buy: Which Is Better Value?",
+  "description": "Should you hire or buy a sewing machine? We compare short-term rental, buying new and buying a tested used machine for projects, courses and small businesses.",
+  "h1": "Sewing machine hire vs buy",
+  "eyebrow": "Rental services",
+  "intro": "For a one-off project, hire can make sense. For anything longer, buying, especially used, often wins. Here is how to decide.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1606501126768-b78d4569d3f9",
+    "alt": "Person sewing at a machine",
+    "credit": "Alexander Grey",
+    "creditUrl": "https://unsplash.com/@sharonmccutcheon"
+  },
+  "keywords": [
+    "sewing machine hire",
+    "rent sewing machine",
+    "hire vs buy sewing machine",
+    "sewing machine rental uk"
+  ],
+  "cardText": "Short-term rental compared with buying new or used.",
+  "sections": [
+    {
+      "h2": "When hire wins",
+      "html": "<ul><li>One project with a clear end date.</li><li>Trying a machine type before buying.</li><li>A short-term production spike for a small business.</li></ul>"
+    },
+    {
+      "h2": "When buying wins",
+      "html": "<p>If you will sew for more than a few months, the cost of hire adds up quickly. A tested used machine keeps much of its value, so you can sell it or part-exchange it later.</p>"
+    },
+    {
+      "h2": "Questions to ask a hire company",
+      "html": "<ul><li>What is the total cost, including deposit and delivery?</li><li>Has the machine been serviced and safety-checked?</li><li>What happens if it breaks?</li><li>Are needles, bobbins and a manual included?</li></ul>"
+    },
+    {
+      "h2": "A middle route",
+      "html": "<p>Buy a used machine from a specialist and part-exchange it later. In Leicester, <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> sells tested used machines, offers part exchange and can arrange collection and delivery. Read our <a href=\"/sewing-machine-hire/\">hire guide</a> and see <a href=\"/pk-sewing-machines-leicester/\">the PKSM profile</a>. Leicester’s <a href=\"/leicester-hosiery/\">textile history</a> means there is a deep pool of good used machines in the region.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

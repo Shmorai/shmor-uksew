@@ -1,0 +1,54 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/learn-to-sew-sewing-bee",
+  "type": "post",
+  "date": "2026-09-21",
+  "title": "Inspired by the Sewing Bee? How to Start Sewing in the UK",
+  "description": "Watched The Great British Sewing Bee and want to start sewing? The kit you need, first projects, classes and how to choose a first machine without overspending.",
+  "h1": "Inspired by the Sewing Bee? Start here",
+  "eyebrow": "Getting started",
+  "intro": "Series 12 of The Great British Sewing Bee aired on BBC One in summer 2026. If it has inspired you to sew, here is how to begin.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1533758488827-1ed0f9b03899",
+    "alt": "Person sewing with a sewing machine",
+    "credit": "Roman Spiridonov",
+    "creditUrl": "https://unsplash.com/@spiridonov"
+  },
+  "keywords": [
+    "great british sewing bee",
+    "sewing bee",
+    "learn to sew",
+    "beginner sewing",
+    "sewing classes",
+    "first sewing machine"
+  ],
+  "cardText": "Kit, first projects and choosing a first machine after the Sewing Bee.",
+  "sections": [
+    {
+      "h2": "The Sewing Bee effect",
+      "html": "<p>Series 12 of <em>The Great British Sewing Bee</em> started on BBC One in July 2026, with judges Patrick Grant and Esme Young and new host Sophie Willan. Past series are on BBC iPlayer, and they are a great way to learn techniques by watching.</p>"
+    },
+    {
+      "h2": "The starter kit",
+      "html": "<ul><li>A reliable sewing machine (see below).</li><li>Fabric shears, snips and a seam ripper.</li><li>Pins, a tape measure and tailor’s chalk.</li><li>Good all-purpose thread and spare needles.</li><li>An iron. Pressing is half of sewing.</li></ul>"
+    },
+    {
+      "h2": "First projects",
+      "html": "<ol><li>A tote bag (straight seams).</li><li>A cushion cover with an envelope back.</li><li>An elastic-waist skirt or pyjama bottoms.</li><li>A simple top in stable woven cotton.</li></ol>"
+    },
+    {
+      "h2": "Your first machine",
+      "html": "<p>Choose a simple, well-supported machine, new or serviced used. Our <a href=\"/blog/how-to-choose-a-sewing-machine/\">buyer’s guide</a> walks you through it. In Leicester, <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> can show you machines in person. Leicester’s <a href=\"/leicester-hosiery/\">textile heritage</a> makes it a fitting place to start.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Simply Sewing: The Great British Sewing Bee, your complete guide",
+      "url": "https://simplysewingmag.com/news/the-great-british-sewing-bee-your-complete-guide"
+    },
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

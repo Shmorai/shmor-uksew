@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/how-often-to-service-a-sewing-machine",
+  "type": "post",
+  "date": "2026-10-12",
+  "title": "How Often Should You Service a Sewing Machine?",
+  "description": "How often to service a home or industrial sewing machine, what a service involves, warning signs to watch for and what you can safely do yourself.",
+  "h1": "How often should you service a sewing machine?",
+  "eyebrow": "Maintenance",
+  "intro": "A sewing machine is a precision tool full of moving parts. A little regular care, plus a professional service now and then, keeps it stitching beautifully.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1524292332709-b33366a7f165",
+    "alt": "Engineer servicing a sewing machine",
+    "credit": "Lidya Nada",
+    "creditUrl": "https://unsplash.com/@lidyanada"
+  },
+  "keywords": [
+    "sewing machine service",
+    "how often service sewing machine",
+    "sewing machine maintenance",
+    "sewing machine service leicester"
+  ],
+  "cardText": "Service intervals, warning signs and what to do yourself between services.",
+  "sections": [
+    {
+      "h2": "The short answer",
+      "html": "<p>For a home machine in regular use, a professional service roughly once a year is a sensible habit, or sooner if stitch quality changes. Machines used lightly may go longer. Industrial machines in daily production need daily care from the operator and regular checks by an engineer.</p>"
+    },
+    {
+      "h2": "What you can do between services",
+      "html": "<ul><li>Change the needle every project or so, and straight away if it is bent or blunt.</li><li>Brush lint from the bobbin area and feed dogs (unplug first).</li><li>Oil only where the manual says, with sewing machine oil. Many modern domestic machines should not be oiled by the owner.</li><li>Cover the machine when not in use.</li></ul>"
+    },
+    {
+      "h2": "Warning signs",
+      "html": "<p>Skipped stitches, loops on the underside, knocking noises, a sluggish motor or uneven feeding are all reasons to book a service. Our <a href=\"/blog/common-sewing-machine-problems/\">troubleshooting guide</a> covers the quick fixes to try first.</p>"
+    },
+    {
+      "h2": "What a service includes",
+      "html": "<p>Typically: an inspection and test, a deep clean of lint and old oil, lubrication, tension and timing adjustment, and a test sew. Any worn parts should be explained before they are replaced.</p>"
+    },
+    {
+      "h2": "Booking a service in Leicester",
+      "html": "<p><a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> services domestic and industrial machines in its Leicester workshop and lists servicing from £35 on its website. Leicester engineers have kept machines running since the days of <a href=\"/leicester-hosiery/\">the city’s great hosiery mills</a>. Read more on our <a href=\"/sewing-machine-repairs/\">repairs page</a> or <a href=\"/pk-sewing-machines-leicester/\">PKSM profile</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Should I oil my sewing machine?",
+      "a": "Only if the manual tells you to. Many older and industrial machines need regular oiling; many modern domestic machines are sealed and should be oiled only by an engineer."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

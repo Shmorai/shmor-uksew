@@ -1,0 +1,161 @@
+{
+  "updated": "2026-10-14",
+  "slug": "uk-hosiery-news",
+  "title": "UK Hosiery & Textile News: Best Reads from the Sector",
+  "description": "A curated reading list from the UK hosiery, knitwear and sewing sector: UKFT, De Montfort University, Knitting Together, Story of Leicester, museums and shows.",
+  "eyebrow": "Sector reading list · Updated October 2026",
+  "h1": "UK hosiery and textile sector: the best reads",
+  "intro": "Hand-picked articles and resources from respected UK sources on hosiery, knitwear, textiles and sewing. Summaries are ours; follow the links for the full stories.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1741176505800-caaa3a52631a",
+    "alt": "Workers sewing textiles in a large factory",
+    "credit": "EqualStock",
+    "creditUrl": "https://unsplash.com/@equalstock"
+  },
+  "cardText": "Curated articles from UKFT, DMU, Knitting Together, Story of Leicester and more.",
+  "keywords": [
+    "hosiery news",
+    "textile news uk",
+    "knitwear industry",
+    "ukft",
+    "leicester made",
+    "uk manufacturing",
+    "knitting industry",
+    "fashion manufacturing uk"
+  ],
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "Industry and manufacturing",
+      "items": [
+        {
+          "icon": "briefcase",
+          "badge": "UKFT",
+          "title": "Leicester Made & Regions 2026",
+          "text": "The UK Fashion & Textile Association’s page for the April 2026 showcase of UK manufacturers, knitters, dyers and trim suppliers.",
+          "href": "https://ukft.org/leicester-made-26/",
+          "cta": "Read at source"
+        },
+        {
+          "icon": "users",
+          "badge": "De Montfort University",
+          "title": "Industry gathers at DMU to champion Leicester’s textile sector",
+          "text": "DMU’s report from the Leicester Made day, on support and collaboration for local factories.",
+          "href": "https://www.dmu.ac.uk/about-dmu/news/2026/april/industry-gathers-at-dmu-to-champion-the-future-of-leicesters-textile-sector.aspx",
+          "cta": "Read at source"
+        },
+        {
+          "icon": "globe",
+          "badge": "Knitting Industry",
+          "title": "Knitting Industry news",
+          "text": "Trade news on knitting machinery, yarns and knitwear manufacturing, including Leicestershire firms.",
+          "href": "https://knittingindustry.com/",
+          "cta": "Read at source"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "title": "Hosiery heritage",
+      "items": [
+        {
+          "icon": "pin",
+          "badge": "Story of Leicester",
+          "title": "Leicester clothes the world",
+          "text": "Leicester City Council’s history of the city’s hosiery and knitwear trade, including Wolsey.",
+          "href": "https://www.storyofleicester.info/city-stories/leicester-clothes-the-world/",
+          "cta": "Read at source"
+        },
+        {
+          "icon": "store",
+          "badge": "Story of Leicester",
+          "title": "Corah and Sons, St Margaret’s Works",
+          "text": "The rise of one of Britain’s largest hosiery factories.",
+          "href": "https://storyofleicester.info/a-working-town/corah-and-sons-st-margarets-works/",
+          "cta": "Read at source"
+        },
+        {
+          "icon": "file",
+          "badge": "Knitting Together",
+          "title": "The companies",
+          "text": "Histories of the East Midlands knitting firms, from Corah to Wolsey.",
+          "href": "https://www.knittingtogether.org.uk/behind-the-scenes/the-companies/",
+          "cta": "Read at source"
+        },
+        {
+          "icon": "message",
+          "badge": "University of Leicester",
+          "title": "The hosiery industry",
+          "text": "Oral histories from people who worked in the East Midlands hosiery trade.",
+          "href": "https://le.ac.uk/emoha/themes/the-hosiery-industry",
+          "cta": "Read at source"
+        },
+        {
+          "icon": "file",
+          "badge": "English Local History",
+          "title": "Worlds of framework knitters in Leicestershire",
+          "text": "Dave Fogg Postles on framework knitting communities, c.1600 to c.1850.",
+          "href": "https://www.englishlocalhistory.org/wp/2026/04/30/worlds-of-framework-knitters-in-leicestershire-by-dave-fogg-postles-may-2026/",
+          "cta": "Read at source"
+        },
+        {
+          "icon": "zap",
+          "badge": "Nottinghamshire HER",
+          "title": "Inventions from Nottingham: the stocking frame",
+          "text": "How William Lee’s 1589 invention started an industry.",
+          "href": "https://her.nottinghamshire.gov.uk/whats-new/inventions-from-nottingham-the-stocking-frame",
+          "cta": "Read at source"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "title": "Shows, museums and TV",
+      "items": [
+        {
+          "icon": "calendar",
+          "badge": "Alexandra Palace",
+          "title": "Knit + Stitch",
+          "text": "The show formerly known as The Knitting & Stitching Show. Harrogate follows in November.",
+          "href": "https://www.alexandrapalace.com/whats-on/knit-stitch/",
+          "cta": "Read at source"
+        },
+        {
+          "icon": "clock",
+          "badge": "Ruddington",
+          "title": "The Framework Knitters Museum",
+          "text": "Working frames and the story of the knitters, in Nottinghamshire.",
+          "href": "https://frameworkknittersmuseum.org.uk/",
+          "cta": "Read at source"
+        },
+        {
+          "icon": "pin",
+          "badge": "Visit Leicester",
+          "title": "Wigston Framework Knitters Museum",
+          "text": "A master hosier’s house and frame shop, preserved near Leicester.",
+          "href": "https://visitleicester.info/point-of-interest/wigston-framework-knitters-museum/",
+          "cta": "Read at source"
+        },
+        {
+          "icon": "tv",
+          "badge": "Simply Sewing",
+          "title": "The Great British Sewing Bee: your complete guide",
+          "text": "Everything about the BBC sewing competition that inspired a new generation.",
+          "href": "https://simplysewingmag.com/news/the-great-british-sewing-bee-your-complete-guide",
+          "cta": "Read at source"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "About this reading list",
+      "html": "<p>We link to original reporting and archives rather than copying them. Summaries are written by UK Sew. For our own articles, see the <a href=\"/blog/\">UK Sew journal</a>, and for Leicester’s story, <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a>.</p>"
+    }
+  ],
+  "related": [
+    "leicester-hosiery",
+    "blog/leicester-made-2026",
+    "blog/knit-and-stitch-show-harrogate"
+  ]
+}

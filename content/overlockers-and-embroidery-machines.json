@@ -1,0 +1,53 @@
+{
+  "updated": "2026-10-14",
+  "slug": "overlockers-and-embroidery-machines",
+  "title": "Overlockers, Coverstitch & Embroidery Machines UK Guide",
+  "description": "Overlockers (sergers), coverstitch and embroidery machines explained: what they do, who needs one and what to check before you buy one in the UK.",
+  "eyebrow": "Specialist machines",
+  "h1": "Overlockers, coverstitch and embroidery machines",
+  "intro": "The specialist machines that give home-sewn clothes a professional finish, and the embroidery machines that personalise them.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1671535108620-d169ce916f09",
+    "alt": "Embroidery on black cloth with scissors",
+    "credit": "Ksenia Yakovleva",
+    "creditUrl": "https://unsplash.com/@ksyfffka07"
+  },
+  "cardText": "Overlockers, coverstitch and embroidery machines: what they do and who needs one.",
+  "keywords": [
+    "overlocker",
+    "serger",
+    "coverstitch machine",
+    "embroidery machine",
+    "overlocker uk",
+    "brother embroidery machine"
+  ],
+  "sections": [
+    {
+      "h2": "Overlockers (sergers)",
+      "html": "<p>An overlocker stitches, trims and neatens a seam in one pass using three or four threads (some use five). It is the machine that makes home-sewn T-shirts and jersey dresses look shop-bought. Look for <strong>differential feed</strong>, which stops knits stretching or puckering, and easy lower-looper threading.</p>"
+    },
+    {
+      "h2": "Coverstitch",
+      "html": "<p>Coverstitch machines sew the parallel rows of stitching you see on T-shirt hems, with a chain on the back that stretches. Some machines combine overlock and coverstitch, but switching between modes takes time.</p>"
+    },
+    {
+      "h2": "Embroidery machines",
+      "html": "<p>Embroidery machines stitch digitised designs inside a hoop. The <strong>maximum hoop size</strong> decides how large a design can be, so check it first. Combination sewing-and-embroidery machines save space but tie up one machine for both jobs.</p>"
+    },
+    {
+      "h2": "Getting set up",
+      "html": "<p>Specialist machines reward a proper demonstration. <a href=\"/pk-sewing-machines-leicester/\">PK Sewing Machines in Leicester</a> sells domestic overlocker and embroidery equipment, and services them too.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need an overlocker?",
+      "a": "Not to start sewing. A zigzag stitch can finish seams. But if you sew a lot of jersey or want professional finishes, an overlocker saves time."
+    }
+  ],
+  "related": [
+    "sewing-machines",
+    "blog/overlocker-beginners-guide",
+    "haberdashery-and-accessories"
+  ]
+}

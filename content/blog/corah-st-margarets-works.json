@@ -1,0 +1,65 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/corah-st-margarets-works",
+  "type": "post",
+  "date": "2026-10-02",
+  "title": "Corah of Leicester: The Story of St Margaret’s Works",
+  "description": "How Nathaniel Corah’s hosiery business grew into St Margaret’s Works, one of the largest knitting factories in Britain and a long-time Marks & Spencer supplier.",
+  "h1": "Corah and St Margaret’s Works",
+  "eyebrow": "Heritage · Leicester firms",
+  "intro": "Few names sum up Leicester’s hosiery trade like Corah. Here is how a framesmith’s business became an industrial giant.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1610891015188-5369212db097",
+    "alt": "Industrial textile factory machinery",
+    "credit": "Lalit Kumar",
+    "creditUrl": "https://unsplash.com/@klalit"
+  },
+  "keywords": [
+    "corah leicester",
+    "st margarets works",
+    "n corah and sons",
+    "leicester hosiery factory",
+    "marks and spencer supplier"
+  ],
+  "cardText": "From framesmith to factory giant: Corah’s Leicester story.",
+  "sections": [
+    {
+      "h2": "Nathaniel Corah",
+      "html": "<p>Nathaniel Corah was born in 1777 and trained as a framesmith. He built a business buying hosiery from local makers and selling it in Birmingham, and in the 1820s began moving towards factory production. His sons joined in 1830, creating N. Corah &amp; Sons.</p>"
+    },
+    {
+      "h2": "Building St Margaret’s Works",
+      "html": "<p>In 1865 the foundation stone of St Margaret’s Works was laid on a large site beside St Margaret’s Church. The firm took the image of St Margaret as its trademark, one of the earliest registered trademarks for knitted goods.</p>"
+    },
+    {
+      "h2": "A national supplier",
+      "html": "<p>Corah exhibited at the 1851 Great Exhibition and became a supplier to Marks &amp; Spencer from 1926. Employment peaked at several thousand people around the late 1960s, making it one of the largest single-site hosiery works anywhere.</p>"
+    },
+    {
+      "h2": "The end of an era",
+      "html": "<p>In the late 1980s the company passed out of the founding family’s hands. Its story is remembered through archives and oral histories, and in the buildings that still stand in the city.</p>"
+    },
+    {
+      "h2": "Leicester’s machinery tradition",
+      "html": "<p>Factories like Corah’s depended on skilled mechanics. That tradition lives on with local specialists such as <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a>. See <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> for more firms and museums.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Story of Leicester: Corah and Sons, St Margaret’s Works",
+      "url": "https://storyofleicester.info/a-working-town/corah-and-sons-st-margarets-works/"
+    },
+    {
+      "title": "Knitting Together: Corah plc",
+      "url": "https://knittingtogether.org.uk/behind-the-scenes/the-companies/corah-plc/"
+    },
+    {
+      "title": "Wikipedia: N. Corah & Sons",
+      "url": "https://en.wikipedia.org/wiki/N._Corah_%26_Sons"
+    },
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "updated": "2026-10-14",
+  "slug": "pk-sewing-machines-leicester",
+  "nav": "PKSM Leicester",
+  "title": "PK Sewing Machines Leicester: Sales, Repairs & Parts",
+  "description": "PK Sewing Machines (PKSM), Leicester: family-run since 1982. New and used domestic and industrial machines, servicing, repairs, 5,000+ parts and call-outs.",
+  "eyebrow": "Featured company · Leicester · Est. 1982",
+  "h1": "PK Sewing Machines, Leicester",
+  "intro": "A family-run Leicester specialist selling, servicing and repairing domestic and industrial sewing machines since 1982.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1626274890657-e28d5b65b04b",
+    "alt": "Black sewing machine on a wooden workshop table",
+    "credit": "Claudio Schwarz",
+    "creditUrl": "https://unsplash.com/@purzlbaum"
+  },
+  "cardText": "Leicester’s family-run sewing machine specialist since 1982: sales, servicing, repairs and parts.",
+  "keywords": [
+    "pk sewing machines",
+    "pksm",
+    "pksm leicester",
+    "sewing machine shop leicester",
+    "sewing machine repair leicester",
+    "st saviours road",
+    "sewing machines leicester",
+    "industrial sewing machine leicester"
+  ],
+  "heroHtml": "<div class=\"hero-actions\"><a class=\"btn-red\" href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">Visit pksm.co.uk ↗</a><a class=\"btn-ghost\" href=\"tel:01162736552\">Call 0116 273 6552</a></div>",
+  "search": false,
+  "blocks": [
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "calendar",
+          "title": "Since 1982",
+          "text": "family-run in Leicester"
+        },
+        {
+          "icon": "tag",
+          "title": "From £35",
+          "text": "servicing (as listed by PKSM)"
+        },
+        {
+          "icon": "truck",
+          "title": "East Midlands",
+          "text": "industrial call-outs"
+        },
+        {
+          "icon": "globe",
+          "title": "UK-wide",
+          "text": "sales and repair options"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "title": "What PKSM offers",
+      "items": [
+        {
+          "icon": "gauge",
+          "title": "Servicing & repairs",
+          "text": "Workshop servicing and repairs for domestic and industrial machines, with work explained clearly."
+        },
+        {
+          "icon": "store",
+          "title": "New & used sales",
+          "text": "Domestic, industrial, overlock, embroidery and specialist machines. Used machines are tested before sale and sold as seen."
+        },
+        {
+          "icon": "truck",
+          "title": "Industrial call-outs",
+          "text": "On-site support across the East Midlands for workrooms and production."
+        },
+        {
+          "icon": "tag",
+          "title": "Parts & accessories",
+          "text": "Needles, feet, bobbins, belts, motors, tables, thread and harder-to-find parts."
+        },
+        {
+          "icon": "repeat",
+          "title": "Buy & part exchange",
+          "text": "Selected machines bought outright or part-exchanged against a replacement."
+        },
+        {
+          "icon": "compass",
+          "title": "Collection & delivery",
+          "text": "Can be arranged; fees depend on machine, location and distance."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "About PK Sewing Machines",
+      "html": "<p><a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> was started in 1982 by two brothers and is still run by the family. Over four decades it has built long-standing contacts across the UK sewing machine trade, working with home sewers, tailors, alteration businesses, schools, workrooms and commercial manufacturers.</p><p>The business describes its approach simply: family-run, friendly, fairly priced, and still testing machines on its own bench before they leave the shop.</p>"
+    },
+    {
+      "h2": "One workshop, home and trade",
+      "html": "<p><strong>Home and hobby</strong>: domestic machines, overlockers, embroidery equipment, accessories, repairs and servicing, buying and part exchange.</p><p><strong>Trade and industrial</strong>: industrial lockstitch, overlock and coverstitch machines, cutting and pressing equipment, trade parts and consumables, and engineering support across the East Midlands.</p>"
+    },
+    {
+      "h2": "The parts department",
+      "html": "<p>PKSM stocks over 5,000 spare parts, accessories and consumables for domestic and industrial machines across major brands, from needles, bobbins and cases to hooks, loopers, feed dogs and tension parts. For older machines it uses its industry contacts to help source hard-to-find replacements. Send the make and model if you are unsure what fits.</p>"
+    },
+    {
+      "h2": "Brands",
+      "html": "<p>PKSM’s website shows makes including Singer, Janome, Brother, Juki, Jack, Bernina and Pfaff, and parts and needle brands including Groz-Beckert, Organ and Yamato.</p>"
+    },
+    {
+      "h2": "Current stock",
+      "html": "<p>Stock changes quickly. Call the shop for today’s availability or view PKSM’s <a href=\"https://www.ebay.co.uk/sch/i.html?_ssn=rajsud57\" rel=\"noopener\" target=\"_blank\">eBay store</a> for current machines, parts and prices.</p>"
+    },
+    {
+      "h2": "Visit or contact",
+      "html": "<ul class=\"contact-list\"><li><strong>Address</strong>: 415 St Saviours Road, Leicester, LE5 4HH</li><li><strong>Telephone</strong>: <a href=\"tel:01162736552\">0116 273 6552</a></li><li><strong>Email</strong>: <a href=\"mailto:info@pksm.co.uk\">info@pksm.co.uk</a></li><li><strong>Opening</strong>: Monday to Friday 9:00 to 17:00; closed Saturday and Sunday</li><li><strong>Website</strong>: <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">www.pksm.co.uk</a></li></ul><p>Details as published on pksm.co.uk; check with the shop before travelling.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is PK Sewing Machines?",
+      "a": "415 St Saviours Road, Leicester, LE5 4HH. Open Monday to Friday, 9:00 to 17:00."
+    },
+    {
+      "q": "Does PKSM repair industrial sewing machines?",
+      "a": "Yes. PKSM repairs domestic and industrial machines and offers on-site industrial call-outs across the East Midlands."
+    },
+    {
+      "q": "Does PKSM buy used sewing machines?",
+      "a": "PKSM buys selected machines outright and offers part exchange against replacement machines. Contact them with details of your machine."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    },
+    {
+      "title": "PK Sewing Machines on eBay",
+      "url": "https://www.ebay.co.uk/sch/i.html?_ssn=rajsud57"
+    }
+  ],
+  "related": [
+    "sewing-machine-repairs",
+    "sewing-machine-parts",
+    "leicester-hosiery"
+  ],
+  "ctaSearch": false
+}

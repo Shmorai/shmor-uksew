@@ -1,0 +1,52 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/industrial-sewing-machine-maintenance",
+  "type": "post",
+  "date": "2026-09-16",
+  "title": "Industrial Sewing Machine Maintenance: A Workroom Routine",
+  "description": "A practical daily, weekly and periodic maintenance routine for industrial sewing machines: oiling, cleaning, needles, belts and when to call an engineer.",
+  "h1": "Industrial sewing machine maintenance",
+  "eyebrow": "Trade · Maintenance",
+  "intro": "Downtime costs money. A simple routine keeps industrial lockstitch and overlock machines running smoothly for years.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1675176785803-bffbbb0cd2f4",
+    "alt": "A row of industrial machines",
+    "credit": "Kevin Limbri",
+    "creditUrl": "https://unsplash.com/@limkage"
+  },
+  "keywords": [
+    "industrial sewing machine maintenance",
+    "oiling industrial sewing machine",
+    "industrial sewing machine repair",
+    "sewing machine call out"
+  ],
+  "cardText": "Daily, weekly and periodic care for production machines.",
+  "sections": [
+    {
+      "h2": "Daily",
+      "html": "<ul><li>Check the oil level and oil where the manual says (not needed on dry-head models).</li><li>Brush lint from the hook, bobbin area and feed dogs.</li><li>Check the needle for damage.</li></ul>"
+    },
+    {
+      "h2": "Weekly",
+      "html": "<ul><li>Clean under the needle plate.</li><li>Check belts for wear and correct tension.</li><li>Wipe away excess oil to keep it off the work.</li></ul>"
+    },
+    {
+      "h2": "Periodically",
+      "html": "<p>Have an engineer check timing, tension and feed, change oil in machines with a sump, and inspect the motor. Keep a log for each machine.</p>"
+    },
+    {
+      "h2": "Spares to keep in stock",
+      "html": "<p>Needles in your sizes, bobbins, a spare bobbin case, belts and the presser feet you use most. A good parts supplier will help you build a kit.</p>"
+    },
+    {
+      "h2": "Engineering support",
+      "html": "<p><a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> offers on-site industrial call-outs across the East Midlands and stocks trade parts for lockstitch, overlock and coverstitch machines. Leicester’s <a href=\"/leicester-hosiery/\">hosiery and knitwear factories</a> have kept engineers like these busy for generations. See our <a href=\"/industrial-sewing-machines/\">industrial guide</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

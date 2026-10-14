@@ -1,0 +1,60 @@
+{
+  "updated": "2026-10-14",
+  "slug": "industrial-sewing-machines",
+  "title": "Industrial Sewing Machines UK: Lockstitch, Overlock & More",
+  "description": "Industrial sewing machines for UK workrooms: lockstitch, overlock, coverstitch, motors and tables, plus parts and call-out support in the East Midlands.",
+  "eyebrow": "Trade · Workrooms · Production",
+  "h1": "Industrial sewing machines for UK workrooms",
+  "intro": "What to know before you buy, run or maintain industrial sewing machines, from single-needle lockstitch to interlock and coverstitch.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1655122878062-a9e885391a1b",
+    "alt": "Large room of blue industrial machines",
+    "credit": "Lalit Kumar",
+    "creditUrl": "https://unsplash.com/@klalit"
+  },
+  "cardText": "Lockstitch, overlock, coverstitch, servo motors and tables for trade and production.",
+  "keywords": [
+    "industrial sewing machine",
+    "industrial lockstitch",
+    "industrial overlocker",
+    "juki industrial",
+    "jack sewing machine",
+    "servo motor",
+    "sewing machine call out",
+    "east midlands"
+  ],
+  "sections": [
+    {
+      "h2": "The main types",
+      "html": "<ul><li><strong>Single-needle lockstitch</strong>: the backbone of most workrooms, for straight seams at high speed.</li><li><strong>Overlock and safety stitch</strong>: neatens and seams knitted and woven fabrics.</li><li><strong>Interlock and coverstitch</strong>: hems and flat seams for jersey, sportswear and underwear, a staple of the hosiery and knitwear trade.</li><li><strong>Walking foot and compound feed</strong>: for leather, upholstery and heavy layers.</li><li><strong>Specialist machines</strong>: buttonhole, button sew, bar tack, blind hem and chainstitch.</li></ul>"
+    },
+    {
+      "h2": "Motors, tables and set-up",
+      "html": "<p>Most modern industrial machines are sold as a head, table and motor. <strong>Servo motors</strong> are quieter and use less power than traditional clutch motors, and give finer speed control at low revs. Check the table height, the knee lifter and that the machine is level, and make sure the electrical supply suits the motor.</p>"
+    },
+    {
+      "h2": "Maintenance and downtime",
+      "html": "<p>Industrial machines need daily oiling (unless they are dry-head models), regular cleaning of lint around the hook and feed dogs, and periodic timing checks. A stocked parts supplier and an engineer who can come out to you keep downtime short.</p><aside class=\"pk-callout\"><p class=\"pk-k\">Leicester specialist</p><p><strong>PK Sewing Machines</strong> has sold, serviced and repaired domestic and industrial sewing machines from 415 St Saviours Road, Leicester LE5 4HH since 1982. PKSM supplies industrial lockstitch, overlock and coverstitch machines and parts, with on-site call-outs for commercial customers across the East Midlands. Call 0116 273 6552 or visit <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>.</p></aside>"
+    },
+    {
+      "h2": "Brands you will see",
+      "html": "<p>Juki, Jack, Brother, Yamato and Pfaff are all common in UK industrial settings. Parts availability matters more than the badge: ask a dealer which models they can support. See our <a href=\"/reviews/\">brand reviews</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do industrial machines need three-phase power?",
+      "a": "Many machines with modern servo motors run on a standard single-phase supply, but always check the motor plate and ask the dealer before buying."
+    },
+    {
+      "q": "How often should an industrial machine be oiled?",
+      "a": "Follow the manual. Many oiled machines need checking daily in production use. Dry-head machines need little or no oil in the head."
+    }
+  ],
+  "related": [
+    "sewing-machine-parts",
+    "sewing-machine-repairs",
+    "blog/industrial-sewing-machine-maintenance",
+    "blog/domestic-vs-industrial-sewing-machines"
+  ]
+}

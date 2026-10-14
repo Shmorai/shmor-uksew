@@ -1,0 +1,59 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/leicester-made-2026",
+  "type": "post",
+  "date": "2026-09-25",
+  "title": "Leicester Made 2026: What It Means for UK Textiles",
+  "description": "Leicester Made & Regions 2026 brought UK manufacturers, knitters and brands to De Montfort University. What happened and why onshore textile making matters.",
+  "h1": "Leicester Made 2026 and the future of UK textiles",
+  "eyebrow": "Sector news",
+  "intro": "In April 2026, manufacturers, brands and educators met at De Montfort University to champion textile making in Leicester and the regions.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1741176505800-caaa3a52631a",
+    "alt": "Workers sewing textiles in a factory",
+    "credit": "EqualStock",
+    "creditUrl": "https://unsplash.com/@equalstock"
+  },
+  "keywords": [
+    "leicester made",
+    "leicester made 2026",
+    "uk textile manufacturing",
+    "ukft",
+    "fashion enter",
+    "de montfort university",
+    "onshore manufacturing"
+  ],
+  "cardText": "The April 2026 showcase for UK textile manufacturing at DMU.",
+  "sections": [
+    {
+      "h2": "The event",
+      "html": "<p>Leicester Made &amp; Regions 2026 took place on 24 April 2026 at The Venue at De Montfort University. It was organised by Fashion-Enter Ltd and the Apparel and Textile Manufacturers Federation, and promoted by UKFT, with exhibitors spanning apparel, textiles, knitters, dyers and trimming suppliers.</p>"
+    },
+    {
+      "h2": "Why it matters",
+      "html": "<p>Organisers pointed to supply chain disruption, shipping pressures and new transparency rules as reasons for brands to look again at making in the UK. Reporting after the day highlighted the strength of local factories and the need for support and closer collaboration across the sector.</p>"
+    },
+    {
+      "h2": "The machinery behind the making",
+      "html": "<p>Onshore manufacturing needs well-maintained machines and fast access to parts. Leicester engineers such as <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a>, with industrial call-outs across the East Midlands, are part of that story. See our <a href=\"/industrial-sewing-machines/\">industrial machines guide</a>.</p>"
+    },
+    {
+      "h2": "Part of a long tradition",
+      "html": "<p>Leicester has been making textiles for centuries. Read <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> and our <a href=\"/uk-hosiery-news/\">sector reading list</a> for more.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "UKFT: Leicester Made 26",
+      "url": "https://ukft.org/leicester-made-26/"
+    },
+    {
+      "title": "De Montfort University: Industry gathers at DMU to champion the future of Leicester’s textile sector",
+      "url": "https://www.dmu.ac.uk/about-dmu/news/2026/april/industry-gathers-at-dmu-to-champion-the-future-of-leicesters-textile-sector.aspx"
+    },
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

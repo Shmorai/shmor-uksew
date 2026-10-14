@@ -1,0 +1,54 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/bobbins-and-bobbin-cases-guide",
+  "type": "post",
+  "date": "2026-09-20",
+  "title": "Bobbins and Bobbin Cases: A Guide to Getting the Right One",
+  "description": "Class 15, class 66, L-style and M-style bobbins explained, plus metal vs plastic, drop-in vs front-loading, and why the wrong bobbin ruins your stitches.",
+  "h1": "Bobbins and bobbin cases explained",
+  "eyebrow": "Parts guide",
+  "intro": "Bobbins look alike, but a few millimetres make all the difference. Here is how to find the right one.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1517146783983-418c681b56c5",
+    "alt": "Assorted coloured thread spools",
+    "credit": "Vishal Banik",
+    "creditUrl": "https://unsplash.com/@vishalbanik16"
+  },
+  "keywords": [
+    "sewing machine bobbins",
+    "class 15 bobbin",
+    "class 66 bobbin",
+    "bobbin case",
+    "m style bobbin",
+    "l style bobbin"
+  ],
+  "cardText": "Class 15, class 66, L and M bobbins, metal vs plastic.",
+  "sections": [
+    {
+      "h2": "Why the right bobbin matters",
+      "html": "<p>A bobbin that is slightly the wrong height or diameter can wobble, causing loops, uneven tension and thread jams. Always use the type your machine is designed for.</p>"
+    },
+    {
+      "h2": "Common types",
+      "html": "<ul><li><strong>Class 15</strong>: one of the most common domestic types, used in many front-loading and drop-in machines.</li><li><strong>Class 66</strong>: used in many older Singer drop-in machines; it has a slightly curved face.</li><li><strong>L-style and M-style</strong>: common in industrial machines, M being larger for longer runs.</li></ul>"
+    },
+    {
+      "h2": "Metal or plastic?",
+      "html": "<p>Use what your machine specifies. Some drop-in systems are designed for plastic bobbins and a metal one can affect tension, and vice versa.</p>"
+    },
+    {
+      "h2": "Bobbin cases",
+      "html": "<p>Front-loading machines use a removable bobbin case with its own tension screw. Drop-in machines have a built-in case. A damaged case causes stitch problems that no amount of rethreading will fix.</p>"
+    },
+    {
+      "h2": "Get a match",
+      "html": "<p>Take the old bobbin or the machine’s model number to a specialist. <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> stocks metal and plastic bobbins, cases and rotary hooks for many makes, from its Leicester parts department. See our <a href=\"/sewing-machine-parts/\">parts guide</a>, and <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> for why the city is still a parts hub.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

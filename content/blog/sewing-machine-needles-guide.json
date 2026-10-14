@@ -1,0 +1,65 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/sewing-machine-needles-guide",
+  "type": "post",
+  "date": "2026-10-08",
+  "title": "Sewing Machine Needles Explained: Sizes, Types & Systems",
+  "description": "A clear guide to sewing machine needles: domestic and industrial systems, sizes like 80/12 and 100/16, and points for jersey, denim, leather and embroidery.",
+  "h1": "Sewing machine needles explained",
+  "eyebrow": "Parts guide",
+  "intro": "The cheapest part of your machine has the biggest effect on stitch quality. Here is how to choose the right needle.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1502217625004-89c03571bcca",
+    "alt": "Macro photo of a sewing machine needle",
+    "credit": "Ilya lix",
+    "creditUrl": "https://unsplash.com/@ilya90"
+  },
+  "keywords": [
+    "sewing machine needles",
+    "needle sizes",
+    "130/705h",
+    "dbx1 needles",
+    "ballpoint needle",
+    "jeans needle",
+    "groz-beckert",
+    "organ needles",
+    "schmetz"
+  ],
+  "cardText": "Needle systems, sizes and points for every fabric.",
+  "sections": [
+    {
+      "h2": "Needle systems",
+      "html": "<p>The <strong>system</strong> is the needle’s shape and length, and it must match your machine. Most domestic machines use <strong>130/705H</strong> (also called 15x1 or HAx1) with a flat shank. Industrial machines use round-shank systems such as <strong>DBx1</strong> (many lockstitch machines) or <strong>DCx27</strong> (many overlockers). Check your manual.</p>"
+    },
+    {
+      "h2": "Sizes",
+      "html": "<p>Sizes are shown as metric/imperial, such as <strong>70/10, 80/12, 90/14, 100/16</strong>. Lower numbers are finer. Use fine needles for silk and lawn, mid sizes for cotton, and heavier sizes for denim and canvas.</p>"
+    },
+    {
+      "h2": "Point types",
+      "html": "<ul><li><strong>Universal</strong>: everyday wovens and some knits.</li><li><strong>Ballpoint / jersey</strong>: pushes between knit fibres instead of piercing them.</li><li><strong>Stretch</strong>: for very elastic fabrics and swimwear.</li><li><strong>Jeans / denim</strong>: sharp and strong for dense weaves.</li><li><strong>Leather</strong>: a cutting point, for leather only.</li><li><strong>Embroidery and metallic</strong>: larger eyes to protect delicate threads.</li></ul>"
+    },
+    {
+      "h2": "When to change",
+      "html": "<p>Change the needle every project or after several hours of sewing, and immediately if it hits a pin. A blunt needle causes skipped stitches and snagged fabric.</p>"
+    },
+    {
+      "h2": "Where to buy",
+      "html": "<p>Needles from brands such as Groz-Beckert, Organ and SCHMETZ are stocked by specialist dealers. <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> in Leicester carries domestic, industrial, embroidery and overlock needle systems; see our <a href=\"/sewing-machine-parts/\">parts guide</a>. Leicester’s knitwear factories, part of <a href=\"/leicester-hosiery/\">the city’s hosiery heritage</a>, still get through needles by the thousand.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "SCHMETZ",
+      "url": "https://www.schmetz.com/"
+    },
+    {
+      "title": "Groz-Beckert",
+      "url": "https://www.groz-beckert.com/"
+    },
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "updated": "2026-10-14",
+  "slug": "leicester-hosiery",
+  "title": "Leicester Hosiery Heritage: The City That Clothed the World",
+  "description": "How Leicester became Britain’s hosiery capital: framework knitting, Corah’s St Margaret’s Works, Wolsey, and the knitwear firms still making there today.",
+  "eyebrow": "Heritage · Leicester · East Midlands",
+  "h1": "Leicester’s hosiery heritage",
+  "intro": "From cottage stocking frames to some of the largest knitting factories in Britain, Leicester spent three centuries clothing the world.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1632944968588-3ec2870641ce",
+    "alt": "Knitted socks and a hat on a wooden table",
+    "credit": "Kate Laine",
+    "creditUrl": "https://unsplash.com/@kikimora33"
+  },
+  "cardText": "Framework knitting, Corah, Wolsey and the knitwear firms still making in Leicester.",
+  "keywords": [
+    "leicester hosiery",
+    "hosiery industry",
+    "framework knitting",
+    "corah",
+    "st margarets works",
+    "wolsey",
+    "leicester knitwear",
+    "textile heritage",
+    "leicester history",
+    "east midlands textiles"
+  ],
+  "blocks": [
+    {
+      "type": "steps",
+      "title": "A timeline in five stitches",
+      "items": [
+        {
+          "icon": "clock",
+          "title": "1589",
+          "text": "William Lee of Calverton, Nottinghamshire, is credited with inventing the stocking frame."
+        },
+        {
+          "icon": "users",
+          "title": "1700s",
+          "text": "Framework knitting spreads through Leicestershire homes; thousands of frames are at work by 1790."
+        },
+        {
+          "icon": "store",
+          "title": "1860s",
+          "text": "Corah lays the foundation stone for St Margaret’s Works in 1865."
+        },
+        {
+          "icon": "star",
+          "title": "1897",
+          "text": "The Leicester hosier that became Wolsey takes the Cardinal’s name."
+        },
+        {
+          "icon": "zap",
+          "title": "Today",
+          "text": "Knitters, dyers and garment makers still trade in Leicester and the region."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "From frames to factories",
+      "html": "<p>Framework knitting was a family trade carried out at home, often in poor conditions. Leicester had several hundred frames in the early 1700s and around 3,000 by 1790. Factory production took over in the second half of the 1800s.</p>"
+    },
+    {
+      "h2": "Corah and St Margaret’s Works",
+      "html": "<p>Nathaniel Corah, born in 1777, built a business buying and selling hosiery and moved towards the factory system in the 1820s. N. Corah &amp; Sons laid the foundation stone of St Margaret’s Works in 1865, near St Margaret’s Church. It became one of the largest hosiery factories in Britain, supplied Marks &amp; Spencer from 1926, and employed thousands of people at its peak around the late 1960s.</p>"
+    },
+    {
+      "h2": "Wolsey",
+      "html": "<p>Wolsey’s roots go back to a Leicester hosier trading in the 1740s and 1750s. The firm moved to a steam-powered factory in 1859 and took the name Wolsey in 1897, after Cardinal Wolsey, who is buried in Leicester Abbey. The old Abbey Lane building still carries the Cardinal’s face.</p>"
+    },
+    {
+      "h2": "Leicester textiles today",
+      "html": "<p>Leicester still has knitters, garment makers, dyers and trimming suppliers. Events such as Leicester Made &amp; Regions, held at De Montfort University in April 2026, bring manufacturers and brands together. Machinery specialists such as <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> keep the city’s production lines and home sewing rooms running. Read more in our <a href=\"/uk-hosiery-news/\">UK hosiery reading list</a>.</p>"
+    },
+    {
+      "h2": "See it for yourself",
+      "html": "<p>The <strong>Wigston Framework Knitters Museum</strong>, just south of Leicester, preserves a master hosier’s house and frame shop. The <strong>Framework Knitters Museum</strong> in Ruddington, Nottinghamshire, has working frames. The <strong>Knitting Together</strong> project and the University of Leicester’s <strong>East Midlands Oral History Archive</strong> collect the stories of the people who worked in the trade.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Story of Leicester: Leicester clothes the world",
+      "url": "https://www.storyofleicester.info/city-stories/leicester-clothes-the-world/"
+    },
+    {
+      "title": "Story of Leicester: Corah and Sons, St Margaret’s Works",
+      "url": "https://storyofleicester.info/a-working-town/corah-and-sons-st-margarets-works/"
+    },
+    {
+      "title": "Knitting Together: the companies",
+      "url": "https://www.knittingtogether.org.uk/behind-the-scenes/the-companies/"
+    },
+    {
+      "title": "University of Leicester: East Midlands Oral History Archive, the hosiery industry",
+      "url": "https://le.ac.uk/emoha/themes/the-hosiery-industry"
+    },
+    {
+      "title": "Wikipedia: N. Corah & Sons",
+      "url": "https://en.wikipedia.org/wiki/N._Corah_%26_Sons"
+    },
+    {
+      "title": "Visit Leicester: Wigston Framework Knitters Museum",
+      "url": "https://visitleicester.info/point-of-interest/wigston-framework-knitters-museum/"
+    }
+  ],
+  "related": [
+    "blog/leicester-hosiery-history",
+    "blog/corah-st-margarets-works",
+    "blog/framework-knitting-museums-east-midlands",
+    "uk-hosiery-news"
+  ]
+}

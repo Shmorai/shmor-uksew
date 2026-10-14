@@ -1,0 +1,61 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/leicester-hosiery-history",
+  "type": "post",
+  "date": "2026-10-04",
+  "title": "Leicester Hosiery History: How the City Clothed the World",
+  "description": "The story of Leicester’s hosiery industry: framework knitters, factory giants like Corah and Wolsey, and why the city became a byword for knitted goods.",
+  "h1": "How Leicester clothed the world",
+  "eyebrow": "Heritage",
+  "intro": "For three centuries, Leicester’s knitters made stockings, underwear and knitwear worn around the world. Here is the story in brief.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1582966772680-860e372bb558",
+    "alt": "Knitted socks in red, white and blue",
+    "credit": "Thái An",
+    "creditUrl": "https://unsplash.com/@johnn21"
+  },
+  "keywords": [
+    "leicester hosiery history",
+    "leicester knitting industry",
+    "hosiery leicester",
+    "framework knitters leicester",
+    "wolsey leicester"
+  ],
+  "cardText": "From cottage frames to factory giants: Leicester’s hosiery story.",
+  "sections": [
+    {
+      "h2": "A frame in every cottage",
+      "html": "<p>The stocking frame, credited to William Lee of Calverton in 1589, slowly spread through the East Midlands. By the early 1700s Leicester had several hundred frames, and by 1790 around 3,000. Whole families worked at home, often in hard conditions and for low pay.</p>"
+    },
+    {
+      "h2": "The factory age",
+      "html": "<p>From the mid-1800s, steam power and new machines moved production into factories. By the end of the century nearly all knitted goods were factory-made. Leicester’s skyline filled with hosiery works.</p>"
+    },
+    {
+      "h2": "The great names",
+      "html": "<p><strong>N. Corah &amp; Sons</strong> built St Margaret’s Works from 1865, one of the largest hosiery factories in Britain. <strong>Wolsey</strong>, whose roots go back to an 18th-century Leicester hosier, took its name in 1897 from Cardinal Wolsey, buried at Leicester Abbey. Read more in our <a href=\"/blog/corah-st-margarets-works/\">Corah story</a>.</p>"
+    },
+    {
+      "h2": "Change and continuity",
+      "html": "<p>Late 20th-century global competition closed many big mills. But Leicester still has knitters, garment makers and dyers, and a strong base of machinery engineers and suppliers.</p>"
+    },
+    {
+      "h2": "Keeping the machines running",
+      "html": "<p>Firms like <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a>, family-run in Leicester since 1982, have supported the city’s workrooms and home sewers for over four decades. Explore our full <a href=\"/leicester-hosiery/\">Leicester hosiery heritage</a> page.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Story of Leicester: Leicester clothes the world",
+      "url": "https://www.storyofleicester.info/city-stories/leicester-clothes-the-world/"
+    },
+    {
+      "title": "University of Leicester: EMOHA, the hosiery industry",
+      "url": "https://le.ac.uk/emoha/themes/the-hosiery-industry"
+    },
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

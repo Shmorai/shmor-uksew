@@ -1,0 +1,217 @@
+{
+  "updated": "2026-10-14",
+  "slug": "reviews",
+  "nav": "Reviews",
+  "navOrder": 7,
+  "title": "Sewing Machine Brand Reviews: Our Editorial Take",
+  "description": "Editorial reviews of the sewing machine brands you meet most in the UK: Singer, Brother, Janome, Juki, Bernina, Pfaff, Jack and Yamato, and who they suit.",
+  "eyebrow": "Reviews · Editorial",
+  "h1": "Sewing machine brand reviews",
+  "intro": "Our honest, editorial take on the brands in UK shops and workrooms: what each is known for and who it suits. No invented star ratings or customer reviews.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1625479144604-ae69462778b7",
+    "alt": "Silver sewing machine on blue fabric",
+    "credit": "Bozhin Karaivanov",
+    "creditUrl": "https://unsplash.com/@bkaraivanov"
+  },
+  "cardText": "Editorial brand overviews: Singer, Brother, Janome, Juki, Bernina, Pfaff, Jack, Yamato.",
+  "keywords": [
+    "sewing machine reviews",
+    "best sewing machine brand",
+    "singer review",
+    "brother sewing machine review",
+    "janome review",
+    "juki review",
+    "bernina review",
+    "pfaff review",
+    "jack sewing machine"
+  ],
+  "blocks": [
+    {
+      "type": "specs",
+      "title": "Brands compared",
+      "tabs": [
+        {
+          "id": "dom",
+          "label": "Domestic"
+        },
+        {
+          "id": "ind",
+          "label": "Industrial"
+        }
+      ],
+      "items": [
+        {
+          "tag": "dom",
+          "mono": "Si",
+          "kind": "Founded USA, 1851",
+          "title": "Singer",
+          "text": "The most famous name in sewing, with a huge legacy of all-metal machines still running in British homes. Modern ranges cover beginner to heavy-duty.",
+          "badge": "Heritage",
+          "specs": [
+            [
+              "Best for",
+              "Beginners, vintage fans"
+            ],
+            [
+              "Our note",
+              "Older models are prized; check parts for newer ones."
+            ]
+          ]
+        },
+        {
+          "tag": "dom",
+          "mono": "Br",
+          "kind": "Japan",
+          "title": "Brother",
+          "text": "A very broad range from simple mechanical machines to computerised sewing and embroidery machines. Also makes industrial machines.",
+          "specs": [
+            [
+              "Best for",
+              "Beginners to embroidery"
+            ],
+            [
+              "Our note",
+              "Easy to find accessories and parts."
+            ]
+          ]
+        },
+        {
+          "tag": "dom",
+          "mono": "Ja",
+          "kind": "Japan",
+          "title": "Janome",
+          "text": "Known for dependable, straightforward domestic machines, and a common sight in schools and colleges.",
+          "badge": "All-rounder",
+          "specs": [
+            [
+              "Best for",
+              "Home sewers, schools"
+            ],
+            [
+              "Our note",
+              "A sensible all-round choice."
+            ]
+          ]
+        },
+        {
+          "tag": "dom",
+          "mono": "Be",
+          "kind": "Switzerland",
+          "title": "Bernina",
+          "text": "Premium domestic machines with a strong following among quilters and dressmakers.",
+          "badge": "Premium",
+          "specs": [
+            [
+              "Best for",
+              "Serious hobbyists"
+            ],
+            [
+              "Our note",
+              "Higher price; buy with dealer support."
+            ]
+          ]
+        },
+        {
+          "tag": "dom",
+          "mono": "Pf",
+          "kind": "Germany (origin)",
+          "title": "Pfaff",
+          "text": "Long-established brand known for its built-in even-feed system on many domestic models.",
+          "specs": [
+            [
+              "Best for",
+              "Dressmaking, quilting"
+            ],
+            [
+              "Our note",
+              "Check feature lists model by model."
+            ]
+          ]
+        },
+        {
+          "tag": "ind",
+          "mono": "Ju",
+          "kind": "Japan",
+          "title": "Juki",
+          "text": "A leading name on production floors worldwide, especially industrial lockstitch and overlock machines. Also makes domestic machines.",
+          "badge": "Trade favourite",
+          "specs": [
+            [
+              "Best for",
+              "Workrooms, heavy use"
+            ],
+            [
+              "Our note",
+              "Excellent parts support in the trade."
+            ]
+          ]
+        },
+        {
+          "tag": "ind",
+          "mono": "Jk",
+          "kind": "China",
+          "title": "Jack",
+          "text": "A major industrial manufacturer whose machines are now common in UK workrooms, often with built-in servo motors.",
+          "specs": [
+            [
+              "Best for",
+              "Production, value"
+            ],
+            [
+              "Our note",
+              "Ask your dealer about model support."
+            ]
+          ]
+        },
+        {
+          "tag": "ind",
+          "mono": "Ya",
+          "kind": "Japan",
+          "title": "Yamato",
+          "text": "Specialist in industrial overlock and coverstitch machines, well known in the knitwear and hosiery trade.",
+          "badge": "Knitwear",
+          "specs": [
+            [
+              "Best for",
+              "Knitwear, hosiery"
+            ],
+            [
+              "Our note",
+              "Specialist parts: use a trade supplier."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How we review",
+      "html": "<p>UK Sew reviews are editorial overviews written from published manufacturer information and trade knowledge. We do not invent star ratings, test scores or customer reviews, and no brand pays to appear here. Models change often, so always check the current specification with the manufacturer or a dealer.</p>"
+    },
+    {
+      "h2": "The brand matters less than support",
+      "html": "<p>Any good machine will need servicing and parts eventually. Choose a model your local dealer can support. In Leicester, <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> lists Singer, Brother, Janome, Juki, Jack, Bernina and Pfaff among the makes it works with. See <a href=\"/pk-sewing-machines-leicester/\">our PKSM profile</a>.</p>"
+    },
+    {
+      "h2": "Want a second opinion?",
+      "html": "<p>Independent dealers can tell you which models come back for repair and which keep running. Ask before you buy, and test-sew with your own fabric.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which sewing machine brand is best?",
+      "a": "There is no single best brand. Janome and Brother are popular for home use, Bernina for premium domestic machines, and Juki and Jack for industrial work. Choose a machine your local dealer can service."
+    },
+    {
+      "q": "Are UK Sew reviews sponsored?",
+      "a": "No. Brands do not pay to be reviewed. Some links on Shmor sites may be affiliate links, which are always disclosed."
+    }
+  ],
+  "related": [
+    "sewing-machines",
+    "industrial-sewing-machines",
+    "blog/how-to-choose-a-sewing-machine"
+  ]
+}

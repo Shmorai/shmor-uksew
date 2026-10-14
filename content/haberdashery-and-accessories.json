@@ -1,0 +1,53 @@
+{
+  "updated": "2026-10-14",
+  "slug": "haberdashery-and-accessories",
+  "title": "Sewing Accessories & Tools UK: The Haberdashery Essentials",
+  "description": "The sewing tools and haberdashery worth owning: scissors, thread, pins, measuring tools, pressing kit and machine maintenance tools, for home and trade.",
+  "eyebrow": "Haberdashery · Tools",
+  "h1": "Sewing accessories and tools",
+  "intro": "Good tools make better garments. Here is the kit list for a home sewing room or a trade workroom.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1578353022142-09264fd64295",
+    "alt": "Thread spools beside a pair of scissors",
+    "credit": "Darling Arias",
+    "creditUrl": "https://unsplash.com/@darlingarias"
+  },
+  "cardText": "Scissors, thread, pins, pressing kit and machine maintenance tools.",
+  "keywords": [
+    "sewing accessories",
+    "haberdashery",
+    "sewing tools",
+    "fabric scissors",
+    "thread",
+    "sewing kit",
+    "tailoring tools",
+    "pressing"
+  ],
+  "sections": [
+    {
+      "h2": "Cutting",
+      "html": "<ul><li><strong>Dressmaking shears</strong> kept for fabric only.</li><li><strong>Small snips</strong> for threads.</li><li><strong>Rotary cutter and self-healing mat</strong> for quilting and straight cuts.</li><li><strong>Seam ripper</strong>, because everyone needs one.</li></ul>"
+    },
+    {
+      "h2": "Measuring and marking",
+      "html": "<p>A tape measure, a clear ruler, tailor’s chalk or erasable pens, and a seam gauge cover most jobs.</p>"
+    },
+    {
+      "h2": "Thread",
+      "html": "<p>Use a good-quality polyester all-purpose thread for most sewing, and match the thread to the needle size. Cheap thread sheds lint into the machine and breaks more often.</p>"
+    },
+    {
+      "h2": "Pressing and workshop kit",
+      "html": "<p>An iron, pressing cloth and ham make seams look professional. Workrooms also need cutting tables, steam irons and heat presses. <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> supplies pressing and cutting equipment, tables, motors and workshop essentials alongside machines.</p>"
+    },
+    {
+      "h2": "Machine care tools",
+      "html": "<p>A lint brush, sewing machine oil (for machines that need it), small screwdrivers and spare needles keep a machine running between services.</p>"
+    }
+  ],
+  "related": [
+    "sewing-machine-parts",
+    "wool-and-yarn",
+    "blog/presser-feet-guide"
+  ]
+}

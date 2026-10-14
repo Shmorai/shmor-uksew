@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/overlocker-beginners-guide",
+  "type": "post",
+  "date": "2026-09-26",
+  "title": "Overlocker Beginner’s Guide: Threading, Stitches & Tips",
+  "description": "New to overlockers (sergers)? Learn what they do, 3- and 4-thread stitches, differential feed, threading order and the most common beginner mistakes to avoid.",
+  "h1": "An overlocker beginner’s guide",
+  "eyebrow": "Specialist machines",
+  "intro": "Overlockers look intimidating, but once threaded they are the fastest way to a professional finish. Here is how to get started.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1641320197434-6ae0ca235048",
+    "alt": "Close-up of fabric being stitched on a sewing machine",
+    "credit": "Ashley Diane Worsham",
+    "creditUrl": "https://unsplash.com/@worsham"
+  },
+  "keywords": [
+    "overlocker",
+    "serger",
+    "how to use an overlocker",
+    "overlocker threading",
+    "differential feed",
+    "overlocker for beginners"
+  ],
+  "cardText": "Stitches, differential feed and threading made simple.",
+  "sections": [
+    {
+      "h2": "What an overlocker does",
+      "html": "<p>An overlocker sews the seam, trims the edge and wraps it in thread in one go. It is ideal for jersey and stretch fabrics, and for neatening woven seams so they don’t fray.</p>"
+    },
+    {
+      "h2": "3-thread vs 4-thread",
+      "html": "<p>A <strong>4-thread</strong> overlock adds a second needle line for strength, and is the usual choice for seams on knits. A <strong>3-thread</strong> overlock is lighter and good for neatening edges.</p>"
+    },
+    {
+      "h2": "Differential feed",
+      "html": "<p>Two sets of feed dogs move at different speeds. Increase it to stop knits stretching into a wave; decrease it to stop fine fabrics puckering. Test on a scrap first.</p>"
+    },
+    {
+      "h2": "Threading order matters",
+      "html": "<p>Most machines thread the <strong>upper looper, then the lower looper, then the needles</strong>, but follow the colour-coded guide on yours. The tie-on method (knotting new thread to old and pulling through) saves time.</p>"
+    },
+    {
+      "h2": "Common mistakes",
+      "html": "<ul><li>Sewing over pins, which damages the knives.</li><li>Forgetting to raise the presser foot when threading.</li><li>Using the wrong needle system (many overlockers use specific needles).</li></ul>"
+    },
+    {
+      "h2": "Help in Leicester",
+      "html": "<p>Overlock and coverstitch machines are the workhorses of <a href=\"/leicester-hosiery/\">Leicester’s knitwear trade</a>. <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> sells and services domestic and industrial overlockers. See our <a href=\"/overlockers-and-embroidery-machines/\">overlocker guide</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

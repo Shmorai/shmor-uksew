@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/how-to-choose-a-sewing-machine",
+  "type": "post",
+  "date": "2026-10-14",
+  "title": "How to Choose a Sewing Machine: A UK Buyer’s Guide",
+  "description": "Choosing your first or next sewing machine? Our UK guide covers machine types, the features that matter, budgets, new vs used, and getting expert local advice.",
+  "h1": "How to choose a sewing machine",
+  "eyebrow": "Buyer’s guide",
+  "intro": "Too many stitches, not enough guidance? Here is a calm, practical way to choose a sewing machine that suits what you actually sew.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1673786586360-19e8f8acb53f",
+    "alt": "Modern sewing machine on a table",
+    "credit": "Kemal Berkay Dogan",
+    "creditUrl": "https://unsplash.com/@kemalberkaydogan"
+  },
+  "keywords": [
+    "how to choose a sewing machine",
+    "best sewing machine uk",
+    "first sewing machine",
+    "sewing machine buying guide"
+  ],
+  "cardText": "Machine types, must-have features, new vs used and where to get advice.",
+  "sections": [
+    {
+      "h2": "Step 1: list what you will sew",
+      "html": "<p>Write down your three most likely projects. Mending and alterations, dressmaking with woven cottons, stretchy jersey, quilting, bags and upholstery all ask different things of a machine. The heaviest fabric on your list sets the minimum standard.</p>"
+    },
+    {
+      "h2": "Step 2: pick a machine type",
+      "html": "<ul><li><strong>Mechanical</strong>: simple, durable and easy to repair. Ideal for beginners.</li><li><strong>Computerised</strong>: more stitches, automatic buttonholes, needle up/down and speed control.</li><li><strong>Heavy-duty</strong>: stronger motor for denim and canvas.</li><li><strong>Overlocker</strong>: a second machine for neat seams on knits, not a replacement.</li></ul><p>Compare them on our <a href=\"/sewing-machines/\">sewing machines</a> page.</p>"
+    },
+    {
+      "h2": "Step 3: features that genuinely help",
+      "html": "<ul><li>A reliable one-step buttonhole.</li><li>Adjustable stitch length and width.</li><li>A free arm for sleeves and trouser hems.</li><li>Presser foot pressure control.</li><li>Standard 130/705H needles and easy-to-find bobbins.</li></ul>"
+    },
+    {
+      "h2": "Step 4: decide new or used",
+      "html": "<p>A good used machine that has been serviced and tested by a specialist is often better made than a budget new one. Our <a href=\"/blog/buying-a-used-sewing-machine/\">used machine checklist</a> explains what to look for.</p>"
+    },
+    {
+      "h2": "Step 5: test-sew before you buy",
+      "html": "<p>Take your own fabric to a dealer and try straight stitch, zigzag and a buttonhole. In Leicester, <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> has sold new and used machines since 1982, close to the streets where <a href=\"/leicester-hosiery/\">Leicester’s hosiery trade</a> once made stockings for the world.</p><aside class=\"pk-callout\"><p class=\"pk-k\">Leicester specialist</p><p><strong>PK Sewing Machines</strong> has sold, serviced and repaired domestic and industrial sewing machines from 415 St Saviours Road, Leicester LE5 4HH since 1982. Call 0116 273 6552 or visit <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>.</p></aside>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much should I spend on a first sewing machine?",
+      "a": "Enough to get a solid machine from a supported brand with a good buttonhole. A serviced used machine from a specialist is a good way to stretch your budget."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

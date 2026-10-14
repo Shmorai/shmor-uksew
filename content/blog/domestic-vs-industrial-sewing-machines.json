@@ -1,0 +1,51 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/domestic-vs-industrial-sewing-machines",
+  "type": "post",
+  "date": "2026-10-10",
+  "title": "Domestic vs Industrial Sewing Machines: Which Do You Need?",
+  "description": "Domestic and industrial sewing machines compared: speed, stitch types, motors, space, noise and cost, so you can choose the right machine for home or business.",
+  "h1": "Domestic vs industrial sewing machines",
+  "eyebrow": "Explainer",
+  "intro": "Thinking of going industrial for a small business or a heavy hobby? Here is how the two worlds differ.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1655122878062-a9e885391a1b",
+    "alt": "Large room of blue industrial machines",
+    "credit": "Lalit Kumar",
+    "creditUrl": "https://unsplash.com/@klalit"
+  },
+  "keywords": [
+    "domestic vs industrial sewing machine",
+    "industrial sewing machine for home",
+    "industrial sewing machine uk"
+  ],
+  "cardText": "Speed, stitch types, motors, space and cost compared.",
+  "sections": [
+    {
+      "h2": "Built for different jobs",
+      "html": "<p>A domestic machine does many things reasonably well: straight stitch, zigzag, buttonholes, decorative stitches. An industrial machine usually does <strong>one job</strong> extremely well, all day, at high speed. That is why workrooms have separate lockstitch, overlock and coverstitch machines.</p>"
+    },
+    {
+      "h2": "Speed and control",
+      "html": "<p>Industrial machines sew far faster than domestic ones. Modern <strong>servo motors</strong> make them controllable at low speeds too, which is why many home sewers now use them.</p>"
+    },
+    {
+      "h2": "Space, weight and noise",
+      "html": "<p>An industrial machine comes on its own table with a motor underneath. It needs floor space and is heavier to move. Servo models are much quieter than old clutch motors.</p>"
+    },
+    {
+      "h2": "Running costs",
+      "html": "<p>Industrial machines use their own needle systems (for example DBx1 for many lockstitch machines) and need regular oiling unless they are dry-head models. Parts are widely available through trade suppliers.</p>"
+    },
+    {
+      "h2": "Get advice from the trade",
+      "html": "<p>Leicester’s <a href=\"/leicester-hosiery/\">hosiery and garment trade</a> has relied on industrial machines for generations. <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> supplies both domestic and industrial machines and can help you decide. See our <a href=\"/industrial-sewing-machines/\">industrial guide</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

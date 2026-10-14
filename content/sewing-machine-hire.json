@@ -1,0 +1,51 @@
+{
+  "updated": "2026-10-14",
+  "slug": "sewing-machine-hire",
+  "nav": "Hire",
+  "navOrder": 5,
+  "title": "Sewing Machine Hire & Rental in the UK: What to Know",
+  "description": "Hiring a sewing machine for a project, course or short production run? What to check on rental terms, deposits and safety, and when buying used is better.",
+  "eyebrow": "Rental services",
+  "h1": "Sewing machine hire and rental",
+  "intro": "Renting can make sense for a one-off project, a course or a short production run. Here is how to hire well, and when buying used is the better deal.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1675176785803-bffbbb0cd2f4",
+    "alt": "A row of sewing machines ready for use",
+    "credit": "Kevin Limbri",
+    "creditUrl": "https://unsplash.com/@limkage"
+  },
+  "cardText": "Short-term machine hire, what to check on terms and when buying used is better value.",
+  "keywords": [
+    "sewing machine hire",
+    "sewing machine rental",
+    "rent a sewing machine",
+    "industrial sewing machine hire",
+    "hire overlocker",
+    "machine rental uk"
+  ],
+  "sections": [
+    {
+      "h2": "When hiring makes sense",
+      "html": "<ul><li>A single project such as costumes, curtains or a wedding outfit.</li><li>Trying a machine type, such as an overlocker or industrial machine, before you buy.</li><li>A short production run or a seasonal peak in a workroom.</li><li>Events, workshops and classes.</li></ul>"
+    },
+    {
+      "h2": "What to check before you hire",
+      "html": "<ul><li><strong>Total cost</strong>: hire rate, deposit, delivery and collection.</li><li><strong>Condition</strong>: has the machine been serviced and tested? Is it supplied with needles, bobbins and a manual?</li><li><strong>Electrical safety</strong>: the hire company should check its equipment is safe to use.</li><li><strong>Damage and insurance</strong>: who pays if it breaks?</li><li><strong>Support</strong>: is there someone to call if something goes wrong?</li></ul>"
+    },
+    {
+      "h2": "Hire vs buying used",
+      "html": "<p>For anything longer than a few months, a serviced used machine can work out cheaper than hire, and you can often sell or part-exchange it later. Read <a href=\"/blog/sewing-machine-hire-vs-buy/\">hire vs buy</a>. In Leicester, <a href=\"/pk-sewing-machines-leicester/\">PK Sewing Machines</a> sells tested used domestic and industrial machines and offers part exchange, and can arrange collection and delivery. Ask them directly about short-term options.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I rent an industrial sewing machine?",
+      "a": "Some dealers and workshop suppliers offer hire or short-term arrangements. Ask about delivery, set-up and who services the machine during the hire."
+    }
+  ],
+  "related": [
+    "sewing-machines",
+    "deals",
+    "blog/sewing-machine-hire-vs-buy"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/framework-knitting-museums-east-midlands",
+  "type": "post",
+  "date": "2026-09-30",
+  "title": "Framework Knitting Museums in Leicester and Nottingham",
+  "description": "Visit the Wigston Framework Knitters Museum near Leicester and the Framework Knitters Museum in Ruddington to see where Britain’s hosiery industry began.",
+  "h1": "Framework knitting museums to visit",
+  "eyebrow": "Days out · Heritage",
+  "intro": "Two small museums in the East Midlands bring the hosiery trade’s cottage beginnings vividly to life.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1602706294170-1fed8eecd9f9",
+    "alt": "Close-up of machine-knitted fabric",
+    "credit": "Olga Kozachenko",
+    "creditUrl": "https://unsplash.com/@olhakozachenko"
+  },
+  "keywords": [
+    "framework knitters museum",
+    "wigston framework knitters museum",
+    "ruddington museum",
+    "hosiery museum",
+    "leicester museums",
+    "knitting history"
+  ],
+  "cardText": "Wigston and Ruddington: where hosiery’s story began.",
+  "sections": [
+    {
+      "h2": "Wigston Framework Knitters Museum",
+      "html": "<p>Just south of Leicester, this museum opened in 1986 in the house and workshop of a master hosier. The frame shop behind the house, built in 1891, was locked up after the last master hosier, Edgar Carter, died in the early 1950s, leaving a rare snapshot of a working life. It holds hand frames and a long bobbin-winding machine.</p>"
+    },
+    {
+      "h2": "The Framework Knitters Museum, Ruddington",
+      "html": "<p>In Nottinghamshire, this independent working museum opened in 1971 in a courtyard of buildings that date back to 1829. It has many frames, some still working, and visitors can sometimes have a go.</p>"
+    },
+    {
+      "h2": "Before you go",
+      "html": "<p>Both museums are run with the help of volunteers and opening times vary by season, so check their websites first.</p>"
+    },
+    {
+      "h2": "Make a day of it in Leicester",
+      "html": "<p>Combine a museum visit with a look at <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> in the city, and if you sew, call in to <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> on St Saviours Road (weekdays) for parts or a service.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Visit Leicester: Wigston Framework Knitters Museum",
+      "url": "https://visitleicester.info/point-of-interest/wigston-framework-knitters-museum/"
+    },
+    {
+      "title": "The Framework Knitters Museum, Ruddington",
+      "url": "https://frameworkknittersmuseum.org.uk/"
+    },
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

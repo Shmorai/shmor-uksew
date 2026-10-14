@@ -1,0 +1,50 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/presser-feet-guide",
+  "type": "post",
+  "date": "2026-09-18",
+  "title": "Sewing Machine Presser Feet: Which Ones You Really Need",
+  "description": "Zipper, buttonhole, walking, invisible zip, rolled hem and more: the presser feet worth owning, plus how to check low, high and slant shank before you buy.",
+  "h1": "The presser feet you really need",
+  "eyebrow": "Accessories",
+  "intro": "The right foot turns a fiddly job into an easy one. Here are the feet worth buying, and how to make sure they fit.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1497997092403-f091fcf5b6c4",
+    "alt": "Sewing machine presser foot with thread on dark cloth",
+    "credit": "Alexander Andrews",
+    "creditUrl": "https://unsplash.com/@alex_andrews"
+  },
+  "keywords": [
+    "presser feet",
+    "walking foot",
+    "zipper foot",
+    "invisible zip foot",
+    "low shank",
+    "snap on presser feet"
+  ],
+  "cardText": "The essential feet and how to check shank type.",
+  "sections": [
+    {
+      "h2": "Check your shank first",
+      "html": "<p>Domestic machines are usually <strong>low shank</strong>, <strong>high shank</strong> or <strong>slant shank</strong>, and many modern machines take <strong>snap-on</strong> feet on an adaptor. Check the manual before buying.</p>"
+    },
+    {
+      "h2": "The essentials",
+      "html": "<ul><li><strong>Zipper foot</strong>: sews close to zip teeth and piping.</li><li><strong>Buttonhole foot</strong>: usually supplied with the machine.</li><li><strong>Walking foot</strong>: feeds layers evenly, ideal for quilting, checks and knits.</li><li><strong>Invisible zip foot</strong>: for concealed zips in dresses and skirts.</li></ul>"
+    },
+    {
+      "h2": "Nice to have",
+      "html": "<ul><li>Rolled hem foot for scarves and fine edges.</li><li>Edge-stitch foot for neat topstitching.</li><li>Non-stick foot for vinyl and leatherette.</li><li>Open-toe embroidery foot for appliqué.</li></ul>"
+    },
+    {
+      "h2": "Where to buy",
+      "html": "<p><a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> in Leicester stocks zipper, button, walking, hemming and specialist feet, and can check fit for your model. Leicester workrooms have used these tools for generations; read about <a href=\"/leicester-hosiery/\">the city’s hosiery heritage</a>. More on our <a href=\"/haberdashery-and-accessories/\">accessories page</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}

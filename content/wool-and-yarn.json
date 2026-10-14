@@ -1,0 +1,125 @@
+{
+  "updated": "2026-10-14",
+  "slug": "wool-and-yarn",
+  "nav": "Wool & yarn",
+  "navOrder": 4,
+  "title": "Wool & Yarn UK: Weights, Fibres and How to Choose",
+  "description": "A UK guide to wool and yarn: double knit, aran and chunky weights, natural and synthetic fibres, sock yarn and how to read a ball band before you buy.",
+  "eyebrow": "Knitting · Crochet · Yarn",
+  "h1": "Wool and yarn: weights, fibres and choosing well",
+  "intro": "Double knit, aran, chunky, 4-ply: the UK has its own yarn language. Here is how to choose the right wool for your project.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1584992236310-6edddc08acff",
+    "alt": "Balls of orange, blue and white yarn",
+    "credit": "Margarida Afonso",
+    "creditUrl": "https://unsplash.com/@mrafonso1976"
+  },
+  "cardText": "UK yarn weights, fibres, sock yarn and how to read a ball band.",
+  "keywords": [
+    "wool",
+    "yarn",
+    "double knit",
+    "dk yarn",
+    "aran yarn",
+    "chunky wool",
+    "4 ply",
+    "sock yarn",
+    "knitting wool uk",
+    "british wool",
+    "crochet yarn"
+  ],
+  "blocks": [
+    {
+      "type": "tiles",
+      "title": "Yarn by weight",
+      "items": [
+        {
+          "title": "4-ply & sock",
+          "text": "Fine yarns for socks, baby clothes and lightweight knits.",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1613151848917-80e67f421fff",
+            "alt": "Grey wool sock on white fabric",
+            "credit": "Nynne Schrøder",
+            "creditUrl": "https://unsplash.com/@seasonsdiary"
+          },
+          "href": "/blog/choosing-wool-and-yarn-weights/"
+        },
+        {
+          "title": "Double knit (DK)",
+          "text": "The UK all-rounder for jumpers and accessories.",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1626779723011-be3a3cf85d50",
+            "alt": "Pink, blue and yellow yarn",
+            "credit": "June Gathercole",
+            "creditUrl": "https://unsplash.com/@talkingslipper"
+          },
+          "href": "/blog/choosing-wool-and-yarn-weights/"
+        },
+        {
+          "title": "Aran",
+          "text": "Warm, textured knits and cables.",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1557303696-f0a415dc1b3e",
+            "alt": "Close-up of brown knitted wool",
+            "credit": "rocknwool",
+            "creditUrl": "https://unsplash.com/@rocknwool"
+          },
+          "href": "/blog/choosing-wool-and-yarn-weights/"
+        },
+        {
+          "title": "Chunky",
+          "text": "Quick, cosy knits on big needles.",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1530396333989-24c5b8f805dd",
+            "alt": "Three balls of white wool from above",
+            "credit": "Tara Evans",
+            "creditUrl": "https://unsplash.com/@taradee"
+          },
+          "href": "/blog/choosing-wool-and-yarn-weights/"
+        },
+        {
+          "title": "Crochet cotton",
+          "text": "Crisp stitches for homeware.",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1518732836484-bd257665c9d1",
+            "alt": "Assorted coloured yarns",
+            "credit": "Karly Santiago",
+            "creditUrl": "https://unsplash.com/@clothandtwig"
+          },
+          "href": "/blog/choosing-wool-and-yarn-weights/"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "UK and US yarn names",
+      "html": "<p>UK patterns usually say <strong>4-ply, double knit (DK), aran and chunky</strong>. US patterns say fingering, light worsted (DK), worsted (close to aran) and bulky. Always check the recommended needle size and tension (gauge) on the ball band rather than relying on the name.</p>"
+    },
+    {
+      "h2": "Fibres",
+      "html": "<ul><li><strong>Wool</strong>: warm, elastic and breathable. Superwash wool can be machine washed.</li><li><strong>Cotton</strong>: cool and crisp, good for summer tops and dishcloths, but less stretchy.</li><li><strong>Acrylic</strong>: affordable and easy care, popular for blankets and children’s wear.</li><li><strong>Blends</strong>: wool with nylon is the classic for hard-wearing socks.</li></ul>"
+    },
+    {
+      "h2": "From hand knitting to hosiery",
+      "html": "<p>Hand knitting and machine knitting share a history. The stocking frame, invented in 1589, started an industry that made the East Midlands the home of British hosiery. Read about <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is double knit wool?",
+      "a": "Double knit (DK) is a medium-weight UK yarn, usually knitted on about 4mm needles. It is the most common weight for jumpers, hats and baby clothes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Craft Yarn Council: Standard Yarn Weight System",
+      "url": "https://www.craftyarncouncil.com/standards/yarn-weight-system"
+    }
+  ],
+  "related": [
+    "haberdashery-and-accessories",
+    "blog/choosing-wool-and-yarn-weights",
+    "leicester-hosiery"
+  ]
+}

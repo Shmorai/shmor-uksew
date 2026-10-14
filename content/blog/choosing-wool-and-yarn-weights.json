@@ -1,0 +1,56 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/choosing-wool-and-yarn-weights",
+  "type": "post",
+  "date": "2026-09-27",
+  "title": "Wool and Yarn Weights Explained: 4-Ply, DK, Aran, Chunky",
+  "description": "UK yarn weights explained with US equivalents, needle sizes and the best uses for each, plus how to read a ball band and why a tension square matters.",
+  "h1": "Wool and yarn weights explained",
+  "eyebrow": "Knitting",
+  "intro": "UK and US patterns use different names for the same yarns. Here is a simple guide to yarn weights and how to choose.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1626779723011-be3a3cf85d50",
+    "alt": "Pink, blue and yellow yarn",
+    "credit": "June Gathercole",
+    "creditUrl": "https://unsplash.com/@talkingslipper"
+  },
+  "keywords": [
+    "yarn weights",
+    "double knit",
+    "aran wool",
+    "chunky wool",
+    "4 ply",
+    "dk yarn",
+    "uk us yarn conversion",
+    "sock yarn"
+  ],
+  "cardText": "4-ply, DK, aran and chunky with US names and needle sizes.",
+  "sections": [
+    {
+      "h2": "The main UK weights",
+      "html": "<ul><li><strong>4-ply</strong> (US fingering): socks, baby wear, fine knits. Around 2.75 to 3.25mm needles.</li><li><strong>Double knit / DK</strong> (US light worsted): the all-rounder. Around 4mm needles.</li><li><strong>Aran</strong> (close to US worsted): cables and warm jumpers. Around 4.5 to 5mm needles.</li><li><strong>Chunky</strong> (US bulky): quick, cosy projects. Around 6 to 8mm needles.</li></ul><p>Needle sizes are typical ranges; always follow the ball band and your pattern.</p>"
+    },
+    {
+      "h2": "Read the ball band",
+      "html": "<p>The band shows fibre content, weight, length, recommended needle size, tension (stitches and rows per 10cm) and washing instructions. Buy enough from the same <strong>dye lot</strong> for the whole project.</p>"
+    },
+    {
+      "h2": "Knit a tension square",
+      "html": "<p>Knit a 10cm square before you start. If you have more stitches than the pattern, go up a needle size; fewer, go down.</p>"
+    },
+    {
+      "h2": "From wool to hosiery",
+      "html": "<p>Sock yarns, often wool blended with nylon for strength, are a direct link to the East Midlands hosiery tradition. Read <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a>. And if you sew as well as knit, <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> in Leicester can service your machine. See our <a href=\"/wool-and-yarn/\">wool and yarn guide</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Craft Yarn Council: Standard Yarn Weight System",
+      "url": "https://www.craftyarncouncil.com/standards/yarn-weight-system"
+    },
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ]
+}
