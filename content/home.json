@@ -173,6 +173,11 @@
       ]
     },
     {
+      "type": "html",
+      "class": "rec-supplier",
+      "html": "<div class=\"rec\">\n<div class=\"rec-media\"><img src=\"https://images.unsplash.com/photo-1626274890657-e28d5b65b04b?w=1000&h=900&fit=crop&q=72&auto=format\" srcset=\"https://images.unsplash.com/photo-1626274890657-e28d5b65b04b?w=600&h=540&fit=crop&q=72&auto=format 600w, https://images.unsplash.com/photo-1626274890657-e28d5b65b04b?w=1000&h=900&fit=crop&q=72&auto=format 1000w\" sizes=\"(max-width: 900px) 100vw, 540px\" width=\"1000\" height=\"900\" alt=\"Sewing machine on a workshop table\" loading=\"lazy\"><span class=\"rec-seal\"><svg aria-hidden=\"true\"><use href=\"#us-emblem\"/></svg>Recommended supplier</span><span class=\"ph-credit\">Illustrative photo: Claudio Schwarz / Unsplash</span></div>\n<div class=\"rec-body\">\n<p class=\"rec-k\">Our recommended supplier</p>\n<h2>PK Sewing Machines</h2>\n<p class=\"rec-sub\">Family-run since 1982 · Leicester workshop · UK-wide sales and repair options</p>\n<p>For sewing machines, spare parts and servicing, PK Sewing Machines is the supplier we recommend: a family business that sells new and used domestic and industrial machines, services all major makes and keeps a parts department of more than 5,000 spares.</p>\n<ul class=\"rec-points\">\n<li><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 6 9 17l-5-5\"/></svg><span><strong>New &amp; used machines</strong><br>domestic, industrial, overlock and embroidery</span></li>\n<li><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 6 9 17l-5-5\"/></svg><span><strong>5,000+ spare parts</strong><br>needles, bobbins, feet, motors and harder-to-find spares</span></li>\n<li><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 6 9 17l-5-5\"/></svg><span><strong>Servicing &amp; repairs</strong><br>listed from £35, plus East Midlands industrial call-outs</span></li>\n<li><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 6 9 17l-5-5\"/></svg><span><strong>Buy &amp; part exchange</strong><br>used machines bench-tested before sale</span></li>\n</ul>\n<div class=\"rec-actions\"><a class=\"btn-red\" href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">Visit pksm.co.uk ↗</a><a class=\"btn-line\" href=\"/pk-sewing-machines-leicester/\">Why we recommend them</a><a class=\"rec-link\" href=\"https://www.ebay.co.uk/sch/i.html?_ssn=rajsud57\" rel=\"noopener\" target=\"_blank\">Current stock on eBay ↗</a></div>\n<p class=\"rec-note\">Details and prices as published by PK Sewing Machines; check with them for current availability.</p>\n</div></div>"
+    },
+    {
       "type": "gallery",
       "title": "Inside the sewing room",
       "intro": "From vintage Singers to modern workrooms, explore the craft.",
@@ -271,8 +276,8 @@
         {
           "icon": "store",
           "badge": "Live stock",
-          "title": "Workshop stock",
-          "text": "Used and new machines, parts and accessories listed by our featured workshop partner.",
+          "title": "Recommended supplier stock",
+          "text": "Used and new machines, parts and accessories listed by PK Sewing Machines, our recommended supplier.",
           "href": "https://www.ebay.co.uk/sch/i.html?_ssn=rajsud57",
           "cta": "See current listings"
         },
@@ -454,7 +459,7 @@
       },
       "kicker": "Workshop know-how",
       "heading": "Expert servicing from British workshops",
-      "html": "<p>Good servicing advice comes from people who mend machines for a living. Our repair and parts guides draw on experienced UK workshops, including our featured partner, family-run <a href=\"/pk-sewing-machines-leicester/\">PK Sewing Machines</a>, which has kept domestic and industrial machines stitching since 1982.</p><ul><li>What a service includes and how often to book one</li><li>Quick fixes for skipped stitches and bunching</li><li>Finding parts for older and discontinued machines</li></ul>",
+      "html": "<p>Good servicing advice comes from people who mend machines for a living. Our repair and parts guides draw on experienced UK workshops, including our recommended supplier <a href=\"/pk-sewing-machines-leicester/\">PK Sewing Machines</a>, which has kept domestic and industrial machines stitching since 1982.</p><ul><li>What a service includes and how often to book one</li><li>Quick fixes for skipped stitches and bunching</li><li>Finding parts for older and discontinued machines</li></ul>",
       "links": [
         {
           "title": "Repairs & servicing",
@@ -462,8 +467,8 @@
           "primary": true
         },
         {
-          "title": "Meet our workshop partner",
-          "slug": "pk-sewing-machines-leicester"
+          "title": "Troubleshooting guide",
+          "slug": "blog/common-sewing-machine-problems"
         }
       ],
       "class": "is-soft",
@@ -503,7 +508,7 @@
     },
     {
       "h2": "Workshop expertise",
-      "html": "<p>Good advice comes from people who mend machines for a living. Alongside our own research, our guides lean on experienced UK workshops, including our featured partner <a href=\"/pk-sewing-machines-leicester/\">PK Sewing Machines</a>, a family business since 1982 that sells, services and repairs domestic and industrial machines and keeps a large parts department.</p>"
+      "html": "<p>Good advice comes from people who mend machines for a living. Alongside our own research, our guides lean on experienced UK workshops, including our recommended supplier <a href=\"/pk-sewing-machines-leicester/\">PK Sewing Machines</a>, a family business since 1982 that sells, services and repairs domestic and industrial machines and keeps a large parts department.</p>"
     },
     {
       "h2": "Britain’s textile heritage",
@@ -521,7 +526,7 @@
     },
     {
       "q": "Where can I get my sewing machine serviced?",
-      "a": "Most areas have independent sewing machine repairers; ask about their experience with your make and whether they quote first. Our featured workshop partner, PK Sewing Machines, services domestic and industrial machines and lists servicing from £35."
+      "a": "Most areas have independent sewing machine repairers; ask about their experience with your make and whether they quote first. Our recommended supplier, PK Sewing Machines, services domestic and industrial machines and lists servicing from £35."
     },
     {
       "q": "Do your reviews include customer star ratings?",

@@ -4,9 +4,9 @@
   "nav": "PKSM Leicester",
   "title": "PK Sewing Machines Leicester: Sales, Repairs & Parts",
   "description": "PK Sewing Machines (PKSM), Leicester: family-run since 1982. New and used domestic and industrial machines, servicing, repairs, 5,000+ parts and call-outs.",
-  "eyebrow": "Featured company · Leicester · Est. 1982",
+  "eyebrow": "Recommended supplier · Leicester · Est. 1982",
   "h1": "PK Sewing Machines, Leicester",
-  "intro": "A family-run Leicester specialist selling, servicing and repairing domestic and industrial sewing machines since 1982.",
+  "intro": "UK SEW’s recommended supplier for sewing machines, parts and servicing: a family-run specialist selling, servicing and repairing domestic and industrial machines since 1982.",
   "image": {
     "src": "https://images.unsplash.com/photo-1626274890657-e28d5b65b04b",
     "alt": "Black sewing machine on a wooden workshop table",
@@ -198,6 +198,10 @@
     }
   ],
   "sections": [
+    {
+      "h2": "Why we recommend PK Sewing Machines",
+      "html": "<ul><li><strong>Experience</strong>: family-run since 1982, with long-standing contacts across the UK sewing machine trade.</li><li><strong>Home and trade under one roof</strong>: domestic, overlocker and embroidery machines alongside industrial lockstitch, overlock and coverstitch equipment.</li><li><strong>Parts depth</strong>: more than 5,000 spare parts, accessories and consumables, plus help sourcing hard-to-find parts for older machines.</li><li><strong>Tested used machines</strong>: used machines are tested on PKSM’s own bench before sale.</li><li><strong>Practical service</strong>: workshop servicing (listed from £35), East Midlands industrial call-outs, collection and delivery by quote, and UK-wide sales and repair options.</li></ul><p>UK SEW features PK Sewing Machines as its recommended supplier. Details are as published on pksm.co.uk; always check current prices and availability with them.</p>"
+    },
     {
       "h2": "About PK Sewing Machines",
       "html": "<p><a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> was started in 1982 by two brothers and is still run by the family. Over four decades it has built long-standing contacts across the UK sewing machine trade, working with home sewers, tailors, alteration businesses, schools, workrooms and commercial manufacturers.</p><p>The business describes its approach simply: family-run, friendly, fairly priced, and still testing machines on its own bench before they leave the shop.</p>"
