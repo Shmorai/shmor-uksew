@@ -2,11 +2,11 @@
   "updated": "2026-10-14",
   "slug": "",
   "title": "UK SEW: Sewing Machines, Parts, Wool & Repairs in the UK",
-  "description": "Independent UK guides to sewing machines, parts, wool, knitting and repairs, rooted in Leicester’s hosiery heritage. Buying advice, servicing tips and more.",
-  "eyebrow": "Sewing · Knitting · Hosiery · Since 1589 in Leicestershire",
+  "description": "Independent UK-wide guides to sewing machines, parts, wool, knitting and repairs for home sewers, tailors and workrooms. Buying advice and servicing tips.",
+  "eyebrow": "Sewing · Knitting · Hosiery · Nationwide",
   "h1": "The home of British sewing and knitting.",
   "h1Html": "The home of British<br><span class=\"hl\">sewing &amp; knitting.</span>",
-  "intro": "Machines, parts, wool and workshop know-how for home sewers, tailors and trade workrooms, from the county that invented machine knitting.",
+  "intro": "Machines, parts, wool and workshop know-how for home sewers, tailors and trade workrooms across England, Scotland, Wales and Northern Ireland.",
   "searchPlaceholder": "Try “overlocker”, “Juki parts” or “sewing machine service”",
   "chips": [
     {
@@ -48,9 +48,9 @@
       "position": "top",
       "items": [
         {
-          "icon": "pin",
-          "title": "Leicester roots",
-          "text": "Britain’s historic hosiery capital"
+          "icon": "globe",
+          "title": "UK-wide",
+          "text": "England, Scotland, Wales & Northern Ireland"
         },
         {
           "icon": "file",
@@ -63,16 +63,16 @@
           "text": "domestic and industrial machines"
         },
         {
-          "icon": "truck",
-          "title": "UK-wide",
-          "text": "for home, trade and education"
+          "icon": "star",
+          "title": "British heritage",
+          "text": "four centuries of textile know-how"
         }
       ]
     },
     {
       "type": "catalogue",
       "title": "Shop by department",
-      "intro": "Machines, parts, wool, fabric and services, each with a plain-English guide written for UK sewers and workrooms.",
+      "intro": "Machines, parts, wool, fabric and services, each with a plain-English guide written for sewers and workrooms across the UK.",
       "items": [
         {
           "slug": "sewing-machines",
@@ -104,7 +104,7 @@
           "kicker": "Parts",
           "points": [
             "Needles, bobbins, feet, belts",
-            "5,000+ parts at PKSM"
+            "Parts for older machines"
           ],
           "cta": "Find a part",
           "title": "Parts & needles"
@@ -114,7 +114,7 @@
           "kicker": "Service",
           "points": [
             "What a service includes",
-            "Leicester workshop and call-outs"
+            "Workshop and on-site options"
           ],
           "cta": "Repairs & servicing",
           "title": "Repairs & servicing"
@@ -271,8 +271,8 @@
         {
           "icon": "store",
           "badge": "Live stock",
-          "title": "Leicester workshop stock",
-          "text": "Used and new machines, parts and accessories listed by an established Leicester workshop.",
+          "title": "Workshop stock",
+          "text": "Used and new machines, parts and accessories listed by our featured workshop partner.",
           "href": "https://www.ebay.co.uk/sch/i.html?_ssn=rajsud57",
           "cta": "See current listings"
         },
@@ -306,23 +306,23 @@
       "type": "feature",
       "reverse": false,
       "image": {
-        "src": "https://images.unsplash.com/photo-1632944968588-3ec2870641ce",
-        "alt": "Knitted socks and a hat on a wooden table",
-        "credit": "Kate Laine",
-        "creditUrl": "https://unsplash.com/@kikimora33"
+        "src": "https://images.unsplash.com/photo-1758270804188-8ca0b6d254bc",
+        "alt": "Industrial looms with a large spool of thread",
+        "credit": "Bergstrand Consultancy",
+        "creditUrl": "https://unsplash.com/@bergstrand"
       },
-      "kicker": "Leicester · since 1589",
-      "heading": "The city that clothed the world",
-      "html": "<p>For three centuries Leicester’s framework knitters and factories made stockings, socks, underwear and knitwear for Britain and beyond. Corah’s St Margaret’s Works and the Wolsey brand made the city a byword for knitted goods.</p><p>That heritage lives on in the city’s knitters, garment makers, dyers and machine engineers.</p>",
+      "kicker": "British heritage · since 1589",
+      "heading": "Four centuries of British sewing and knitting",
+      "html": "<p>The stocking frame was invented in Nottinghamshire in 1589, and the East Midlands went on to knit stockings and socks for the world. The Scottish Borders became famous for knitwear, the Outer Hebrides for hand-woven Harris Tweed, and Wales for its woollen mills.</p><p>UK SEW brings that know-how to today’s home sewers, tailors and workrooms, wherever they are in Britain.</p>",
       "links": [
         {
-          "title": "Explore the heritage",
+          "title": "Explore textile heritage",
           "slug": "leicester-hosiery",
           "primary": true
         },
         {
-          "title": "Sewing in Leicester",
-          "slug": "sewing-in-leicester"
+          "title": "Hosiery & knitwear",
+          "slug": "hosiery-and-knitwear"
         }
       ]
     },
@@ -431,7 +431,7 @@
       },
       "kicker": "Wool & yarn",
       "heading": "British wool, from fleece to finished jumper",
-      "html": "<p>UK yarn weights explained, the best fibres for socks and jumpers, and the Leicestershire sheep breeds that shaped British wool, including the Leicester Longwool and the Bluefaced Leicester.</p>",
+      "html": "<p>UK yarn weights explained, the best fibres for socks and jumpers, and the native sheep breeds behind British wool, from the Bluefaced Leicester to Shetland and Herdwick.</p>",
       "links": [
         {
           "title": "Wool & yarn guide",
@@ -453,8 +453,8 @@
         "creditUrl": "https://unsplash.com/@alexjhonson23e"
       },
       "kicker": "Workshop know-how",
-      "heading": "Expert servicing, the Leicester way",
-      "html": "<p>Leicester’s mills ran on skilled mechanics, and that know-how hasn’t gone anywhere. Our servicing and parts guides draw on the city’s workshops, including family-run <a href=\"/pk-sewing-machines-leicester/\">PK Sewing Machines</a>, which has kept domestic and industrial machines stitching since 1982.</p><ul><li>What a service includes and how often to book one</li><li>Quick fixes for skipped stitches and bunching</li><li>Finding parts for older and discontinued machines</li></ul>",
+      "heading": "Expert servicing from British workshops",
+      "html": "<p>Good servicing advice comes from people who mend machines for a living. Our repair and parts guides draw on experienced UK workshops, including our featured partner, family-run <a href=\"/pk-sewing-machines-leicester/\">PK Sewing Machines</a>, which has kept domestic and industrial machines stitching since 1982.</p><ul><li>What a service includes and how often to book one</li><li>Quick fixes for skipped stitches and bunching</li><li>Finding parts for older and discontinued machines</li></ul>",
       "links": [
         {
           "title": "Repairs & servicing",
@@ -462,7 +462,7 @@
           "primary": true
         },
         {
-          "title": "Meet the workshop",
+          "title": "Meet our workshop partner",
           "slug": "pk-sewing-machines-leicester"
         }
       ],
@@ -480,8 +480,8 @@
         },
         {
           "icon": "pin",
-          "title": "Go local in Leicester",
-          "text": "We feature PK Sewing Machines for sales, servicing and parts in the East Midlands."
+          "title": "Find expert help",
+          "text": "Workshop know-how on servicing, repairs and parts, wherever you are in the UK."
         },
         {
           "icon": "tag",
@@ -499,15 +499,15 @@
   "sections": [
     {
       "h2": "Sewing machines, wool and workshop supplies for the UK",
-      "html": "<p>UK SEW is a free guide to the British sewing and knitting world. Whether you are buying your first machine after watching <em>The Great British Sewing Bee</em>, sourcing a bobbin case for a 40-year-old Singer, or keeping a row of industrial lockstitch machines running, we bring the options together in one place.</p><ul><li><a href=\"/sewing-machines/\">Sewing machines</a>: mechanical, computerised and heavy-duty machines for home use.</li><li><a href=\"/industrial-sewing-machines/\">Industrial sewing machines</a>: lockstitch, overlock, coverstitch and specialist machines for trade.</li><li><a href=\"/sewing-machine-parts/\">Parts and needles</a>: needle systems, bobbins, feet, belts and motors.</li><li><a href=\"/wool-and-yarn/\">Wool and yarn</a>: UK yarn weights, fibres and how to choose.</li><li><a href=\"/sewing-machine-repairs/\">Repairs and servicing</a> and <a href=\"/sewing-machine-hire/\">machine hire</a>.</li></ul>"
+      "html": "<p>UK SEW is a free, independent guide to the British sewing and knitting world, for readers right across the UK. Whether you are buying your first machine after watching <em>The Great British Sewing Bee</em>, sourcing a bobbin case for a 40-year-old Singer, or keeping a row of industrial lockstitch machines running, we bring the options together in one place.</p><ul><li><a href=\"/sewing-machines/\">Sewing machines</a>: mechanical, computerised and heavy-duty machines for home use.</li><li><a href=\"/industrial-sewing-machines/\">Industrial sewing machines</a>: lockstitch, overlock, coverstitch and specialist machines for trade.</li><li><a href=\"/sewing-machine-parts/\">Parts and needles</a>: needle systems, bobbins, feet, belts and motors.</li><li><a href=\"/wool-and-yarn/\">Wool and yarn</a>: UK yarn weights, fibres and how to choose.</li><li><a href=\"/sewing-machine-repairs/\">Repairs and servicing</a> and <a href=\"/sewing-machine-hire/\">machine hire</a>.</li></ul>"
     },
     {
-      "h2": "Local expertise from Leicester",
-      "html": "<p>Good advice comes from people who mend machines for a living. Our guides lean on Leicester’s workshop tradition, including <a href=\"/pk-sewing-machines-leicester/\">PK Sewing Machines</a> on St Saviours Road, a family business since 1982 that sells, services and repairs domestic and industrial machines and keeps a large parts department.</p>"
+      "h2": "Workshop expertise",
+      "html": "<p>Good advice comes from people who mend machines for a living. Alongside our own research, our guides lean on experienced UK workshops, including our featured partner <a href=\"/pk-sewing-machines-leicester/\">PK Sewing Machines</a>, a family business since 1982 that sells, services and repairs domestic and industrial machines and keeps a large parts department.</p>"
     },
     {
-      "h2": "Leicester: the city that clothed the world",
-      "html": "<p>Framework knitting reached Leicestershire in the 1600s, and by the 1800s Leicester was famous for stockings, underwear and knitwear. Firms such as N. Corah &amp; Sons, whose St Margaret’s Works was one of the largest hosiery factories in Britain, and Wolsey, named after Cardinal Wolsey who is buried at Leicester Abbey, made the city a byword for knitted goods. Explore <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> and our <a href=\"/uk-hosiery-news/\">UK hosiery sector reading list</a>.</p>"
+      "h2": "Britain’s textile heritage",
+      "html": "<p>Britain built much of the modern textile world. Framework knitting began in Nottinghamshire, and Leicester and Nottingham became the centres of the hosiery trade, home to firms such as Corah and Wolsey. Scotland, Yorkshire, Lancashire and Wales all have their own proud traditions in wool, weaving and knitwear. Explore <a href=\"/leicester-hosiery/\">the story of British hosiery</a> and our <a href=\"/uk-hosiery-news/\">UK sector reading list</a>.</p>"
     },
     {
       "h2": "Hosiery, knitwear and the machines behind them",
@@ -520,8 +520,8 @@
       "a": "No. UK SEW is a free, independent guide to sewing machines, parts, wool and services in the UK. When you buy, you buy directly from the seller."
     },
     {
-      "q": "Where can I get a sewing machine serviced in Leicester?",
-      "a": "Our featured specialist, PK Sewing Machines at 415 St Saviours Road, Leicester LE5 4HH, services and repairs domestic and industrial machines. Its website lists servicing from £35. Call 0116 273 6552 to book."
+      "q": "Where can I get my sewing machine serviced?",
+      "a": "Most areas have independent sewing machine repairers; ask about their experience with your make and whether they quote first. Our featured workshop partner, PK Sewing Machines, services domestic and industrial machines and lists servicing from £35."
     },
     {
       "q": "Do your reviews include customer star ratings?",
@@ -535,6 +535,6 @@
     "uk-hosiery-news",
     "sewing-glossary"
   ],
-  "relatedTitle": "Leicester, PKSM and the hosiery trade",
-  "heroHtml": "<div class=\"hero-collage\" aria-hidden=\"true\"><img class=\"hc-1\" src=\"https://images.unsplash.com/photo-1557113166-86fc668c156e?w=700&h=1040&fit=crop&crop=entropy&q=72&auto=format\" width=\"700\" height=\"1040\" alt=\"\" fetchpriority=\"high\"><img class=\"hc-2\" src=\"https://images.unsplash.com/photo-1788712998889-0c7875bccf3c?w=600&h=500&fit=crop&crop=entropy&q=72&auto=format\" width=\"600\" height=\"500\" alt=\"\"><img class=\"hc-3\" src=\"https://images.unsplash.com/photo-1730447619863-5349b3f6db70?w=600&h=500&fit=crop&crop=entropy&q=72&auto=format\" width=\"600\" height=\"500\" alt=\"\"><p class=\"hc-badge\"><b>Leicester, 1589 to today</b>From the stocking frame to modern workrooms: four centuries of knitting and sewing know-how.</p></div>"
+  "relatedTitle": "British textile heritage",
+  "heroHtml": "<div class=\"hero-collage\" aria-hidden=\"true\"><img class=\"hc-1\" src=\"https://images.unsplash.com/photo-1557113166-86fc668c156e?w=700&h=1040&fit=crop&crop=entropy&q=72&auto=format\" width=\"700\" height=\"1040\" alt=\"\" fetchpriority=\"high\"><img class=\"hc-2\" src=\"https://images.unsplash.com/photo-1788712998889-0c7875bccf3c?w=600&h=500&fit=crop&crop=entropy&q=72&auto=format\" width=\"600\" height=\"500\" alt=\"\"><img class=\"hc-3\" src=\"https://images.unsplash.com/photo-1730447619863-5349b3f6db70?w=600&h=500&fit=crop&crop=entropy&q=72&auto=format\" width=\"600\" height=\"500\" alt=\"\"><p class=\"hc-badge\"><b>Made for Britain’s makers</b>From the first stocking frame in 1589 to today’s workrooms: centuries of British sewing and knitting know-how.</p></div>"
 }
