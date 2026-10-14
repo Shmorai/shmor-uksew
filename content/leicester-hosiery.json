@@ -56,12 +56,93 @@
           "text": "Knitters, dyers and garment makers still trade in Leicester and the region."
         }
       ]
+    },
+    {
+      "type": "gallery",
+      "title": "Leicester’s textile story in pictures",
+      "items": [
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1782828151611-a825182fb111",
+            "alt": "Old weaving machines with fabric rolls",
+            "credit": "Georg Eiermann",
+            "creditUrl": "https://unsplash.com/@georgeiermann"
+          },
+          "caption": "The factory age"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1582966772680-860e372bb558",
+            "alt": "Red, white and blue socks",
+            "credit": "Thái An",
+            "creditUrl": "https://unsplash.com/@johnn21"
+          },
+          "caption": "Socks & stockings",
+          "slug": "hosiery-and-knitwear"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1476683874822-744764a2438f",
+            "alt": "Old treadle sewing machine on a wooden stand",
+            "credit": "Janko Ferlič",
+            "creditUrl": "https://unsplash.com/@itfeelslikefilm"
+          },
+          "caption": "Cottage trades"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1602706294170-1fed8eecd9f9",
+            "alt": "White and grey knitted textile",
+            "credit": "Olga Kozachenko",
+            "creditUrl": "https://unsplash.com/@olhakozachenko"
+          },
+          "caption": "Knitted fabric"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1582719188393-bb71ca45dbb9",
+            "alt": "Colourful knitted jumpers on a clothing rail",
+            "credit": "Markus Winkler",
+            "creditUrl": "https://unsplash.com/@markuswinkler"
+          },
+          "caption": "Knitwear"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1741176505800-caaa3a52631a",
+            "alt": "Workers sewing textiles in a large factory",
+            "credit": "EqualStock",
+            "creditUrl": "https://unsplash.com/@equalstock"
+          },
+          "caption": "Workrooms today",
+          "slug": "blog/leicester-made-2026"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1703291543301-a3104982a163",
+            "alt": "A flock of sheep grazing in a green field",
+            "credit": "Josh Smith",
+            "creditUrl": "https://unsplash.com/@josh3rsmith"
+          },
+          "caption": "Leicester wool",
+          "slug": "blog/leicester-sheep-breeds-british-wool"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1654108565102-5e7073b7bcd0",
+            "alt": "Close-up of a textile machine at work",
+            "credit": "towel.studio",
+            "creditUrl": "https://unsplash.com/@towelstudio"
+          },
+          "caption": "Modern machinery"
+        }
+      ]
     }
   ],
   "sections": [
     {
       "h2": "From frames to factories",
-      "html": "<p>Framework knitting was a family trade carried out at home, often in poor conditions. Leicester had several hundred frames in the early 1700s and around 3,000 by 1790. Factory production took over in the second half of the 1800s.</p>"
+      "html": "<p>Framework knitting was a family trade carried out at home, often in poor conditions. Leicester had several hundred frames in the early 1700s and around 3,000 by 1790. Factory production took over in the second half of the 1800s.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1758270804188-8ca0b6d254bc?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1758270804188-8ca0b6d254bc?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1758270804188-8ca0b6d254bc?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Industrial looms with a large spool of thread\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Steam power moved knitting from cottages into factories in the 1800s.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@bergstrand?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Bergstrand Consultancy</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Corah and St Margaret’s Works",
@@ -78,6 +159,10 @@
     {
       "h2": "See it for yourself",
       "html": "<p>The <strong>Wigston Framework Knitters Museum</strong>, just south of Leicester, preserves a master hosier’s house and frame shop. The <strong>Framework Knitters Museum</strong> in Ruddington, Nottinghamshire, has working frames. The <strong>Knitting Together</strong> project and the University of Leicester’s <strong>East Midlands Oral History Archive</strong> collect the stories of the people who worked in the trade.</p>"
+    },
+    {
+      "h2": "Leicester’s sheep, too",
+      "html": "<p>The county shaped British wool as well as knitting. Robert Bakewell of Dishley, near Loughborough, developed the <strong>Leicester Longwool</strong> sheep in the 18th century, and the <strong>Bluefaced Leicester</strong> remains a prized wool breed. See <a href=\"/blog/leicester-sheep-breeds-british-wool/\">Leicester sheep and British wool</a>.</p>"
     }
   ],
   "sources": [
@@ -109,7 +194,7 @@
   "related": [
     "blog/leicester-hosiery-history",
     "blog/corah-st-margarets-works",
-    "blog/framework-knitting-museums-east-midlands",
+    "sewing-in-leicester",
     "uk-hosiery-news"
   ]
 }

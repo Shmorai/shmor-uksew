@@ -1,0 +1,186 @@
+{
+  "updated": "2026-10-14",
+  "slug": "dressmaking-fabrics",
+  "title": "Dressmaking Fabrics Guide: Cotton, Linen, Jersey & More",
+  "description": "Choose the right dressmaking fabric: cotton, linen, viscose, jersey, denim, wool and silk explained, with the needles, threads and machine settings to match.",
+  "eyebrow": "Fabric guide",
+  "h1": "Dressmaking fabrics: a sewer’s guide",
+  "intro": "The fabric decides the needle, the thread, the stitch and sometimes the machine. Here is how to choose and sew the most common dressmaking fabrics.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1640767760729-7bfb6ce43ad4",
+    "alt": "Coloured fabrics on a shop shelf",
+    "credit": "Cosmin Ursea",
+    "creditUrl": "https://unsplash.com/@cosminursea"
+  },
+  "cardText": "Cotton, linen, jersey, denim, wool and silk, with needles and settings to match.",
+  "keywords": [
+    "dressmaking fabric",
+    "fabric guide",
+    "cotton fabric",
+    "linen fabric",
+    "jersey fabric",
+    "denim fabric",
+    "viscose",
+    "fabric shop uk"
+  ],
+  "blocks": [
+    {
+      "type": "catalogue",
+      "title": "Fabrics at a glance",
+      "items": [
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1705250466297-90035b3a2b26",
+            "alt": "Stack of folded fabrics",
+            "credit": "Victor Volkov",
+            "creditUrl": "https://unsplash.com/@lensyfoxography"
+          },
+          "href": "#cotton",
+          "title": "Cotton",
+          "kicker": "Beginner friendly",
+          "text": "Stable, easy to press and forgiving.",
+          "points": [
+            "Universal 80/12 needle",
+            "All-purpose thread"
+          ],
+          "cta": "How to sew it"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1528458909336-e7a0adfed0a5",
+            "alt": "Natural linen fabric texture",
+            "credit": "Annie Spratt",
+            "creditUrl": "https://unsplash.com/@anniespratt"
+          },
+          "href": "#linen",
+          "title": "Linen",
+          "kicker": "Summer",
+          "text": "Cool, breathable and creases beautifully.",
+          "points": [
+            "Universal 80/12–90/14",
+            "Neaten edges: it frays"
+          ],
+          "cta": "How to sew it"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1602706294170-1fed8eecd9f9",
+            "alt": "White and grey knitted textile",
+            "credit": "Olga Kozachenko",
+            "creditUrl": "https://unsplash.com/@olhakozachenko"
+          },
+          "href": "#jersey-and-knits",
+          "title": "Jersey & knits",
+          "kicker": "Stretch",
+          "text": "T-shirts, dresses and leggings.",
+          "points": [
+            "Ballpoint or stretch needle",
+            "Overlocker or stretch stitch"
+          ],
+          "cta": "How to sew it"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1631112230741-446762ee05ac",
+            "alt": "Close-up of blue denim twill",
+            "credit": "Dylann Hendricks",
+            "creditUrl": "https://unsplash.com/@dylanhendricks"
+          },
+          "href": "#denim-and-heavy-fabrics",
+          "title": "Denim & canvas",
+          "kicker": "Heavy",
+          "text": "Jeans, jackets and bags.",
+          "points": [
+            "Jeans needle 90/14–100/16",
+            "Longer stitch, slow speed"
+          ],
+          "cta": "How to sew it"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1606259458027-54d2a728b6ab",
+            "alt": "Draped white silk fabric",
+            "credit": "Susan Wilkinson",
+            "creditUrl": "https://unsplash.com/@susan_wilkinson"
+          },
+          "href": "#silk-and-satin",
+          "title": "Silk & satin",
+          "kicker": "Delicate",
+          "text": "Slippery but stunning.",
+          "points": [
+            "Fine 60/8–70/10 needle",
+            "Fine pins, tissue under seams"
+          ],
+          "cta": "How to sew it"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1625224702026-dd5f6734ccdc",
+            "alt": "White floral lace on a wooden table",
+            "credit": "Vitor Monthay",
+            "creditUrl": "https://unsplash.com/@vitormonthay"
+          },
+          "href": "#lace-and-specialist-fabrics",
+          "title": "Lace & specialist",
+          "kicker": "Special occasion",
+          "text": "Lace, velvet, sequins and faux leather.",
+          "points": [
+            "Test on scraps first",
+            "Specialist feet help"
+          ],
+          "cta": "How to sew it"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Before you buy",
+      "html": "<ul><li>Check the pattern’s suggested fabrics and the amount needed for your size and the fabric width.</li><li>Feel the drape: does it hang or hold its shape?</li><li>Check the fibre content and care label.</li><li><strong>Pre-wash</strong> washable fabrics before cutting to avoid shrinkage later.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1457972657980-4c9fddebec8d?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1457972657980-4c9fddebec8d?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1457972657980-4c9fddebec8d?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Pinning red fabric by hand\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Pre-wash, press and pin carefully before cutting.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@krisatomic?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Kris Atomic</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Cotton",
+      "html": "<p>Quilting cotton, poplin, lawn and chambray are the friendliest fabrics for beginners. Use a universal needle (80/12), all-purpose thread and a medium stitch length.</p>"
+    },
+    {
+      "h2": "Linen",
+      "html": "<p>Linen is strong, breathable and frays readily, so neaten seams with an overlocker, zigzag or French seams. It presses crisply with steam.</p>"
+    },
+    {
+      "h2": "Jersey and knits",
+      "html": "<p>Knits stretch, so use a <strong>ballpoint or stretch needle</strong>, a narrow zigzag or stretch stitch (or an overlocker), and don’t pull the fabric. A walking foot helps prevent wavy seams.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1641320197434-6ae0ca235048?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1641320197434-6ae0ca235048?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1641320197434-6ae0ca235048?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Close-up of fabric being stitched on a sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Use a stretch stitch or overlocker on jersey.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@worsham?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Ashley Diane Worsham</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Denim and heavy fabrics",
+      "html": "<p>Use a <strong>jeans needle</strong> (90/14 to 100/16), a longer stitch, and sew slowly over thick seams. A hump jumper or folded scrap helps the foot climb over bulky hems. Heavy-duty or industrial machines make light work of it.</p>"
+    },
+    {
+      "h2": "Silk and satin",
+      "html": "<p>Use a fine sharp needle, fine pins in the seam allowance and a short stitch. Tissue paper under the seam stops slippage and can be torn away afterwards.</p>"
+    },
+    {
+      "h2": "Lace and specialist fabrics",
+      "html": "<p>Lace, velvet, sequins and faux leather all have their own tricks: a non-stick or walking foot, sharp new needles and plenty of testing on scraps.</p><div class=\"fig-pair\"><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1634225234360-7c921a9d2400?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1634225234360-7c921a9d2400?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1634225234360-7c921a9d2400?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"White lace on a black background\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Lace needs fine needles and patience.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@divazus?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Divazus Fabric Store</a> / Unsplash</span></figcaption></figure><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1628483211662-9bcc692c46dc?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1628483211662-9bcc692c46dc?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1628483211662-9bcc692c46dc?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Leather wallet, thread and scissors\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Faux leather benefits from a non-stick or walking foot.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@constantinevdokimov?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Konstantin Evdokimov</a> / Unsplash</span></figcaption></figure></div>"
+    },
+    {
+      "h2": "Getting your machine ready",
+      "html": "<p>A freshly serviced machine with a new needle handles every fabric better. If you are in Leicestershire, <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> services domestic and industrial machines. Leicester itself, with <a href=\"/leicester-hosiery/\">its textile heritage</a>, is a great place to shop for fabric.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the easiest fabric for beginners?",
+      "a": "Medium-weight woven cotton, such as poplin or quilting cotton. It doesn’t stretch or slip and presses well."
+    },
+    {
+      "q": "Do I need to pre-wash fabric?",
+      "a": "For washable garments, yes. Washing before cutting means any shrinkage happens before you sew, not after."
+    }
+  ],
+  "related": [
+    "sewing-machines",
+    "quilting-and-patchwork",
+    "blog/sewing-machine-needles-guide",
+    "haberdashery-and-accessories"
+  ]
+}

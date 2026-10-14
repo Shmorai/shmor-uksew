@@ -49,12 +49,35 @@
           "text": "Sew test seams and explain any parts that need replacing."
         }
       ]
+    },
+    {
+      "type": "facts",
+      "title": "PK Sewing Machines in numbers",
+      "items": [
+        {
+          "value": "1982",
+          "label": "Founded in Leicester by two brothers"
+        },
+        {
+          "value": "5,000+",
+          "label": "Spare parts, accessories and consumables"
+        },
+        {
+          "value": "£35",
+          "label": "Servicing listed “from” on pksm.co.uk"
+        },
+        {
+          "value": "40+ yrs",
+          "label": "Family-run sales, service and repairs"
+        }
+      ],
+      "note": "Figures as published by PK Sewing Machines on <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>. Prices are set by PKSM and can change."
     }
   ],
   "sections": [
     {
       "h2": "How often to service",
-      "html": "<p>As a rule of thumb, home machines in regular use benefit from a service every year or so, and sooner if stitch quality changes. Industrial machines in daily production need daily care and more frequent professional checks. See <a href=\"/blog/how-often-to-service-a-sewing-machine/\">how often to service a sewing machine</a>.</p>"
+      "html": "<p>As a rule of thumb, home machines in regular use benefit from a service every year or so, and sooner if stitch quality changes. Industrial machines in daily production need daily care and more frequent professional checks. See <a href=\"/blog/how-often-to-service-a-sewing-machine/\">how often to service a sewing machine</a>.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1524292332709-b33366a7f165?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1524292332709-b33366a7f165?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1524292332709-b33366a7f165?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Person repairing a sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>A service includes cleaning, oiling, adjustment and a test sew.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@lidyanada?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Lidya Nada</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Signs your machine needs attention",
@@ -63,6 +86,14 @@
     {
       "h2": "Repairs in Leicester and the East Midlands",
       "html": "<aside class=\"pk-callout\"><p class=\"pk-k\">Leicester specialist</p><p><strong>PK Sewing Machines</strong> has sold, serviced and repaired domestic and industrial sewing machines from 415 St Saviours Road, Leicester LE5 4HH since 1982. PK Sewing Machines services and repairs domestic and industrial machines in its Leicester workshop, lists servicing from £35 on its website, and offers on-site industrial call-outs across the East Midlands. Collection and delivery can be arranged for a quote. Call 0116 273 6552 or visit <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>.</p></aside><p>Prices are set by the repairer and depend on the machine and the work needed, so ask for a quote first.</p>"
+    },
+    {
+      "h2": "Before you bring a machine in",
+      "html": "<ul><li>Note the fault: when it happens, on what fabric, and any noises.</li><li>Bring the foot pedal, power cable, bobbin case and a bobbin.</li><li>Include a sample of the stitching problem if you can.</li><li>Ask for a quote before work starts.</li></ul>"
+    },
+    {
+      "h2": "Repair or replace?",
+      "html": "<p>Repair usually makes sense for a well-built machine with available parts. Replacement makes sense when a budget machine needs an expensive electronic board, or parts no longer exist. A good engineer will tell you honestly.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1560796952-f1c9b838544c?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1560796952-f1c9b838544c?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1560796952-f1c9b838544c?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Close-up of a sewing machine needle and presser foot\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Well-built machines are usually worth repairing.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@jwill14?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">J Williams</a> / Unsplash</span></figcaption></figure>"
     }
   ],
   "faqs": [
@@ -83,6 +114,7 @@
   ],
   "related": [
     "pk-sewing-machines-leicester",
+    "sewing-machine-repairs-east-midlands",
     "blog/common-sewing-machine-problems",
     "blog/how-often-to-service-a-sewing-machine"
   ]

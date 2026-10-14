@@ -1,0 +1,59 @@
+{
+  "updated": "2026-10-14",
+  "slug": "brands/singer",
+  "nav": "Singer",
+  "keywords": [
+    "singer",
+    "singer sewing machine",
+    "singer sewing machine uk",
+    "singer parts",
+    "singer repair",
+    "singer service"
+  ],
+  "related": [
+    "brands",
+    "reviews",
+    "sewing-machine-parts"
+  ],
+  "name": "Singer",
+  "title": "Singer Sewing Machines: History, Models and Parts in the UK",
+  "description": "Singer sewing machines in the UK: history since 1851, the famous Clydebank factory, vintage machines worth keeping, and parts and servicing.",
+  "eyebrow": "Brand guide · Founded 1851",
+  "h1": "Singer sewing machines",
+  "intro": "The most famous name in sewing, with a British story too: for nearly a century, Singer machines were made at Clydebank in Scotland.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1557113166-86fc668c156e",
+    "alt": "Vintage Singer sewing machine",
+    "credit": "Angela Bailey",
+    "creditUrl": "https://unsplash.com/@angelabaileyy"
+  },
+  "cardText": "History from 1851, Clydebank, vintage machines and parts.",
+  "sections": [
+    {
+      "h2": "A brief history",
+      "html": "<p>Isaac Merritt Singer and Edward Clark founded I. M. Singer &amp; Co in the United States in 1851. Singer became one of the world’s first truly global brands, helped by instalment payments that let households buy machines over time.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1627812962960-0015d7d6a76f?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1627812962960-0015d7d6a76f?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1627812962960-0015d7d6a76f?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Black and gold vintage sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Black and gold decals are a hallmark of vintage Singers.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@ryunosuke_kikuno?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Ryunosuke Kikuno</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Made in Scotland: Clydebank",
+      "html": "<p>Singer built a huge factory at Kilbowie, Clydebank, near Glasgow, in the 1880s. It became one of the largest sewing machine factories in the world and ran until 1980. The local railway station is still called Singer. That is why so many British homes still have a Clydebank-built Singer.</p>"
+    },
+    {
+      "h2": "Vintage Singers worth keeping",
+      "html": "<p>Older all-metal Singers, hand-crank, treadle and early electric models, are durable and repairable. Many sew straight stitch beautifully through heavy fabrics. Check the serial number to date your machine, and look for missing parts such as the bobbin case or shuttle before buying.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1476683874822-744764a2438f?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1476683874822-744764a2438f?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1476683874822-744764a2438f?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Old treadle sewing machine on a wooden stand\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Treadle and hand-crank Singers still sew well when serviced.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@itfeelslikefilm?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Janko Ferlič</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Modern Singer machines",
+      "html": "<p>Today’s Singer range covers mechanical beginner machines, computerised models and heavy-duty machines. As with any brand, check the build, the buttonhole and parts availability for the specific model.</p>"
+    },
+    {
+      "h2": "Parts and servicing for Singer machines",
+      "html": "<p>Singer machines are among the makes <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> lists on its website. PKSM services and repairs domestic and industrial machines in Leicester and stocks needles, bobbins, feet and other parts. Send the model number to check a part before you buy. <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> means the city has deep machinery know-how.</p><aside class=\"pk-callout\"><p class=\"pk-k\">Leicester specialist</p><p><strong>PK Sewing Machines</strong> has sold, serviced and repaired domestic and industrial sewing machines from 415 St Saviours Road, Leicester LE5 4HH since 1982. Call 0116 273 6552 or visit <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>.</p></aside>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is an old Singer worth repairing?",
+      "a": "Often yes. Many older all-metal Singers are robust and parts for common models are still available. A specialist can check and service it."
+    }
+  ]
+}

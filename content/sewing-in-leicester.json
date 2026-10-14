@@ -1,0 +1,83 @@
+{
+  "updated": "2026-10-14",
+  "slug": "sewing-in-leicester",
+  "title": "Sewing in Leicester: Machine Shops, Heritage and Fabric",
+  "description": "A sewer’s guide to Leicester: machine sales and repairs at PK Sewing Machines, textile heritage, fabric shopping on Belgrave Road and study at DMU.",
+  "eyebrow": "Local guide · Leicester",
+  "h1": "Sewing in Leicester",
+  "intro": "Britain’s historic hosiery capital is still a great city for sewers, knitters and makers. Here is where to go.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1550085997-838afca7d3d4",
+    "alt": "A busy Leicester shopping street",
+    "credit": "Luca Vavassori",
+    "creditUrl": "https://unsplash.com/@vavassoriluca"
+  },
+  "cardText": "Machine shops, heritage, fabric shopping and textile study in Leicester.",
+  "keywords": [
+    "sewing leicester",
+    "sewing machine shop leicester",
+    "fabric shop leicester",
+    "sewing machine repair leicester",
+    "belgrave road",
+    "golden mile",
+    "leicester textiles"
+  ],
+  "blocks": [
+    {
+      "type": "feature",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1626274890657-e28d5b65b04b",
+        "alt": "Black sewing machine on a wooden table",
+        "credit": "Claudio Schwarz",
+        "creditUrl": "https://unsplash.com/@purzlbaum"
+      },
+      "kicker": "Machine sales, servicing & parts",
+      "heading": "PK Sewing Machines, St Saviours Road",
+      "html": "<p>Family-run since 1982: new and used domestic and industrial machines, servicing listed from £35, 5,000+ spare parts and industrial call-outs across the East Midlands. Open Monday to Friday, 9:00 to 17:00. Tel 0116 273 6552.</p>",
+      "links": [
+        {
+          "title": "PKSM profile",
+          "slug": "pk-sewing-machines-leicester",
+          "primary": true
+        },
+        {
+          "title": "pksm.co.uk",
+          "href": "http://www.pksm.co.uk/"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Sewing machine sales and repairs",
+      "html": "<p><a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> at 415 St Saviours Road, LE5 4HH, sells, services and repairs domestic and industrial machines and has a large parts department. See <a href=\"/pk-sewing-machines-leicester/\">our PKSM profile</a>.</p>"
+    },
+    {
+      "h2": "Fabric shopping",
+      "html": "<p>Belgrave Road, known as the Golden Mile, is famous for its sari, fabric and jewellery shops and for its Diwali celebrations. It is a feast for anyone who loves colour and pattern. Leicester also has markets and independent haberdashers; check opening times before you go.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1550376026-7375b92bb318?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1550376026-7375b92bb318?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1550376026-7375b92bb318?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Assorted coloured textiles\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Leicester is a colourful city for fabric shopping.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@plhnk?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Paul Hanaoka</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Textile heritage",
+      "html": "<p>Learn about the city’s hosiery past in <a href=\"/leicester-hosiery/\">our heritage guide</a>, then visit the <strong>Wigston Framework Knitters Museum</strong> just south of the city. The <a href=\"/blog/framework-knitting-museums-east-midlands/\">framework knitting museums guide</a> has more.</p>"
+    },
+    {
+      "h2": "Studying textiles",
+      "html": "<p>De Montfort University (DMU) in Leicester teaches fashion and textile subjects and hosted the Leicester Made &amp; Regions industry day in April 2026. Read our <a href=\"/blog/leicester-made-2026/\">Leicester Made 2026</a> article.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1557777586-f6682739fcf3?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1557777586-f6682739fcf3?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1557777586-f6682739fcf3?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Fashion illustration sketches\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Leicester has a strong fashion and textile education scene.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@charlotablunarova?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Charlota Blunarova</a> / Unsplash</span></figcaption></figure>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    },
+    {
+      "title": "Visit Leicester: Wigston Framework Knitters Museum",
+      "url": "https://visitleicester.info/point-of-interest/wigston-framework-knitters-museum/"
+    }
+  ],
+  "related": [
+    "pk-sewing-machines-leicester",
+    "leicester-hosiery",
+    "sewing-machine-repairs-east-midlands"
+  ]
+}

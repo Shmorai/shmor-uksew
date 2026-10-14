@@ -26,11 +26,11 @@
   "sections": [
     {
       "h2": "Thread bunching underneath (“bird’s nest”)",
-      "html": "<p>This is almost always an <strong>upper threading</strong> problem. Raise the presser foot (which opens the tension discs), rethread the top thread completely, and try again.</p>"
+      "html": "<p>This is almost always an <strong>upper threading</strong> problem. Raise the presser foot (which opens the tension discs), rethread the top thread completely, and try again.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1517146783983-418c681b56c5?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1517146783983-418c681b56c5?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1517146783983-418c681b56c5?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Assorted coloured thread spools\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Rethreading fixes most bird’s nests.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@vishalbanik16?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Vishal Banik</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Skipped stitches",
-      "html": "<p>Change the needle first. Make sure it is the right type and size for the fabric (a ballpoint for knits) and inserted the right way round, fully up.</p>"
+      "html": "<p>Change the needle first. Make sure it is the right type and size for the fabric (a ballpoint for knits) and inserted the right way round, fully up.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1502217625004-89c03571bcca?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1502217625004-89c03571bcca?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1502217625004-89c03571bcca?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Macro photo of a sewing machine needle\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>A new, correct needle fixes most skipped stitches.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@ilya90?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Ilya lix</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Needles keep breaking",
@@ -45,6 +45,26 @@
       "html": "<p>Stop sewing. Unplug and check for broken needle fragments or thread wrapped round the hook. If the noise continues, book a service.</p>"
     },
     {
+      "h2": "Tension troubles",
+      "html": "<p>If the top thread shows on the underside, the top tension is too loose (or the machine is mis-threaded). If the bobbin thread shows on top, the top tension is too tight. Change one setting at a time. See <a href=\"/blog/sewing-machine-tension-guide/\">our tension guide</a>.</p>"
+    },
+    {
+      "h2": "Bobbin problems",
+      "html": "<ul><li>Wind bobbins evenly at a steady speed.</li><li>Use the correct bobbin class for your machine.</li><li>Insert it the right way round (check the manual for clockwise or anticlockwise).</li><li>Clean lint from the bobbin case regularly.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1560796952-f1c9b838544c?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1560796952-f1c9b838544c?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1560796952-f1c9b838544c?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Close-up of a sewing machine needle and presser foot\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Clean the bobbin area regularly.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@jwill14?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">J Williams</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Machine won’t sew at all",
+      "html": "<ul><li>Check the power switch, plug and foot pedal connection.</li><li>Check the bobbin winder isn’t engaged (on many machines it stops the needle moving).</li><li>Check the clutch on the handwheel of older machines is tightened.</li></ul>"
+    },
+    {
+      "h2": "Fabric puckering",
+      "html": "<p>Reduce top tension slightly, use a finer needle and thread for light fabrics, shorten the stitch, or place tissue under the seam. On knits, use a ballpoint needle and don’t pull the fabric.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1516707471165-777029111409?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1516707471165-777029111409?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1516707471165-777029111409?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Silk fabric with scissors and thread\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Fine fabrics need fine needles and a lighter touch.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@onesummerday11?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Dinh Pham</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Thread keeps breaking",
+      "html": "<ul><li>Rethread the top and check for snags on the spool or guides.</li><li>Use better-quality thread, and match needle size to thread.</li><li>Check the needle isn’t damaged or inserted wrongly.</li><li>Reduce top tension a little.</li></ul>"
+    },
+    {
       "h2": "When to call a pro",
       "html": "<p>Timing, motor and electrical faults need an engineer. <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> has repaired machines in Leicester since 1982, from domestic to industrial. Leicester’s <a href=\"/leicester-hosiery/\">hosiery heritage</a> means there is real expertise on hand. See <a href=\"/sewing-machine-repairs/\">repairs and servicing</a>.</p>"
     }
@@ -53,6 +73,16 @@
     {
       "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
       "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why is my thread bunching under the fabric?",
+      "a": "Usually the top thread isn’t seated in the tension discs. Raise the presser foot and rethread the top completely."
+    },
+    {
+      "q": "Why does my machine skip stitches?",
+      "a": "The most common causes are a blunt, bent or wrong-type needle, or a needle inserted incorrectly. Change it first."
     }
   ]
 }

@@ -30,11 +30,31 @@
     },
     {
       "h2": "The essentials",
-      "html": "<ul><li><strong>Zipper foot</strong>: sews close to zip teeth and piping.</li><li><strong>Buttonhole foot</strong>: usually supplied with the machine.</li><li><strong>Walking foot</strong>: feeds layers evenly, ideal for quilting, checks and knits.</li><li><strong>Invisible zip foot</strong>: for concealed zips in dresses and skirts.</li></ul>"
+      "html": "<ul><li><strong>Zipper foot</strong>: sews close to zip teeth and piping.</li><li><strong>Buttonhole foot</strong>: usually supplied with the machine.</li><li><strong>Walking foot</strong>: feeds layers evenly, ideal for quilting, checks and knits.</li><li><strong>Invisible zip foot</strong>: for concealed zips in dresses and skirts.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1531376653594-e9bcf0f0c65b?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1531376653594-e9bcf0f0c65b?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1531376653594-e9bcf0f0c65b?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Red and blue zips\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>A zipper foot sews close to zip teeth.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@tomas_nz?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Tomas Sobek</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Nice to have",
-      "html": "<ul><li>Rolled hem foot for scarves and fine edges.</li><li>Edge-stitch foot for neat topstitching.</li><li>Non-stick foot for vinyl and leatherette.</li><li>Open-toe embroidery foot for appliqué.</li></ul>"
+      "html": "<ul><li>Rolled hem foot for scarves and fine edges.</li><li>Edge-stitch foot for neat topstitching.</li><li>Non-stick foot for vinyl and leatherette.</li><li>Open-toe embroidery foot for appliqué.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1602730273286-22b077c994de?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1602730273286-22b077c994de?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1602730273286-22b077c994de?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Close-up of a colourful patchwork quilt\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>A walking foot makes quilting layers easier.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@couserjl?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Jen Couser</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Specialist feet for garments",
+      "html": "<ul><li><strong>Blind hem foot</strong> for nearly invisible hems.</li><li><strong>Gathering foot</strong> for frills and ruffles.</li><li><strong>Overcast foot</strong> for neat edges without an overlocker.</li><li><strong>Narrow hem foot</strong> for fine fabrics.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1630930678172-63343537a00a?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1630930678172-63343537a00a?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1630930678172-63343537a00a?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Hands guiding fabric through a sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Specialist feet speed up garment sewing.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@omaralrawi?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Omar Alrawi</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Feet for quilting and crafts",
+      "html": "<ul><li><strong>¼-inch patchwork foot</strong> for accurate seams.</li><li><strong>Free-motion (darning) foot</strong> for free-motion quilting and embroidery.</li><li><strong>Teflon or roller foot</strong> for vinyl, oilcloth and faux leather.</li></ul>"
+    },
+    {
+      "h2": "Genuine or generic feet?",
+      "html": "<p>Generic snap-on feet are good value for many machines, but check fit carefully. For walking feet and specialist feet, genuine or well-reviewed compatible parts generally work better. A dealer can confirm what fits your model.</p>"
+    },
+    {
+      "h2": "How to change a foot",
+      "html": "<ol><li>Raise the needle and presser foot and switch off or unplug the machine.</li><li>For snap-on feet, press the release lever behind the holder and the foot drops off.</li><li>Line up the new foot’s bar under the holder and lower the presser foot lever until it clicks.</li><li>For screw-on feet, loosen the thumb screw, swap the foot and tighten firmly.</li><li>Turn the handwheel by hand to check the needle clears the foot.</li></ol><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1497997092403-f091fcf5b6c4?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1497997092403-f091fcf5b6c4?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1497997092403-f091fcf5b6c4?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Sewing machine presser foot with thread on dark cloth\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Always check the needle clears a new foot before sewing.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@alex_andrews?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Alexander Andrews</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Feet for industrial machines",
+      "html": "<p>Industrial lockstitch machines use their own range of feet: hinged feet, compensating feet for edge stitching, piping and cording feet, and Teflon feet. Make sure feet match the machine model and feed type.</p>"
     },
     {
       "h2": "Where to buy",
@@ -45,6 +65,12 @@
     {
       "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
       "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What presser foot do I need for zips?",
+      "a": "A zipper foot for regular zips and an invisible (concealed) zip foot for invisible zips in dresses and skirts."
     }
   ]
 }

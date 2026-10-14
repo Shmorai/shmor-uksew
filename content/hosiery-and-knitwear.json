@@ -1,0 +1,126 @@
+{
+  "updated": "2026-10-14",
+  "slug": "hosiery-and-knitwear",
+  "title": "Hosiery & Knitwear Guide: Socks, Tights, Denier and More",
+  "description": "What hosiery is, how socks and tights are made, what denier means, the fibres used and how to care for knitwear, with a look at Leicester’s hosiery trade.",
+  "eyebrow": "Hosiery · Knitwear",
+  "h1": "Hosiery and knitwear: the complete guide",
+  "intro": "Socks, tights, stockings and knitwear: how they are made, what the labels mean and how to make them last, from the city that made hosiery famous.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1585499583264-491df5142e83",
+    "alt": "Blue, white and yellow knitted socks",
+    "credit": "Nick Page",
+    "creditUrl": "https://unsplash.com/@nickpage"
+  },
+  "cardText": "Socks, tights, denier, fibres and care, plus Leicester’s hosiery trade.",
+  "keywords": [
+    "hosiery",
+    "what is hosiery",
+    "denier",
+    "tights",
+    "socks",
+    "stockings",
+    "knitwear",
+    "hosiery manufacturers uk",
+    "sock fibres"
+  ],
+  "blocks": [
+    {
+      "type": "catalogue",
+      "title": "Explore hosiery",
+      "items": [
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1759313912121-50365ef1c0bf",
+            "alt": "Pink tights with flowers",
+            "credit": "Liana S",
+            "creditUrl": "https://unsplash.com/@cherstve_pechivo"
+          },
+          "slug": "blog/what-is-denier-tights-guide",
+          "kicker": "Tights",
+          "title": "What denier means",
+          "cta": "Read the guide"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1730447619863-5349b3f6db70",
+            "alt": "Three socks laid out on a white sheet",
+            "credit": "Anna Evans",
+            "creditUrl": "https://unsplash.com/@anevans"
+          },
+          "slug": "blog/how-socks-are-made",
+          "kicker": "Socks",
+          "title": "How socks are made",
+          "cta": "Read the guide"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1646270968802-6bad28659329",
+            "alt": "A stack of knitted jumpers",
+            "credit": "Meg MacDonald",
+            "creditUrl": "https://unsplash.com/@missmeg_mac"
+          },
+          "href": "#knitwear-care",
+          "kicker": "Care",
+          "title": "Caring for knitwear",
+          "text": "Wash, dry and store knits so they last for years.",
+          "cta": "Read more"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1782828151611-a825182fb111",
+            "alt": "Old weaving machines with fabric rolls",
+            "credit": "Georg Eiermann",
+            "creditUrl": "https://unsplash.com/@georgeiermann"
+          },
+          "slug": "leicester-hosiery",
+          "kicker": "Heritage",
+          "title": "Leicester’s hosiery story",
+          "cta": "Explore"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What is hosiery?",
+      "html": "<p><strong>Hosiery</strong> is the trade term for knitted legwear, such as socks, tights and stockings, and historically also knitted underwear. A <strong>hosier</strong> was a maker or seller of these goods. Leicester and Nottingham were the centres of the British hosiery industry.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1613151848917-80e67f421fff?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1613151848917-80e67f421fff?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1613151848917-80e67f421fff?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Grey wool sock on white fabric\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Hosiery means knitted legwear: socks, tights and stockings.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@seasonsdiary?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Nynne Schrøder</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Denier and tights",
+      "html": "<p><strong>Denier</strong> measures the weight of a fibre: grams per 9,000 metres. In tights, a lower denier is sheerer and a higher denier more opaque. Roughly: up to about 20 denier is sheer, around 30 to 40 is semi-opaque, and 40 and above is opaque. Read <a href=\"/blog/what-is-denier-tights-guide/\">our denier guide</a>.</p>"
+    },
+    {
+      "h2": "Sock fibres",
+      "html": "<ul><li><strong>Cotton</strong>: breathable everyday socks, usually blended with elastane.</li><li><strong>Wool and merino</strong>: warm, cushioned and good at managing moisture.</li><li><strong>Nylon (polyamide)</strong>: adds strength at heels and toes.</li><li><strong>Elastane</strong>: keeps socks and tights fitting.</li></ul>"
+    },
+    {
+      "h2": "Knitwear: fully fashioned vs cut and sew",
+      "html": "<p><strong>Fully fashioned</strong> knitwear is knitted to shape, piece by piece, and then linked together, giving neat seams and less waste. <strong>Cut and sew</strong> knitwear is cut from knitted fabric and sewn on overlockers, which is quicker. Leicester produced both.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1582719188393-bb71ca45dbb9?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1582719188393-bb71ca45dbb9?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1582719188393-bb71ca45dbb9?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Colourful knitted jumpers on a clothing rail\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Knitwear is either knitted to shape or cut and sewn.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@markuswinkler?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Markus Winkler</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Knitwear care",
+      "html": "<ul><li>Wash inside out, cool, and with a wool-friendly detergent.</li><li>Dry flat to keep shape; never hang wet knits.</li><li>De-pill gently with a fabric comb.</li><li>Fold, don’t hang, and protect from moths.</li></ul>"
+    },
+    {
+      "h2": "Leicester’s hosiery trade",
+      "html": "<p>Read <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> for the story of Corah, Wolsey and the framework knitters. For the machines that sew and finish knitwear today, from overlockers to coverstitch, Leicester’s <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> supplies, services and repairs domestic and industrial equipment.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does hosiery mean?",
+      "a": "Hosiery is knitted legwear such as socks, tights and stockings. Historically the term also covered knitted underwear."
+    },
+    {
+      "q": "What denier is opaque?",
+      "a": "Tights of about 40 denier and above are usually described as opaque."
+    }
+  ],
+  "related": [
+    "knitting-machines",
+    "leicester-hosiery",
+    "blog/how-socks-are-made",
+    "blog/what-is-denier-tights-guide"
+  ]
+}

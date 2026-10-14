@@ -24,7 +24,7 @@
   "sections": [
     {
       "h2": "Overlockers (sergers)",
-      "html": "<p>An overlocker stitches, trims and neatens a seam in one pass using three or four threads (some use five). It is the machine that makes home-sewn T-shirts and jersey dresses look shop-bought. Look for <strong>differential feed</strong>, which stops knits stretching or puckering, and easy lower-looper threading.</p>"
+      "html": "<p>An overlocker stitches, trims and neatens a seam in one pass using three or four threads (some use five). It is the machine that makes home-sewn T-shirts and jersey dresses look shop-bought. Look for <strong>differential feed</strong>, which stops knits stretching or puckering, and easy lower-looper threading.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1641320197434-6ae0ca235048?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1641320197434-6ae0ca235048?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1641320197434-6ae0ca235048?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Close-up of fabric being stitched on a sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Overlocked seams are stretchy, neat and fast.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@worsham?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Ashley Diane Worsham</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Coverstitch",
@@ -32,11 +32,19 @@
     },
     {
       "h2": "Embroidery machines",
-      "html": "<p>Embroidery machines stitch digitised designs inside a hoop. The <strong>maximum hoop size</strong> decides how large a design can be, so check it first. Combination sewing-and-embroidery machines save space but tie up one machine for both jobs.</p>"
+      "html": "<p>Embroidery machines stitch digitised designs inside a hoop. The <strong>maximum hoop size</strong> decides how large a design can be, so check it first. Combination sewing-and-embroidery machines save space but tie up one machine for both jobs.</p><div class=\"fig-pair\"><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1570073141869-2b9947394c95?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1570073141869-2b9947394c95?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1570073141869-2b9947394c95?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Embroidery in a wooden hoop\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Hoop size limits the design size.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@damaiantika?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">ika dam</a> / Unsplash</span></figcaption></figure><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1671535108620-d169ce916f09?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1671535108620-d169ce916f09?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1671535108620-d169ce916f09?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Embroidery on black cloth with scissors\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Machine embroidery adds a personal touch.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@ksyfffka07?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Ksenia Yakovleva</a> / Unsplash</span></figcaption></figure></div>"
     },
     {
       "h2": "Getting set up",
       "html": "<p>Specialist machines reward a proper demonstration. <a href=\"/pk-sewing-machines-leicester/\">PK Sewing Machines in Leicester</a> sells domestic overlocker and embroidery equipment, and services them too.</p>"
+    },
+    {
+      "h2": "Overlocker or coverstitch: which first?",
+      "html": "<p>For most sewers an overlocker comes first, because it seams and finishes in one go. Add a coverstitch machine once you sew lots of T-shirts, leggings and sportswear and want professional hems.</p>"
+    },
+    {
+      "h2": "Embroidery files and software",
+      "html": "<p>Embroidery machines read design files in specific formats, often transferred by USB or wirelessly. Check which formats your machine accepts and whether editing software is included or sold separately. Start with stabiliser that suits the fabric: tear-away for wovens, cut-away for knits.</p>"
     }
   ],
   "faqs": [
@@ -48,6 +56,7 @@
   "related": [
     "sewing-machines",
     "blog/overlocker-beginners-guide",
-    "haberdashery-and-accessories"
+    "haberdashery-and-accessories",
+    "hosiery-and-knitwear"
   ]
 }

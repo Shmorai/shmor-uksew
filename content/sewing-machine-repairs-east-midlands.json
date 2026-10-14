@@ -1,0 +1,82 @@
+{
+  "updated": "2026-10-14",
+  "slug": "sewing-machine-repairs-east-midlands",
+  "title": "Sewing Machine Repairs in the East Midlands: Your Options",
+  "description": "Sewing machine repairs and servicing across the East Midlands: workshop servicing in Leicester, industrial call-outs, collection and delivery, and what to ask.",
+  "eyebrow": "Local guide · East Midlands",
+  "h1": "Sewing machine repairs across the East Midlands",
+  "intro": "Whether you are in Leicester, Loughborough, Nottingham, Derby or Northampton, here is how to get a domestic or industrial machine repaired.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1524292332709-b33366a7f165",
+    "alt": "Sewing machine being repaired",
+    "credit": "Lidya Nada",
+    "creditUrl": "https://unsplash.com/@lidyanada"
+  },
+  "cardText": "Workshop servicing, industrial call-outs, collection and delivery.",
+  "keywords": [
+    "sewing machine repair east midlands",
+    "sewing machine repair nottingham",
+    "sewing machine repair loughborough",
+    "sewing machine repair derby",
+    "industrial sewing machine engineer",
+    "sewing machine service near me"
+  ],
+  "blocks": [
+    {
+      "type": "facts",
+      "title": "PK Sewing Machines in numbers",
+      "items": [
+        {
+          "value": "1982",
+          "label": "Founded in Leicester by two brothers"
+        },
+        {
+          "value": "5,000+",
+          "label": "Spare parts, accessories and consumables"
+        },
+        {
+          "value": "£35",
+          "label": "Servicing listed “from” on pksm.co.uk"
+        },
+        {
+          "value": "40+ yrs",
+          "label": "Family-run sales, service and repairs"
+        }
+      ],
+      "note": "Figures as published by PK Sewing Machines on <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>. Prices are set by PKSM and can change."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Workshop servicing in Leicester",
+      "html": "<p><a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> services and repairs domestic and industrial machines in its Leicester workshop at 415 St Saviours Road, with servicing listed from £35 on its website.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1560796952-f1c9b838544c?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1560796952-f1c9b838544c?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1560796952-f1c9b838544c?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Close-up of a sewing machine needle and presser foot\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Workshop servicing covers domestic and industrial machines.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@jwill14?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">J Williams</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Industrial call-outs",
+      "html": "<p>For workrooms and production environments, PKSM offers on-site industrial call-outs across the East Midlands, which keeps downtime short. Call 0116 273 6552 to arrange.</p>"
+    },
+    {
+      "h2": "Collection and delivery",
+      "html": "<p>If you can’t bring a machine in, PKSM says collection and delivery can be arranged, with fees depending on the machine, location and distance. Ask for a quote.</p>"
+    },
+    {
+      "h2": "Questions to ask any repairer",
+      "html": "<ul><li>Do you work on my make and model?</li><li>Is there a fixed service price, and what does it include?</li><li>Will you call me before doing extra work?</li><li>Do you stock the parts, and how long will it take?</li></ul>"
+    },
+    {
+      "h2": "Try these first",
+      "html": "<p>Many faults are fixed by rethreading and a new needle. See our <a href=\"/blog/common-sewing-machine-problems/\">troubleshooting guide</a>. The East Midlands has deep machinery know-how thanks to <a href=\"/leicester-hosiery/\">its hosiery heritage</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "related": [
+    "sewing-machine-repairs",
+    "pk-sewing-machines-leicester",
+    "sewing-in-leicester"
+  ]
+}

@@ -29,15 +29,31 @@
     },
     {
       "h2": "Building St Margaret’s Works",
-      "html": "<p>In 1865 the foundation stone of St Margaret’s Works was laid on a large site beside St Margaret’s Church. The firm took the image of St Margaret as its trademark, one of the earliest registered trademarks for knitted goods.</p>"
+      "html": "<p>In 1865 the foundation stone of St Margaret’s Works was laid on a large site beside St Margaret’s Church. The firm took the image of St Margaret as its trademark, one of the earliest registered trademarks for knitted goods.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1782828152833-e49c0d363683?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1782828152833-e49c0d363683?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1782828152833-e49c0d363683?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Rows of thread spools on a textile machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Large hosiery works ran rows of knitting machines.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@georgeiermann?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Georg Eiermann</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "A national supplier",
-      "html": "<p>Corah exhibited at the 1851 Great Exhibition and became a supplier to Marks &amp; Spencer from 1926. Employment peaked at several thousand people around the late 1960s, making it one of the largest single-site hosiery works anywhere.</p>"
+      "html": "<p>Corah exhibited at the 1851 Great Exhibition and became a supplier to Marks &amp; Spencer from 1926. Employment peaked at several thousand people around the late 1960s, making it one of the largest single-site hosiery works anywhere.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1646270968802-6bad28659329?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1646270968802-6bad28659329?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1646270968802-6bad28659329?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"A stack of knitted jumpers\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Corah supplied knitted goods to Marks & Spencer from 1926.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@missmeg_mac?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Meg MacDonald</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "The end of an era",
       "html": "<p>In the late 1980s the company passed out of the founding family’s hands. Its story is remembered through archives and oral histories, and in the buildings that still stand in the city.</p>"
+    },
+    {
+      "h2": "A factory town within a city",
+      "html": "<p>At its height, St Margaret’s Works was a self-contained world of knitting rooms, making-up rooms, warehouses and offices. Many Leicester families had several generations working there, and oral history projects have recorded their memories.</p>"
+    },
+    {
+      "h2": "The St Margaret trademark",
+      "html": "<p>Corah adopted St Margaret, the saint of the church beside the works, as its trademark. It was one of the earliest registered trademarks for knitted goods, a sign of how brands were becoming important in Victorian retailing.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1632944968588-3ec2870641ce?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1632944968588-3ec2870641ce?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1632944968588-3ec2870641ce?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Knitted socks and a hat on a wooden table\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Branded knitted goods became important in Victorian retail.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@kikimora33?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Kate Laine</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Working at Corah",
+      "html": "<p>Oral histories from former employees describe a large, busy workplace with its own social life, sports and clubs, where families often worked together across generations. These recollections are preserved by projects such as the University of Leicester’s East Midlands Oral History Archive and Knitting Together.</p>"
+    },
+    {
+      "h2": "What survives today",
+      "html": "<p>The St Margaret’s Works buildings and the wider factory landscape of Leicester remind visitors of the scale of the industry. Walking the area around St Margaret’s Church gives a sense of how close the mills were to the city centre.</p>"
     },
     {
       "h2": "Leicester’s machinery tradition",
@@ -60,6 +76,12 @@
     {
       "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
       "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When did Corah close?",
+      "a": "The company passed out of the Corah family’s ownership in the late 1980s, and production at St Margaret’s Works later ended. Sources differ on exact dates, so check the archives for details."
     }
   ]
 }

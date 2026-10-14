@@ -29,6 +29,70 @@
   ],
   "blocks": [
     {
+      "type": "gallery",
+      "layout": "strip",
+      "items": [
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1502217625004-89c03571bcca",
+            "alt": "Macro photo of a sewing machine needle",
+            "credit": "Ilya lix",
+            "creditUrl": "https://unsplash.com/@ilya90"
+          },
+          "caption": "Needles",
+          "slug": "blog/sewing-machine-needles-guide"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1517146783983-418c681b56c5",
+            "alt": "Assorted coloured thread spools",
+            "credit": "Vishal Banik",
+            "creditUrl": "https://unsplash.com/@vishalbanik16"
+          },
+          "caption": "Bobbins & thread",
+          "slug": "blog/bobbins-and-bobbin-cases-guide"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1497997092403-f091fcf5b6c4",
+            "alt": "Sewing machine presser foot with thread on dark cloth",
+            "credit": "Alexander Andrews",
+            "creditUrl": "https://unsplash.com/@alex_andrews"
+          },
+          "caption": "Presser feet",
+          "slug": "blog/presser-feet-guide"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1426927308491-6380b6a9936f",
+            "alt": "Hand tools hanging on a workshop rack",
+            "credit": "Barn Images",
+            "creditUrl": "https://unsplash.com/@barnimages"
+          },
+          "caption": "Tools & spares"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1583836815700-ba0649cf1faa",
+            "alt": "Blue, red and white thread",
+            "credit": "Boris Dunand",
+            "creditUrl": "https://unsplash.com/@borisdunand"
+          },
+          "caption": "Thread"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1531376653594-e9bcf0f0c65b",
+            "alt": "Red and blue zips",
+            "credit": "Tomas Sobek",
+            "creditUrl": "https://unsplash.com/@tomas_nz"
+          },
+          "caption": "Zips & notions",
+          "slug": "haberdashery-and-accessories"
+        }
+      ]
+    },
+    {
       "type": "deals",
       "title": "Parts by category",
       "items": [
@@ -85,6 +149,14 @@
     {
       "h2": "Genuine vs compatible parts",
       "html": "<p>Compatible parts can be good value for consumables like bobbins and feet, but for timing-critical parts such as hooks and loopers, quality matters. Poorly made hooks can cause skipped stitches and damage.</p>"
+    },
+    {
+      "h2": "Parts for vintage machines",
+      "html": "<p>Older Singer, Jones, Frister & Rossmann and similar machines are still repairable. Common replacements are belts, bobbin winder tyres, motor brushes, light bulbs and feet. Some mechanical parts are now sourced second-hand or as reproductions, which is where a dealer’s trade contacts help.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1557113166-86fc668c156e?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1557113166-86fc668c156e?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1557113166-86fc668c156e?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Vintage Singer sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Many vintage machines are still repairable with the right parts.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@angelabaileyy?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Angela Bailey</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Keep a small spares kit",
+      "html": "<ul><li>A pack of needles in your two most-used sizes, plus ballpoint.</li><li>Spare bobbins (the correct class).</li><li>Small screwdriver and lint brush.</li><li>Spare light bulb or LED for older machines.</li></ul>"
     }
   ],
   "faqs": [

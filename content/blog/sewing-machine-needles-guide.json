@@ -33,15 +33,35 @@
     },
     {
       "h2": "Sizes",
-      "html": "<p>Sizes are shown as metric/imperial, such as <strong>70/10, 80/12, 90/14, 100/16</strong>. Lower numbers are finer. Use fine needles for silk and lawn, mid sizes for cotton, and heavier sizes for denim and canvas.</p>"
+      "html": "<p>Sizes are shown as metric/imperial, such as <strong>70/10, 80/12, 90/14, 100/16</strong>. Lower numbers are finer. Use fine needles for silk and lawn, mid sizes for cotton, and heavier sizes for denim and canvas.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1560796952-f1c9b838544c?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1560796952-f1c9b838544c?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1560796952-f1c9b838544c?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Close-up of a sewing machine needle and presser foot\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Needle size should match fabric weight.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@jwill14?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">J Williams</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Point types",
-      "html": "<ul><li><strong>Universal</strong>: everyday wovens and some knits.</li><li><strong>Ballpoint / jersey</strong>: pushes between knit fibres instead of piercing them.</li><li><strong>Stretch</strong>: for very elastic fabrics and swimwear.</li><li><strong>Jeans / denim</strong>: sharp and strong for dense weaves.</li><li><strong>Leather</strong>: a cutting point, for leather only.</li><li><strong>Embroidery and metallic</strong>: larger eyes to protect delicate threads.</li></ul>"
+      "html": "<ul><li><strong>Universal</strong>: everyday wovens and some knits.</li><li><strong>Ballpoint / jersey</strong>: pushes between knit fibres instead of piercing them.</li><li><strong>Stretch</strong>: for very elastic fabrics and swimwear.</li><li><strong>Jeans / denim</strong>: sharp and strong for dense weaves.</li><li><strong>Leather</strong>: a cutting point, for leather only.</li><li><strong>Embroidery and metallic</strong>: larger eyes to protect delicate threads.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1631112230741-446762ee05ac?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1631112230741-446762ee05ac?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1631112230741-446762ee05ac?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Close-up of blue denim twill\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Dense denim needs a sharp, strong jeans needle.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@dylanhendricks?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Dylann Hendricks</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "When to change",
       "html": "<p>Change the needle every project or after several hours of sewing, and immediately if it hits a pin. A blunt needle causes skipped stitches and snagged fabric.</p>"
+    },
+    {
+      "h2": "Quick needle chart",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Fabric</th><th>Needle type</th><th>Typical size</th></tr></thead><tbody><tr><td>Silk, chiffon, lawn</td><td>Microtex / sharp</td><td>60/8–70/10</td></tr><tr><td>Cotton, poplin, linen</td><td>Universal</td><td>80/12–90/14</td></tr><tr><td>Jersey, T-shirt knits</td><td>Ballpoint / jersey</td><td>70/10–90/14</td></tr><tr><td>Swimwear, lycra</td><td>Stretch</td><td>75/11–90/14</td></tr><tr><td>Denim, canvas</td><td>Jeans</td><td>90/14–110/18</td></tr><tr><td>Leather</td><td>Leather (cutting point)</td><td>90/14–110/18</td></tr></tbody></table></div><p>Sizes are a guide; test on a scrap first.</p>"
+    },
+    {
+      "h2": "Twin needles and topstitching",
+      "html": "<p>Twin (double) needles sew two parallel rows, great for hems on knits when you don’t have a coverstitch machine. They only work on machines with a zigzag and a front-to-back needle hole. Topstitch needles have a larger eye for thick decorative thread.</p>"
+    },
+    {
+      "h2": "Anatomy of a needle",
+      "html": "<p>From top to bottom a needle has a <strong>shank</strong> (flat on most domestic needles so it only fits one way), a <strong>shaft</strong>, a <strong>groove</strong> down the front that guides the thread, the <strong>eye</strong>, a <strong>scarf</strong> (a scoop behind the eye that lets the hook catch the thread) and the <strong>point</strong>. Insert domestic needles with the flat side to the back on most machines, pushed fully up.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1502217625004-89c03571bcca?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1502217625004-89c03571bcca?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1502217625004-89c03571bcca?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Macro photo of a sewing machine needle\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>The scarf behind the eye lets the hook catch the thread.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@ilya90?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Ilya lix</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Matching thread to needle",
+      "html": "<p>The thread should sit snugly in the needle’s front groove. Too thick a thread in a small needle frays and breaks; too fine a thread in a big needle can cause skipped stitches. Topstitching thread needs a topstitch needle or a larger size.</p>"
+    },
+    {
+      "h2": "Industrial needle systems in the trade",
+      "html": "<p>Workrooms use many systems, for example DBx1 (common for lockstitch), DCx27 and B27 (common for overlockers) and others for coverstitch and specialist machines. Leicester’s knitwear and garment factories rely on the right system and point for each knitted fabric to avoid damaging loops.</p>"
     },
     {
       "h2": "Where to buy",
@@ -60,6 +80,16 @@
     {
       "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
       "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How often should I change my sewing machine needle?",
+      "a": "A common rule is after every project or every few hours of sewing, and straight away if it hits a pin, bends or starts skipping stitches."
+    },
+    {
+      "q": "Which way does a sewing machine needle go in?",
+      "a": "On most domestic machines the flat side of the shank faces the back. Always check your manual, as some machines differ."
     }
   ]
 }

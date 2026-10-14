@@ -26,15 +26,31 @@
   "sections": [
     {
       "h2": "Wigston Framework Knitters Museum",
-      "html": "<p>Just south of Leicester, this museum opened in 1986 in the house and workshop of a master hosier. The frame shop behind the house, built in 1891, was locked up after the last master hosier, Edgar Carter, died in the early 1950s, leaving a rare snapshot of a working life. It holds hand frames and a long bobbin-winding machine.</p>"
+      "html": "<p>Just south of Leicester, this museum opened in 1986 in the house and workshop of a master hosier. The frame shop behind the house, built in 1891, was locked up after the last master hosier, Edgar Carter, died in the early 1950s, leaving a rare snapshot of a working life. It holds hand frames and a long bobbin-winding machine.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1476683874822-744764a2438f?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1476683874822-744764a2438f?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1476683874822-744764a2438f?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Old treadle sewing machine on a wooden stand\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Hand frames were worked in homes and small workshops.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@itfeelslikefilm?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Janko Ferlič</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "The Framework Knitters Museum, Ruddington",
-      "html": "<p>In Nottinghamshire, this independent working museum opened in 1971 in a courtyard of buildings that date back to 1829. It has many frames, some still working, and visitors can sometimes have a go.</p>"
+      "html": "<p>In Nottinghamshire, this independent working museum opened in 1971 in a courtyard of buildings that date back to 1829. It has many frames, some still working, and visitors can sometimes have a go.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1632649027900-389e810204e6?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1632649027900-389e810204e6?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1632649027900-389e810204e6?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Hands knitting a piece of fabric\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Visitors can sometimes try knitting on a frame.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@daen_2chinda?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Tanaphong Toochinda</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Before you go",
       "html": "<p>Both museums are run with the help of volunteers and opening times vary by season, so check their websites first.</p>"
+    },
+    {
+      "h2": "Make it a heritage weekend",
+      "html": "<ul><li>Start in Leicester with our <a href=\"/leicester-hosiery/\">hosiery heritage</a> guide and walk past the old factory buildings.</li><li>Visit Wigston for the master hosier’s workshop.</li><li>Head to Ruddington, south of Nottingham, to see frames working.</li><li>Finish with a look at <a href=\"/blog/william-lee-stocking-frame/\">William Lee’s stocking frame</a>, the invention that started it all.</li></ul>"
+    },
+    {
+      "h2": "What you will see at Wigston",
+      "html": "<p>The house and frame shop of a master hosier, with frames, a bobbin-winding machine and the everyday objects of a working family. Because the workshop was left as it was in the 1950s, it feels like stepping back in time.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1602706294170-1fed8eecd9f9?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1602706294170-1fed8eecd9f9?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1602706294170-1fed8eecd9f9?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"White and grey knitted textile\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Frames produced flat knitted fabric loop by loop.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@olhakozachenko?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Olga Kozachenko</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "What you will see at Ruddington",
+      "html": "<p>A set of 19th-century framework knitters’ cottages and workshops around a courtyard, with many frames and other machines. Demonstrations show how stockings were knitted and how the trade developed.</p>"
+    },
+    {
+      "h2": "Tips for families and groups",
+      "html": "<ul><li>Check event days: demonstrations are the highlight.</li><li>Ask about group bookings for schools and societies.</li><li>Combine with a visit to Leicester or Nottingham city centres.</li></ul>"
     },
     {
       "h2": "Make a day of it in Leicester",
@@ -53,6 +69,12 @@
     {
       "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
       "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is the Wigston Framework Knitters Museum?",
+      "a": "In Wigston Magna, just south of Leicester. Check Visit Leicester or the museum for opening days before you go."
     }
   ]
 }

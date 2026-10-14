@@ -30,7 +30,7 @@
     },
     {
       "h2": "3-thread vs 4-thread",
-      "html": "<p>A <strong>4-thread</strong> overlock adds a second needle line for strength, and is the usual choice for seams on knits. A <strong>3-thread</strong> overlock is lighter and good for neatening edges.</p>"
+      "html": "<p>A <strong>4-thread</strong> overlock adds a second needle line for strength, and is the usual choice for seams on knits. A <strong>3-thread</strong> overlock is lighter and good for neatening edges.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1602706294170-1fed8eecd9f9?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1602706294170-1fed8eecd9f9?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1602706294170-1fed8eecd9f9?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"White and grey knitted textile\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>4-thread overlock is the go-to seam for knits.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@olhakozachenko?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Olga Kozachenko</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Differential feed",
@@ -42,7 +42,23 @@
     },
     {
       "h2": "Common mistakes",
-      "html": "<ul><li>Sewing over pins, which damages the knives.</li><li>Forgetting to raise the presser foot when threading.</li><li>Using the wrong needle system (many overlockers use specific needles).</li></ul>"
+      "html": "<ul><li>Sewing over pins, which damages the knives.</li><li>Forgetting to raise the presser foot when threading.</li><li>Using the wrong needle system (many overlockers use specific needles).</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1613076321656-23dcdd3aea92?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1613076321656-23dcdd3aea92?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1613076321656-23dcdd3aea92?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Red, blue and white thread spools\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Use good overlocker thread on cones or large spools.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@bkaraivanov?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Bozhin Karaivanov</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Your first practice session",
+      "html": "<ol><li>Thread the machine in four different colours so you can see which thread does what.</li><li>Sew on scraps of jersey and woven cotton.</li><li>Adjust one tension dial at a time and watch the change.</li><li>Practise curves and outside corners.</li><li>Try a rolled hem if your machine offers one.</li></ol>"
+    },
+    {
+      "h2": "Tension on an overlocker",
+      "html": "<p>Each thread has its own tension dial. A balanced 4-thread overlock shows the upper looper thread on top, the lower looper thread underneath, and the needle threads as straight lines. If loops hang off the edge, tighten that looper slightly; if the fabric puckers, loosen.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1613076321656-23dcdd3aea92?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1613076321656-23dcdd3aea92?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1613076321656-23dcdd3aea92?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Red, blue and white thread spools\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Each overlocker thread has its own tension dial.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@bkaraivanov?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Bozhin Karaivanov</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Cutting width and stitch length",
+      "html": "<p>The knife trims the edge as you sew. Adjust the cutting width so the stitches wrap the edge neatly without rolling it. A longer stitch suits thicker fabrics, a shorter one gives a denser finish on fine fabrics.</p>"
+    },
+    {
+      "h2": "Looking after an overlocker",
+      "html": "<p>Overlockers produce lots of lint. Brush them out after every project, change needles regularly (using the type the manual specifies) and replace the knife if it starts chewing fabric. Service it as you would a sewing machine.</p>"
     },
     {
       "h2": "Help in Leicester",
@@ -53,6 +69,12 @@
     {
       "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
       "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can an overlocker replace a sewing machine?",
+      "a": "Not entirely. Overlockers can’t sew buttonholes, topstitching or zips. Most sewers use both."
     }
   ]
 }

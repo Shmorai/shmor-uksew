@@ -30,11 +30,31 @@
     },
     {
       "h2": "What to expect",
-      "html": "<p>Exhibitors selling yarn, fabric, haberdashery and tools, textile art galleries and workshops. It is a good place to see and feel yarns before you buy.</p>"
+      "html": "<p>Exhibitors selling yarn, fabric, haberdashery and tools, textile art galleries and workshops. It is a good place to see and feel yarns before you buy.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1637517626851-b3851b92b363?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1637517626851-b3851b92b363?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1637517626851-b3851b92b363?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"A display of coloured yarns in a shop\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Shows are a great place to see and feel yarn before buying.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@philipmyr?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Philip Myrtorp</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Buying tips",
       "html": "<ul><li>Make a list and a budget before you go.</li><li>Take photos of ball bands and stall details so you can reorder later.</li><li>For sewing machines, compare show offers with a local dealer who can service the machine later.</li></ul>"
+    },
+    {
+      "h2": "What to bring",
+      "html": "<ul><li>A shopping list with quantities and yarn weights.</li><li>A tape measure and your pattern measurements.</li><li>A bag that will take a few kilos of yarn.</li><li>Comfortable shoes: shows are big.</li></ul>"
+    },
+    {
+      "h2": "Workshops and talks",
+      "html": "<p>Shows usually run workshops in knitting, crochet, embroidery and textile art, plus talks from makers. Popular sessions sell out, so book early if they need tickets.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1570073141869-2b9947394c95?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1570073141869-2b9947394c95?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1570073141869-2b9947394c95?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Embroidery in a wooden hoop\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Workshops cover embroidery, knitting and textile art.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@damaiantika?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">ika dam</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Buying a sewing machine at a show",
+      "html": "<p>Show offers can be tempting. Before you buy, check who will service the machine and supply parts after the show, the warranty terms, and whether you can return it. A local dealer may match or beat the deal with ongoing support.</p>"
+    },
+    {
+      "h2": "Planning your day",
+      "html": "<ul><li>Check the floor plan online and mark must-see stalls.</li><li>Arrive early for the quietest browsing.</li><li>Take breaks: there is usually seating and catering.</li><li>Keep a note of exhibitors’ websites for later orders.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1788712998889-0c7875bccf3c?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1788712998889-0c7875bccf3c?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1788712998889-0c7875bccf3c?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Yarn skeins on wooden shelves in a craft shop\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Note exhibitors’ websites for reorders later.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@benjamin_photo_lab?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Benjamin Chambon</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Other UK craft events",
+      "html": "<p>Alongside Knit + Stitch, the UK has many craft shows, yarn festivals and sewing events through the year, from large exhibitions to local wool fairs. Local guilds and sewing groups often organise coach trips.</p>"
     },
     {
       "h2": "Closer to home",
@@ -49,6 +69,12 @@
     {
       "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
       "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When is Knit + Stitch Harrogate 2026?",
+      "a": "Listings give 19 to 22 November 2026. Check the official website for times, tickets and venue before travelling."
     }
   ]
 }

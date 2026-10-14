@@ -25,7 +25,7 @@
   "sections": [
     {
       "h2": "Check the basics",
-      "html": "<ul><li>Does it power on, and does the motor run smoothly at slow and fast speeds?</li><li>Does the handwheel turn freely?</li><li>Is the foot pedal and power cable intact, with no damage?</li><li>Are the bobbin case, bobbins and presser feet included?</li></ul>"
+      "html": "<ul><li>Does it power on, and does the motor run smoothly at slow and fast speeds?</li><li>Does the handwheel turn freely?</li><li>Is the foot pedal and power cable intact, with no damage?</li><li>Are the bobbin case, bobbins and presser feet included?</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1627812962960-0015d7d6a76f?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1627812962960-0015d7d6a76f?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1627812962960-0015d7d6a76f?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Black and gold vintage sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Check the machine powers on and runs smoothly at all speeds.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@ryunosuke_kikuno?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Ryunosuke Kikuno</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Sew a test seam",
@@ -37,7 +37,27 @@
     },
     {
       "h2": "Dealer vs private sale",
-      "html": "<p>Buying from a business gives you rights under the Consumer Rights Act 2015: goods must be of satisfactory quality, fit for purpose and as described. Private sales offer much less protection. Read the seller’s terms carefully, especially for items described as “sold as seen”.</p>"
+      "html": "<p>Buying from a business gives you rights under the Consumer Rights Act 2015: goods must be of satisfactory quality, fit for purpose and as described. Private sales offer much less protection. Read the seller’s terms carefully, especially for items described as “sold as seen”.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1557113166-86fc668c156e?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1557113166-86fc668c156e?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1557113166-86fc668c156e?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Vintage Singer sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Older all-metal machines can be excellent buys.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@angelabaileyy?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Angela Bailey</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Red flags",
+      "html": "<ul><li>A seized handwheel or grinding noises.</li><li>Burning smells or a damaged cable or pedal.</li><li>Missing bobbin case or proprietary parts.</li><li>“Just needs a service” with no way to test it.</li><li>A price close to a new machine with no testing or warranty.</li></ul>"
+    },
+    {
+      "h2": "Vintage machines",
+      "html": "<p>Hand-crank and treadle machines can be lovely to sew on and very repairable. Check the treadle belt, the bobbin or shuttle, and that decals and plates are intact if you care about collectability. Read our <a href=\"/brands/singer/\">Singer guide</a>.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1476683874822-744764a2438f?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1476683874822-744764a2438f?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1476683874822-744764a2438f?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Old treadle sewing machine on a wooden stand\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Treadle machines need a good belt and a free-running mechanism.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@itfeelslikefilm?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Janko Ferlič</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Online listings: how to judge them",
+      "html": "<ul><li>Look for clear photos of the machine from all sides, the bobbin area and accessories.</li><li>Ask for a short video of it sewing.</li><li>Check delivery packing: sewing machines are heavy and can be damaged in transit.</li><li>Prefer sellers who describe testing and condition honestly.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1466027397211-20d0f2449a3f?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1466027397211-20d0f2449a3f?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1466027397211-20d0f2449a3f?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Vintage black and gold sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Ask to see the machine sewing before you buy.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@anniespratt?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Annie Spratt</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Budget for a service",
+      "html": "<p>Even a good used machine benefits from a service if its history is unknown. Factor that into the price and you will compare options fairly.</p>"
+    },
+    {
+      "h2": "Industrial machines second-hand",
+      "html": "<p>When factories close or downsize, industrial machines come onto the market. Check that the head, table and motor all match, the hook isn’t burred, and the motor is the right type for your power supply. A dealer who has tested and serviced the machine removes most of the risk.</p>"
     },
     {
       "h2": "A tested machine from a specialist",
@@ -52,6 +72,12 @@
     {
       "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
       "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is it worth buying a vintage sewing machine?",
+      "a": "Often, if it is complete and parts are available. Many older machines are robust and sew straight stitch beautifully, but they lack modern features like one-step buttonholes."
     }
   ]
 }

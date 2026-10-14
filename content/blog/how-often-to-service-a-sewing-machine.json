@@ -28,7 +28,7 @@
     },
     {
       "h2": "What you can do between services",
-      "html": "<ul><li>Change the needle every project or so, and straight away if it is bent or blunt.</li><li>Brush lint from the bobbin area and feed dogs (unplug first).</li><li>Oil only where the manual says, with sewing machine oil. Many modern domestic machines should not be oiled by the owner.</li><li>Cover the machine when not in use.</li></ul>"
+      "html": "<ul><li>Change the needle every project or so, and straight away if it is bent or blunt.</li><li>Brush lint from the bobbin area and feed dogs (unplug first).</li><li>Oil only where the manual says, with sewing machine oil. Many modern domestic machines should not be oiled by the owner.</li><li>Cover the machine when not in use.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1426927308491-6380b6a9936f?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1426927308491-6380b6a9936f?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1426927308491-6380b6a9936f?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Hand tools hanging on a workshop rack\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Basic care needs only a lint brush, a screwdriver and the right oil.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@barnimages?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Barn Images</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Warning signs",
@@ -39,6 +39,26 @@
       "html": "<p>Typically: an inspection and test, a deep clean of lint and old oil, lubrication, tension and timing adjustment, and a test sew. Any worn parts should be explained before they are replaced.</p>"
     },
     {
+      "h2": "A simple monthly routine",
+      "html": "<ol><li>Unplug the machine.</li><li>Remove the needle plate and bobbin case (if removable).</li><li>Brush out lint from the feed dogs and hook area; never blow into the machine, which pushes lint deeper.</li><li>Oil only the points shown in your manual.</li><li>Fit a new needle and sew a test seam on scrap fabric.</li></ol><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1587819390518-12c38c703ba2?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1587819390518-12c38c703ba2?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1587819390518-12c38c703ba2?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Black and white photo of a sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Lint builds up around the feed dogs and hook.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@everyangle?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Every Angle</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Storing a machine",
+      "html": "<p>Keep it covered, somewhere dry and at room temperature. Machines stored in cold garages or lofts can suffer from thickened oil and damp. Run a machine that has been stored for a long time slowly at first, and book a service if it sounds rough.</p>"
+    },
+    {
+      "h2": "Domestic vs industrial intervals",
+      "html": "<p>Home machines that sew a few hours a week usually need a professional service roughly once a year. Heavy home use (quilting, dressmaking every evening) may justify more often. Industrial machines in production should be cleaned and oiled by the operator daily or as the manual says, with engineer checks on a regular schedule. A log of hours and faults helps you find the right interval.</p>"
+    },
+    {
+      "h2": "Why lint is the enemy",
+      "html": "<p>Every stitch sheds tiny fibres. Over time these pack around the feed dogs and hook, soak up oil and become a felt-like plug that stops parts moving freely. The result is skipped stitches, noise and strain on the motor. Cotton, fleece, felt and wadding produce the most lint.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1641320197434-6ae0ca235048?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1641320197434-6ae0ca235048?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1641320197434-6ae0ca235048?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Close-up of fabric being stitched on a sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Fleece, felt and wadding shed the most lint.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@worsham?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Ashley Diane Worsham</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "What a service won’t fix",
+      "html": "<p>A service restores a machine to good working order, but it can’t make a budget machine sew through materials it wasn’t designed for. If you regularly sew heavy canvas, leather or many layers, ask the engineer whether a heavy-duty or industrial machine would serve you better.</p>"
+    },
+    {
       "h2": "Booking a service in Leicester",
       "html": "<p><a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> services domestic and industrial machines in its Leicester workshop and lists servicing from £35 on its website. Leicester engineers have kept machines running since the days of <a href=\"/leicester-hosiery/\">the city’s great hosiery mills</a>. Read more on our <a href=\"/sewing-machine-repairs/\">repairs page</a> or <a href=\"/pk-sewing-machines-leicester/\">PKSM profile</a>.</p>"
     }
@@ -47,6 +67,14 @@
     {
       "q": "Should I oil my sewing machine?",
       "a": "Only if the manual tells you to. Many older and industrial machines need regular oiling; many modern domestic machines are sealed and should be oiled only by an engineer."
+    },
+    {
+      "q": "How long does a sewing machine service take?",
+      "a": "It depends on the workshop’s queue and the work needed. Ask when you book; many workshops can give an estimate once they have seen the machine."
+    },
+    {
+      "q": "Can I service a sewing machine myself?",
+      "a": "You can clean lint, change needles and oil where the manual allows. Timing, tension assemblies, motors and electronics are best left to an engineer."
     }
   ],
   "sources": [

@@ -1,0 +1,79 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/sewing-room-setup",
+  "type": "post",
+  "date": "2026-10-06",
+  "title": "Setting Up a Sewing Room: Space, Light and Storage",
+  "description": "How to set up a sewing room or corner at home: table height, lighting, power, cutting and pressing stations, fabric and thread storage, and a comfortable chair.",
+  "h1": "Setting up a sewing room",
+  "eyebrow": "At home",
+  "intro": "A well-planned sewing space, even a corner, makes every project faster and more enjoyable.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1687676626229-d55a2d0b1bc5",
+    "alt": "A sewing room with clothes on the wall",
+    "credit": "muhammad arief",
+    "creditUrl": "https://unsplash.com/@tuyuloveu"
+  },
+  "keywords": [
+    "sewing room",
+    "sewing room ideas",
+    "sewing table",
+    "sewing storage",
+    "craft room"
+  ],
+  "cardText": "Tables, light, storage and three stations: sew, cut, press.",
+  "sections": [
+    {
+      "h2": "Three stations: sew, cut, press",
+      "html": "<p>Arrange a sewing table, a cutting surface and an ironing board so you can move between them easily. A swivel chair that turns from machine to iron saves lots of steps.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1787505136265-9a99dad3bbac?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1787505136265-9a99dad3bbac?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1787505136265-9a99dad3bbac?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Cutting white fabric in a studio\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>A clear cutting surface makes accurate work easier.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@soujest?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Sou Jest</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Table and chair",
+      "html": "<p>A sturdy table that doesn’t wobble stops vibration. Your forearms should rest comfortably at machine bed height. An adjustable chair with back support makes long sessions easier.</p>"
+    },
+    {
+      "h2": "Light and power",
+      "html": "<ul><li>Bright, daylight-balanced overhead light plus a task lamp.</li><li>Enough sockets for the machine, overlocker, iron and lamp without overloading.</li><li>Keep cables tidy and away from the iron.</li></ul>"
+    },
+    {
+      "h2": "Storage",
+      "html": "<p>Store fabric folded and out of sunlight, thread on a rack away from dust, and patterns in labelled folders. Clear boxes make notions easy to find.</p><div class=\"fig-pair\"><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1707915573116-5ec3c37b7be1?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1707915573116-5ec3c37b7be1?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1707915573116-5ec3c37b7be1?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Thread spools on a table\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Thread racks keep colours visible.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@lensyfoxography?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Victor Volkov</a> / Unsplash</span></figcaption></figure><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1742462925156-78e5009a9bbc?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1742462925156-78e5009a9bbc?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1742462925156-78e5009a9bbc?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Buttons arranged neatly by colour\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Clear boxes for notions and buttons.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@kovalskihelga?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Olga Kovalski</a> / Unsplash</span></figcaption></figure></div>"
+    },
+    {
+      "h2": "Small space solutions",
+      "html": "<ul><li>A fold-down table or a cabinet that closes away.</li><li>Wall-mounted thread racks and pegboards.</li><li>Under-bed boxes for fabric.</li><li>A portable cutting mat over a dining table.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1707858951058-ef91d6d3035a?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1707858951058-ef91d6d3035a?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1707858951058-ef91d6d3035a?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Sewing supplies on a wooden table\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Pegboards and racks keep small spaces tidy.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@sarabach?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Sara Bach</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Safety",
+      "html": "<p>Unplug machines and irons when not in use, keep pins and blades away from children and pets, and make sure your iron has a stable surface.</p>"
+    },
+    {
+      "h2": "Pressing station",
+      "html": "<p>Put the ironing board within a swivel of your chair, set at standing or sitting height as you prefer. A small tabletop pressing board beside the machine saves walking for every seam. Keep a pressing cloth, tailor’s ham and sleeve roll in a basket nearby, and empty the iron after use to prevent spitting.</p>"
+    },
+    {
+      "h2": "Organising fabric and projects",
+      "html": "<p>Group fabric by type (wovens, knits, quilting cottons) then colour. Keep each project in its own clear box or bag with the pattern, notions and fabric together, so you can pick up where you left off. A pinboard for inspiration, measurements and notes keeps ideas visible.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1640767760729-7bfb6ce43ad4?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1640767760729-7bfb6ce43ad4?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1640767760729-7bfb6ce43ad4?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Coloured fabrics on a shop shelf\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Group fabric by type, then by colour.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@cosminursea?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Cosmin Ursea</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Make it comfortable",
+      "html": "<p>Long sessions are easier with a cushioned mat under the pedal, a footrest if your feet don’t reach the floor flat, and regular breaks to stretch your shoulders and rest your eyes.</p>"
+    },
+    {
+      "h2": "Machine care corner",
+      "html": "<p>Keep a lint brush, spare needles, bobbins and the manual by the machine. For servicing in Leicestershire, <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> has been the local specialist since 1982, in a city known for <a href=\"/leicester-hosiery/\">hosiery and textiles</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What height should a sewing table be?",
+      "a": "High enough that your forearms rest comfortably on the machine bed with relaxed shoulders. An adjustable chair helps fine-tune it."
+    }
+  ]
+}

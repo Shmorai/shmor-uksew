@@ -1,0 +1,53 @@
+{
+  "updated": "2026-10-14",
+  "slug": "brands/brother",
+  "nav": "Brother",
+  "keywords": [
+    "brother",
+    "brother sewing machine",
+    "brother sewing machine uk",
+    "brother parts",
+    "brother repair",
+    "brother service"
+  ],
+  "related": [
+    "brands",
+    "reviews",
+    "sewing-machine-parts"
+  ],
+  "name": "Brother",
+  "title": "Brother Sewing Machines UK: Range, History and Parts",
+  "description": "Brother sewing machines explained: Japanese roots, domestic, embroidery and industrial ranges, who each suits, and where to find parts and servicing.",
+  "eyebrow": "Brand guide · Japan",
+  "h1": "Brother sewing machines",
+  "intro": "One of the broadest ranges in sewing, from simple beginner machines to embroidery machines and industrial equipment.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1526290766257-c015850e4629",
+    "alt": "White domestic sewing machine",
+    "credit": "Agto Nugroho",
+    "creditUrl": "https://unsplash.com/@agto"
+  },
+  "cardText": "Japanese roots, domestic and embroidery ranges, industrial machines.",
+  "sections": [
+    {
+      "h2": "Roots in sewing machines",
+      "html": "<p>Brother traces its roots to a sewing machine repair business founded in Nagoya, Japan, in 1908. The company grew into a manufacturer of sewing machines and later of printers and many other products.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1673786586360-19e8f8acb53f?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1673786586360-19e8f8acb53f?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1673786586360-19e8f8acb53f?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Modern sewing machine on a table\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Brother makes a broad domestic range.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@kemalberkaydogan?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Kemal Berkay Dogan</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Domestic machines",
+      "html": "<p>Brother’s domestic range runs from compact mechanical machines to computerised models with many stitches, automatic needle threaders and one-step buttonholes. They are a common first machine in UK homes.</p>"
+    },
+    {
+      "h2": "Embroidery machines",
+      "html": "<p>Brother is well known for embroidery and combination sewing-and-embroidery machines. Check the maximum hoop size and the design file formats each model accepts.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1671535108620-d169ce916f09?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1671535108620-d169ce916f09?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1671535108620-d169ce916f09?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Embroidery on black cloth with scissors\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Embroidery is a Brother speciality.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@ksyfffka07?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Ksenia Yakovleva</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Industrial machines",
+      "html": "<p>Brother also makes industrial sewing machines used in workrooms and factories, alongside its domestic range.</p>"
+    },
+    {
+      "h2": "Parts and servicing for Brother machines",
+      "html": "<p>Brother machines are among the makes <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> lists on its website. PKSM services and repairs domestic and industrial machines in Leicester and stocks needles, bobbins, feet and other parts. Send the model number to check a part before you buy. <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> means the city has deep machinery know-how.</p><aside class=\"pk-callout\"><p class=\"pk-k\">Leicester specialist</p><p><strong>PK Sewing Machines</strong> has sold, serviced and repaired domestic and industrial sewing machines from 415 St Saviours Road, Leicester LE5 4HH since 1982. Call 0116 273 6552 or visit <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>.</p></aside>"
+    }
+  ]
+}

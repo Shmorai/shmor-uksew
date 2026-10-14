@@ -70,46 +70,105 @@
       ]
     },
     {
-      "type": "tiles",
-      "title": "Shop the departments",
-      "intro": "Everything a sewing room, knitting basket or production line needs, explained by people who know the trade.",
+      "type": "catalogue",
+      "title": "Shop by department",
+      "intro": "Machines, parts, wool, fabric and services, each with a plain-English guide written for UK sewers and workrooms.",
       "items": [
         {
           "slug": "sewing-machines",
-          "badge": "Buyer’s guide",
-          "title": "Sewing machines",
-          "text": "Domestic, computerised and heavy-duty machines compared."
+          "kicker": "Machines",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1605002619330-080580537d72",
+            "alt": "White and blue domestic sewing machine",
+            "credit": "Victoria Nazaruk",
+            "creditUrl": "https://unsplash.com/@vvladimirovnna"
+          },
+          "points": [
+            "Mechanical, computerised, heavy-duty",
+            "New vs used advice"
+          ],
+          "cta": "Choose a machine"
         },
         {
           "slug": "industrial-sewing-machines",
-          "badge": "Trade",
-          "title": "Industrial machines",
-          "text": "Lockstitch, overlock and coverstitch for workrooms."
+          "kicker": "Trade",
+          "points": [
+            "Lockstitch, overlock, coverstitch",
+            "Servo motors and tables"
+          ],
+          "cta": "Industrial guide",
+          "title": "Industrial machines"
         },
         {
           "slug": "sewing-machine-parts",
-          "badge": "Parts",
+          "kicker": "Parts",
+          "points": [
+            "Needles, bobbins, feet, belts",
+            "5,000+ parts at PKSM"
+          ],
+          "cta": "Find a part",
           "title": "Parts & needles"
         },
         {
-          "slug": "wool-and-yarn",
-          "badge": "Knitting",
-          "title": "Wool & yarn"
+          "slug": "sewing-machine-repairs",
+          "kicker": "Service",
+          "points": [
+            "What a service includes",
+            "Leicester workshop and call-outs"
+          ],
+          "cta": "Repairs & servicing",
+          "title": "Repairs & servicing"
         },
         {
-          "slug": "overlockers-and-embroidery-machines",
-          "badge": "Specialist",
-          "title": "Overlockers & embroidery"
+          "slug": "wool-and-yarn",
+          "kicker": "Knitting",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1788712998889-0c7875bccf3c",
+            "alt": "Yarn skeins on wooden shelves in a craft shop",
+            "credit": "Benjamin Chambon",
+            "creditUrl": "https://unsplash.com/@benjamin_photo_lab"
+          },
+          "points": [
+            "4-ply, DK, aran, chunky",
+            "Wool, cotton and blends"
+          ],
+          "cta": "Wool & yarn"
+        },
+        {
+          "slug": "dressmaking-fabrics",
+          "kicker": "Fabric",
+          "points": [
+            "Cotton, linen, jersey, denim",
+            "Needles and threads to match"
+          ],
+          "cta": "Fabric guide",
+          "title": "Dressmaking fabrics"
+        },
+        {
+          "slug": "quilting-and-patchwork",
+          "kicker": "Quilting",
+          "points": [
+            "Tools and machine features",
+            "First quilt, step by step"
+          ],
+          "cta": "Quilting guide",
+          "title": "Quilting & patchwork"
         },
         {
           "slug": "haberdashery-and-accessories",
-          "badge": "Tools",
+          "kicker": "Tools",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1710432103945-f25124303cba",
+            "alt": "A table of sewing supplies",
+            "credit": "Sara Bach",
+            "creditUrl": "https://unsplash.com/@sarabach"
+          },
+          "points": [
+            "Scissors, pins, thread, pressing",
+            "Workroom kit"
+          ],
+          "cta": "Accessories",
           "title": "Accessories & tools"
-        },
-        {
-          "slug": "sewing-machine-repairs",
-          "badge": "Service",
-          "title": "Repairs & servicing"
         }
       ]
     },
@@ -117,6 +176,116 @@
       "type": "html",
       "class": "pk-feature",
       "html": "<div class=\"pkf\"><div class=\"pkf-copy\"><p class=\"pkf-k\">Featured company · Leicester</p><h2>PK Sewing Machines</h2><p class=\"pkf-lede\">Family-run sewing machine specialists on St Saviours Road, Leicester, since 1982. Sales, servicing, repairs and an extensive parts department for domestic and industrial machines.</p><ul class=\"pkf-list\"><li><strong>Since 1982</strong> started by two brothers, still family-run</li><li><strong>Servicing</strong> listed from £35 on pksm.co.uk</li><li><strong>5,000+ spare parts</strong> for domestic and industrial machines</li><li><strong>Industrial call-outs</strong> across the East Midlands</li></ul><div class=\"pkf-actions\"><a class=\"btn-red\" href=\"/pk-sewing-machines-leicester/\">Read the PKSM profile</a><a class=\"btn-ghost\" href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">Visit pksm.co.uk ↗</a></div></div><div class=\"pkf-photo\"><img src=\"https://images.unsplash.com/photo-1524292332709-b33366a7f165?w=900&h=1000&fit=crop&q=70&auto=format\" width=\"900\" height=\"1000\" alt=\"Sewing machine engineer at work on a machine\" loading=\"lazy\"><p class=\"pkf-cap\">Illustrative photo: Lidya Nada on Unsplash</p></div></div>"
+    },
+    {
+      "type": "facts",
+      "title": "PK Sewing Machines in numbers",
+      "items": [
+        {
+          "value": "1982",
+          "label": "Founded in Leicester by two brothers"
+        },
+        {
+          "value": "5,000+",
+          "label": "Spare parts, accessories and consumables"
+        },
+        {
+          "value": "£35",
+          "label": "Servicing listed “from” on pksm.co.uk"
+        },
+        {
+          "value": "40+ yrs",
+          "label": "Family-run sales, service and repairs"
+        }
+      ],
+      "note": "Figures as published by PK Sewing Machines on <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>. Prices are set by PKSM and can change."
+    },
+    {
+      "type": "gallery",
+      "title": "Inside the sewing room",
+      "intro": "From vintage Singers to modern workrooms, explore the craft.",
+      "items": [
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1785119774611-c9d4efc4dc5a",
+            "alt": "Antique sewing machine in a green room",
+            "credit": "Erik Mclean",
+            "creditUrl": "https://unsplash.com/@introspectivedsgn"
+          },
+          "caption": "Vintage machines",
+          "slug": "brands/singer"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1602730273286-22b077c994de",
+            "alt": "Close-up of a colourful patchwork quilt",
+            "credit": "Jen Couser",
+            "creditUrl": "https://unsplash.com/@couserjl"
+          },
+          "caption": "Quilting & patchwork",
+          "slug": "quilting-and-patchwork"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1637517626851-b3851b92b363",
+            "alt": "A display of coloured yarns in a shop",
+            "credit": "Philip Myrtorp",
+            "creditUrl": "https://unsplash.com/@philipmyr"
+          },
+          "caption": "Wool & yarn",
+          "slug": "wool-and-yarn"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1782828152833-e49c0d363683",
+            "alt": "Rows of thread spools on a textile machine",
+            "credit": "Georg Eiermann",
+            "creditUrl": "https://unsplash.com/@georgeiermann"
+          },
+          "caption": "Knitting & hosiery",
+          "slug": "hosiery-and-knitwear"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1563891510473-18923cd29239",
+            "alt": "Assorted coloured buttons",
+            "credit": "Clever Sparkle",
+            "creditUrl": "https://unsplash.com/@cleversparkle"
+          },
+          "caption": "Haberdashery",
+          "slug": "haberdashery-and-accessories"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1570073141869-2b9947394c95",
+            "alt": "Embroidery in a wooden hoop",
+            "credit": "ika dam",
+            "creditUrl": "https://unsplash.com/@damaiantika"
+          },
+          "caption": "Embroidery",
+          "slug": "overlockers-and-embroidery-machines"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1631112230741-446762ee05ac",
+            "alt": "Close-up of blue denim twill",
+            "credit": "Dylann Hendricks",
+            "creditUrl": "https://unsplash.com/@dylanhendricks"
+          },
+          "caption": "Denim & heavy fabrics",
+          "slug": "dressmaking-fabrics"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1753162658653-d33c53910d9e",
+            "alt": "Designers working on a dress form",
+            "credit": "Vitaly Gariev",
+            "creditUrl": "https://unsplash.com/@silverkblack"
+          },
+          "caption": "Dressmaking",
+          "slug": "blog/learn-to-sew-sewing-bee"
+        }
+      ]
     },
     {
       "type": "deals",
@@ -158,6 +327,30 @@
           "text": "Quote make and model to get the right needle system, bobbin or foot first time.",
           "href": "/sewing-machine-parts/",
           "cta": "Parts guide"
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "reverse": true,
+      "image": {
+        "src": "https://images.unsplash.com/photo-1632944968588-3ec2870641ce",
+        "alt": "Knitted socks and a hat on a wooden table",
+        "credit": "Kate Laine",
+        "creditUrl": "https://unsplash.com/@kikimora33"
+      },
+      "kicker": "Leicester · since 1589",
+      "heading": "The city that clothed the world",
+      "html": "<p>For three centuries Leicester’s framework knitters and factories made stockings, socks, underwear and knitwear for Britain and beyond. Corah’s St Margaret’s Works and the Wolsey brand made the city a byword for knitted goods.</p><p>That heritage lives on in Leicester’s knitters, garment makers and machinery specialists such as <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a>.</p>",
+      "links": [
+        {
+          "title": "Explore the heritage",
+          "slug": "leicester-hosiery",
+          "primary": true
+        },
+        {
+          "title": "Sewing in Leicester",
+          "slug": "sewing-in-leicester"
         }
       ]
     },
@@ -228,6 +421,81 @@
       ]
     },
     {
+      "type": "brands",
+      "title": "Makes we cover",
+      "items": [
+        {
+          "title": "Singer",
+          "slug": "brands/singer"
+        },
+        {
+          "title": "Brother",
+          "slug": "brands/brother"
+        },
+        {
+          "title": "Janome",
+          "slug": "brands/janome"
+        },
+        {
+          "title": "Juki",
+          "slug": "brands/juki"
+        },
+        "Bernina",
+        "Pfaff",
+        "Jack",
+        "Yamato",
+        "Groz-Beckert",
+        "Organ"
+      ]
+    },
+    {
+      "type": "feature",
+      "dark": true,
+      "image": {
+        "src": "https://images.unsplash.com/photo-1632932580949-3182167aaebb",
+        "alt": "Rolls of yarn on a wooden cart",
+        "credit": "Martin King",
+        "creditUrl": "https://unsplash.com/@kingy"
+      },
+      "kicker": "Wool & yarn",
+      "heading": "British wool, from fleece to finished jumper",
+      "html": "<p>UK yarn weights explained, the best fibres for socks and jumpers, and the Leicestershire sheep breeds that shaped British wool, including the Leicester Longwool and the Bluefaced Leicester.</p>",
+      "links": [
+        {
+          "title": "Wool & yarn guide",
+          "slug": "wool-and-yarn",
+          "primary": true
+        },
+        {
+          "title": "Leicester sheep breeds",
+          "slug": "blog/leicester-sheep-breeds-british-wool"
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1745847655362-fc86d76584b2",
+        "alt": "Hands at work on a sewing machine",
+        "credit": "alex jhonson",
+        "creditUrl": "https://unsplash.com/@alexjhonson23e"
+      },
+      "kicker": "Repairs & servicing",
+      "heading": "Keep your machine stitching for decades",
+      "html": "<p>A regular service keeps stitches even and prevents expensive breakdowns. Learn what a service includes, the warning signs to watch for and the quick fixes you can try at home.</p><ul><li>Workshop servicing in Leicester, listed from £35 by PKSM</li><li>Industrial call-outs across the East Midlands</li><li>Parts for older and discontinued machines</li></ul>",
+      "links": [
+        {
+          "title": "Repairs & servicing",
+          "slug": "sewing-machine-repairs",
+          "primary": true
+        },
+        {
+          "title": "Troubleshooting guide",
+          "slug": "blog/common-sewing-machine-problems"
+        }
+      ]
+    },
+    {
       "type": "steps",
       "title": "How UK Sew helps",
       "items": [
@@ -254,21 +522,6 @@
       ]
     }
   ],
-  "highlightsTitle": "Why sewers trust UK Sew",
-  "highlights": [
-    {
-      "title": "Built on hosiery heritage",
-      "text": "Leicester was the heart of Britain’s knitting and hosiery trade for centuries. Read <a href=\"/leicester-hosiery/\">the story</a>."
-    },
-    {
-      "title": "Real advice, no invented reviews",
-      "text": "We write editorial guides and brand overviews. We never make up prices, star ratings or customer reviews."
-    },
-    {
-      "title": "Local specialists first",
-      "text": "We point you to experienced independents like <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> for servicing, parts and tested machines."
-    }
-  ],
   "sections": [
     {
       "h2": "Sewing machines, wool and workshop supplies for the UK",
@@ -281,6 +534,10 @@
     {
       "h2": "Leicester: the city that clothed the world",
       "html": "<p>Framework knitting reached Leicestershire in the 1600s, and by the 1800s Leicester was famous for stockings, underwear and knitwear. Firms such as N. Corah &amp; Sons, whose St Margaret’s Works was one of the largest hosiery factories in Britain, and Wolsey, named after Cardinal Wolsey who is buried at Leicester Abbey, made the city a byword for knitted goods. Explore <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> and our <a href=\"/uk-hosiery-news/\">UK hosiery sector reading list</a>.</p>"
+    },
+    {
+      "h2": "Hosiery, knitwear and the machines behind them",
+      "html": "<p>Hosiery means knitted legwear and underwear: socks, tights and stockings. Today’s socks are knitted on circular machines and finished on linking and toe-closing machines, while garments are sewn on overlockers and coverstitch machines, the same types that keep Leicester’s workrooms busy. Read our <a href=\"/hosiery-and-knitwear/\">hosiery and knitwear guide</a>, <a href=\"/blog/what-is-denier-tights-guide/\">what denier means</a> and <a href=\"/blog/how-socks-are-made/\">how socks are made</a>.</p>"
     }
   ],
   "faqs": [
@@ -301,7 +558,8 @@
   "related": [
     "pk-sewing-machines-leicester",
     "leicester-hosiery",
-    "uk-hosiery-news"
+    "uk-hosiery-news",
+    "sewing-glossary"
   ],
   "relatedTitle": "Leicester, PKSM and the hosiery trade"
 }

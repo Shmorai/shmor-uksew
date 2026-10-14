@@ -89,6 +89,87 @@
           "href": "/blog/choosing-wool-and-yarn-weights/"
         }
       ]
+    },
+    {
+      "type": "gallery",
+      "title": "From fleece to finished knit",
+      "items": [
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1703291543301-a3104982a163",
+            "alt": "A flock of sheep grazing in a green field",
+            "credit": "Josh Smith",
+            "creditUrl": "https://unsplash.com/@josh3rsmith"
+          },
+          "caption": "British fleece",
+          "slug": "blog/leicester-sheep-breeds-british-wool"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1632932580949-3182167aaebb",
+            "alt": "Rolls of yarn on a wooden cart",
+            "credit": "Martin King",
+            "creditUrl": "https://unsplash.com/@kingy"
+          },
+          "caption": "Spun and dyed"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1788712998889-0c7875bccf3c",
+            "alt": "Yarn skeins on wooden shelves in a craft shop",
+            "credit": "Benjamin Chambon",
+            "creditUrl": "https://unsplash.com/@benjamin_photo_lab"
+          },
+          "caption": "In the shop"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1541944743827-e04aa6427c33",
+            "alt": "Person knitting a beige garment",
+            "credit": "Rebecca Grant",
+            "creditUrl": "https://unsplash.com/@luandesign"
+          },
+          "caption": "Hand knitting"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1648005539099-709d5be525fb",
+            "alt": "Three balls of yarn and a crochet hook",
+            "credit": "Joy Ru",
+            "creditUrl": "https://unsplash.com/@liliko_joy"
+          },
+          "caption": "Crochet"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1585499583264-491df5142e83",
+            "alt": "Blue, white and yellow knitted socks",
+            "credit": "Nick Page",
+            "creditUrl": "https://unsplash.com/@nickpage"
+          },
+          "caption": "Socks",
+          "slug": "blog/how-socks-are-made"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1582719188393-bb71ca45dbb9",
+            "alt": "Colourful knitted jumpers on a clothing rail",
+            "credit": "Markus Winkler",
+            "creditUrl": "https://unsplash.com/@markuswinkler"
+          },
+          "caption": "Knitwear",
+          "slug": "hosiery-and-knitwear"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1699805134875-83da1a5c736a",
+            "alt": "A basket filled with wool",
+            "credit": "K Adams",
+            "creditUrl": "https://unsplash.com/@kadams77"
+          },
+          "caption": "Stash"
+        }
+      ]
     }
   ],
   "sections": [
@@ -97,12 +178,24 @@
       "html": "<p>UK patterns usually say <strong>4-ply, double knit (DK), aran and chunky</strong>. US patterns say fingering, light worsted (DK), worsted (close to aran) and bulky. Always check the recommended needle size and tension (gauge) on the ball band rather than relying on the name.</p>"
     },
     {
+      "h2": "Yarn weights at a glance",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>UK name</th><th>US name</th><th>Typical needles</th><th>Good for</th></tr></thead><tbody><tr><td>Lace / 2-ply</td><td>Lace</td><td>1.5–2.25mm</td><td>Shawls, fine lace</td></tr><tr><td>4-ply</td><td>Fingering</td><td>2.75–3.25mm</td><td>Socks, baby clothes</td></tr><tr><td>Double knit (DK)</td><td>Light worsted</td><td>3.75–4mm</td><td>Jumpers, hats</td></tr><tr><td>Aran</td><td>Worsted</td><td>4.5–5mm</td><td>Cables, winter knits</td></tr><tr><td>Chunky</td><td>Bulky</td><td>6–8mm</td><td>Quick, cosy knits</td></tr><tr><td>Super chunky</td><td>Super bulky</td><td>9mm+</td><td>Blankets, statement pieces</td></tr></tbody></table></div><p>Ranges are typical; always follow the ball band and your pattern.</p>"
+    },
+    {
       "h2": "Fibres",
       "html": "<ul><li><strong>Wool</strong>: warm, elastic and breathable. Superwash wool can be machine washed.</li><li><strong>Cotton</strong>: cool and crisp, good for summer tops and dishcloths, but less stretchy.</li><li><strong>Acrylic</strong>: affordable and easy care, popular for blankets and children’s wear.</li><li><strong>Blends</strong>: wool with nylon is the classic for hard-wearing socks.</li></ul>"
     },
     {
       "h2": "From hand knitting to hosiery",
       "html": "<p>Hand knitting and machine knitting share a history. The stocking frame, invented in 1589, started an industry that made the East Midlands the home of British hosiery. Read about <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a>.</p>"
+    },
+    {
+      "h2": "British wool and Leicester sheep",
+      "html": "<p>Two famous breeds carry the county’s name. The <strong>Leicester Longwool</strong> was developed by Robert Bakewell at Dishley, near Loughborough, in the 18th century, and the <strong>Bluefaced Leicester</strong> is prized for fine, lustrous wool. Read <a href=\"/blog/leicester-sheep-breeds-british-wool/\">Leicester sheep and British wool</a>.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1742071853530-bc7446daa0f6?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1742071853530-bc7446daa0f6?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1742071853530-bc7446daa0f6?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Sheep grazing on a grassy hillside\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>British fleece is collected, graded and sold for UK farmers.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@veronicaa_white?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Veronica White</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Caring for wool",
+      "html": "<ul><li>Follow the ball band: many wools are hand wash only unless marked superwash.</li><li>Wash cool, don’t wring, and dry flat.</li><li>Store clean knits with cedar or lavender to deter moths.</li></ul>"
     }
   ],
   "faqs": [
@@ -120,6 +213,7 @@
   "related": [
     "haberdashery-and-accessories",
     "blog/choosing-wool-and-yarn-weights",
-    "leicester-hosiery"
+    "hosiery-and-knitwear",
+    "knitting-machines"
   ]
 }

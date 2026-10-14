@@ -26,7 +26,7 @@
   "sections": [
     {
       "h2": "The main types",
-      "html": "<ul><li><strong>Single-needle lockstitch</strong>: the backbone of most workrooms, for straight seams at high speed.</li><li><strong>Overlock and safety stitch</strong>: neatens and seams knitted and woven fabrics.</li><li><strong>Interlock and coverstitch</strong>: hems and flat seams for jersey, sportswear and underwear, a staple of the hosiery and knitwear trade.</li><li><strong>Walking foot and compound feed</strong>: for leather, upholstery and heavy layers.</li><li><strong>Specialist machines</strong>: buttonhole, button sew, bar tack, blind hem and chainstitch.</li></ul>"
+      "html": "<ul><li><strong>Single-needle lockstitch</strong>: the backbone of most workrooms, for straight seams at high speed.</li><li><strong>Overlock and safety stitch</strong>: neatens and seams knitted and woven fabrics.</li><li><strong>Interlock and coverstitch</strong>: hems and flat seams for jersey, sportswear and underwear, a staple of the hosiery and knitwear trade.</li><li><strong>Walking foot and compound feed</strong>: for leather, upholstery and heavy layers.</li><li><strong>Specialist machines</strong>: buttonhole, button sew, bar tack, blind hem and chainstitch.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1741176505800-caaa3a52631a?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1741176505800-caaa3a52631a?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1741176505800-caaa3a52631a?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Workers sewing textiles in a large factory\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Production workrooms rely on dedicated machines for each operation.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@equalstock?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">EqualStock</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Motors, tables and set-up",
@@ -39,6 +39,14 @@
     {
       "h2": "Brands you will see",
       "html": "<p>Juki, Jack, Brother, Yamato and Pfaff are all common in UK industrial settings. Parts availability matters more than the badge: ask a dealer which models they can support. See our <a href=\"/reviews/\">brand reviews</a>.</p>"
+    },
+    {
+      "h2": "Setting up a small workroom",
+      "html": "<ol><li>Start with a lockstitch and a 4-thread overlocker; add coverstitch if you sew jersey.</li><li>Plan power points, lighting and cutting space before machines arrive.</li><li>Buy from a dealer who can deliver, set up and service.</li><li>Keep a spares box: needles, bobbins, belts and the feet you use most.</li></ol><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1687676626229-d55a2d0b1bc5?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1687676626229-d55a2d0b1bc5?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1687676626229-d55a2d0b1bc5?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"A sewing room with clothes on the wall\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>A small workroom needs light, power and space to cut.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@tuyuloveu?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">muhammad arief</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Used industrial machines",
+      "html": "<p>Used industrial machines from closing factories can be excellent value, but check the head turns freely, the hook isn’t damaged and the motor runs quietly. A dealer who tests and services them first takes the risk out. <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> sells new and used industrial equipment in Leicester.</p>"
     }
   ],
   "faqs": [
@@ -56,5 +64,81 @@
     "sewing-machine-repairs",
     "blog/industrial-sewing-machine-maintenance",
     "blog/domestic-vs-industrial-sewing-machines"
+  ],
+  "blocks": [
+    {
+      "type": "catalogue",
+      "title": "Industrial machine types",
+      "items": [
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1675176785803-bffbbb0cd2f4",
+            "alt": "A row of industrial machines",
+            "credit": "Kevin Limbri",
+            "creditUrl": "https://unsplash.com/@limkage"
+          },
+          "href": "#the-main-types",
+          "title": "Single-needle lockstitch",
+          "kicker": "Workhorse",
+          "text": "Straight seams at high speed all day.",
+          "points": [
+            "Usually DBx1 needles",
+            "Servo or clutch motor"
+          ],
+          "cta": "Read more"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1782828152833-e49c0d363683",
+            "alt": "Rows of thread spools on a textile machine",
+            "credit": "Georg Eiermann",
+            "creditUrl": "https://unsplash.com/@georgeiermann"
+          },
+          "href": "#the-main-types",
+          "title": "Overlock & safety stitch",
+          "kicker": "Seams",
+          "text": "Seams and neatens knits and wovens in one pass.",
+          "points": [
+            "3, 4 and 5-thread",
+            "Differential feed"
+          ],
+          "cta": "Read more"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1654108565102-5e7073b7bcd0",
+            "alt": "Close-up of a textile machine at work",
+            "credit": "towel.studio",
+            "creditUrl": "https://unsplash.com/@towelstudio"
+          },
+          "href": "#the-main-types",
+          "title": "Coverstitch & interlock",
+          "kicker": "Knitwear",
+          "text": "The flat seams and hems of jersey, sportswear and underwear.",
+          "points": [
+            "A staple of hosiery and knitwear",
+            "Stretchy chain on the back"
+          ],
+          "cta": "Read more"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1628483211662-9bcc692c46dc",
+            "alt": "Leather wallet, thread and scissors",
+            "credit": "Konstantin Evdokimov",
+            "creditUrl": "https://unsplash.com/@constantinevdokimov"
+          },
+          "href": "#the-main-types",
+          "title": "Walking foot & compound feed",
+          "kicker": "Heavy",
+          "text": "For leather, upholstery, canvas and many layers.",
+          "points": [
+            "Feeds top and bottom together",
+            "Large bobbins"
+          ],
+          "cta": "Read more"
+        }
+      ]
+    }
   ]
 }

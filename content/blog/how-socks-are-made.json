@@ -1,0 +1,77 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/how-socks-are-made",
+  "type": "post",
+  "date": "2026-10-09",
+  "title": "How Socks Are Made: From Yarn to Pair, Step by Step",
+  "description": "How socks are made today: yarn, circular knitting machines, heel and toe shaping, toe closing, boarding and pairing, plus the Leicester connection.",
+  "h1": "How socks are made, step by step",
+  "eyebrow": "Hosiery · How it’s made",
+  "intro": "A pair of socks goes through yarn, knitting, closing, shaping and pairing before it reaches your drawer. Here is the process.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1730447619863-5349b3f6db70",
+    "alt": "Three socks laid out on a white sheet",
+    "credit": "Anna Evans",
+    "creditUrl": "https://unsplash.com/@anevans"
+  },
+  "keywords": [
+    "how socks are made",
+    "sock manufacturing",
+    "sock knitting machine",
+    "circular knitting",
+    "toe closing",
+    "sock boarding",
+    "hosiery manufacturing"
+  ],
+  "cardText": "Yarn, circular knitting, toe closing, boarding and pairing.",
+  "sections": [
+    {
+      "h2": "1. Choosing the yarn",
+      "html": "<p>Socks usually blend a main fibre (cotton, wool or merino) with nylon for strength and elastane for stretch. Sports socks may add cushioning yarns in the sole.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1597736091383-084fa1b69a6a?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1597736091383-084fa1b69a6a?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1597736091383-084fa1b69a6a?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Hands holding blue and white yarn\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Sock yarns blend comfort, strength and stretch.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@budetsvyazano?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Marina Ermakova</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "2. Knitting on a circular machine",
+      "html": "<p>A circular sock machine knits the sock as a tube, usually from the cuff (welt) down. The machine automatically changes stitch to knit ribbing, shapes the <strong>heel</strong> by knitting back and forth on some needles, continues down the foot and shapes the <strong>toe</strong>. Patterns and logos are knitted in using different yarn feeders.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1782828152833-e49c0d363683?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1782828152833-e49c0d363683?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1782828152833-e49c0d363683?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Rows of thread spools on a textile machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Circular machines knit socks as a continuous tube.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@georgeiermann?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Georg Eiermann</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "3. Closing the toe",
+      "html": "<p>The tube comes off the machine open at the toe. It is closed by <strong>linking</strong> (joining loop to loop for a flat, comfortable seam) or by sewing on a toe-closing machine. Many modern machines close the toe automatically.</p>"
+    },
+    {
+      "h2": "4. Washing and boarding",
+      "html": "<p>Socks may be washed or dyed, then <strong>boarded</strong>: pulled onto flat foot-shaped forms and set with heat and steam so they hold their shape.</p>"
+    },
+    {
+      "h2": "5. Pairing, labelling and packing",
+      "html": "<p>Socks are inspected, paired, labelled and packed. Quality checks look for holes, dropped stitches and sizing.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1585499583264-491df5142e83?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1585499583264-491df5142e83?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1585499583264-491df5142e83?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Blue, white and yellow knitted socks\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Pairs are checked, labelled and packed.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@nickpage?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Nick Page</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Seamless toes and comfort",
+      "html": "<p>A bulky toe seam can rub. <strong>Hand-linked</strong> or machine-linked toes join loop to loop for a flat seam and are a sign of a well-made sock. Many modern machines close the toe automatically with very little bulk.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1613151848917-80e67f421fff?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1613151848917-80e67f421fff?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1613151848917-80e67f421fff?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Grey wool sock on white fabric\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Linked toes give a flat, comfortable seam.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@seasonsdiary?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Nynne Schrøder</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Sizing and shaping",
+      "html": "<p>Socks are usually knitted as a tube with a shaped heel and toe; boarding sets the final foot shape. Sock sizes cover a range of shoe sizes, and stretch from elastane makes the fit work across that range.</p>"
+    },
+    {
+      "h2": "Why some socks last longer",
+      "html": "<p>Durable socks have a higher proportion of nylon at the heel and toe, a dense knit, and good-quality yarn. Reinforced heels and toes, linked toe seams and a well-set shape are all signs of quality.</p>"
+    },
+    {
+      "h2": "From Leicester frames to modern machines",
+      "html": "<p>The East Midlands made stockings and socks for centuries, first on hand frames and then in factories. Read <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> and <a href=\"/blog/william-lee-stocking-frame/\">William Lee’s stocking frame</a>. Leicester’s <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> supports today’s knitwear and garment makers with machines, parts and call-outs.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What machines are used to make socks?",
+      "a": "Socks are knitted on small-diameter circular knitting machines, then closed at the toe by linking or toe-closing and shaped by boarding."
+    }
+  ]
+}

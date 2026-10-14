@@ -24,7 +24,7 @@
   "sections": [
     {
       "h2": "Daily",
-      "html": "<ul><li>Check the oil level and oil where the manual says (not needed on dry-head models).</li><li>Brush lint from the hook, bobbin area and feed dogs.</li><li>Check the needle for damage.</li></ul>"
+      "html": "<ul><li>Check the oil level and oil where the manual says (not needed on dry-head models).</li><li>Brush lint from the hook, bobbin area and feed dogs.</li><li>Check the needle for damage.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1655122878062-a9e885391a1b?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1655122878062-a9e885391a1b?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1655122878062-a9e885391a1b?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Large room of blue industrial machines\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Daily care keeps production machines running.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@klalit?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Lalit Kumar</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Weekly",
@@ -36,7 +36,27 @@
     },
     {
       "h2": "Spares to keep in stock",
-      "html": "<p>Needles in your sizes, bobbins, a spare bobbin case, belts and the presser feet you use most. A good parts supplier will help you build a kit.</p>"
+      "html": "<p>Needles in your sizes, bobbins, a spare bobbin case, belts and the presser feet you use most. A good parts supplier will help you build a kit.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1426927308491-6380b6a9936f?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1426927308491-6380b6a9936f?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1426927308491-6380b6a9936f?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Hand tools hanging on a workshop rack\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Keep a spares kit for each machine type.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@barnimages?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Barn Images</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Keep a maintenance log",
+      "html": "<p>Record each machine’s make, model, serial number, service dates, parts replaced and faults. It speeds up diagnosis, helps an engineer, and shows which machines are costing you most.</p>"
+    },
+    {
+      "h2": "Oil: the right type and amount",
+      "html": "<p>Use the oil the manufacturer recommends, usually a clear white sewing machine oil. Machines with an oil sump need the level checking regularly and the oil changing periodically. Too much oil can stain work; too little causes wear.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1654108565102-5e7073b7bcd0?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1654108565102-5e7073b7bcd0?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1654108565102-5e7073b7bcd0?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Close-up of a textile machine at work\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Correct oiling prevents wear on fast-moving parts.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@towelstudio?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">towel.studio</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Belts, motors and pedals",
+      "html": "<p>Check the drive belt for cracks, fraying or slipping. Servo motors need little maintenance but check connections and settings. Clutch motors need their brake and clutch linings checking. Keep pedals and linkages free.</p>"
+    },
+    {
+      "h2": "Train your operators",
+      "html": "<p>Operators who know how to thread correctly, change needles, clean daily and report unusual noises early save the most downtime. A short checklist on each machine helps.</p>"
+    },
+    {
+      "h2": "Common industrial faults",
+      "html": "<ul><li><strong>Skipped stitches</strong>: wrong needle system or size, damaged needle, or timing out.</li><li><strong>Thread breaks</strong>: burrs on the hook or needle plate, poor thread, tension too tight.</li><li><strong>Noise</strong>: lack of oil, worn parts or a loose belt.</li><li><strong>Oil on work</strong>: over-oiling or a leaking sump seal.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1524292332709-b33366a7f165?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1524292332709-b33366a7f165?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1524292332709-b33366a7f165?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Person repairing a sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>An engineer can diagnose timing and hook problems.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@lidyanada?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Lidya Nada</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Engineering support",
@@ -47,6 +67,12 @@
     {
       "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
       "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What oil should I use on an industrial sewing machine?",
+      "a": "Use the sewing machine oil recommended in the manual, usually a light, clear oil. Never use household or motor oil."
     }
   ]
 }

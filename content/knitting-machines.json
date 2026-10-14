@@ -1,0 +1,52 @@
+{
+  "updated": "2026-10-14",
+  "slug": "knitting-machines",
+  "title": "Knitting Machines: Domestic, Industrial and Hosiery Types",
+  "description": "How knitting machines work: domestic flatbeds, circular sock machines and the industrial knitters behind UK knitwear and hosiery production.",
+  "eyebrow": "Knitting machines",
+  "h1": "Knitting machines explained",
+  "intro": "From hobby flatbeds to the circular machines that knit socks and tights, knitting machines turned Leicester into a hosiery capital. Here is how they work.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1782828152833-e49c0d363683",
+    "alt": "Rows of thread spools on a textile machine",
+    "credit": "Georg Eiermann",
+    "creditUrl": "https://unsplash.com/@georgeiermann"
+  },
+  "cardText": "Domestic flatbeds, sock machines and industrial knitters explained.",
+  "keywords": [
+    "knitting machine",
+    "domestic knitting machine",
+    "circular knitting machine",
+    "sock knitting machine",
+    "flat knitting machine",
+    "hosiery machine"
+  ],
+  "sections": [
+    {
+      "h2": "Weft knitting in a nutshell",
+      "html": "<p>Knitting machines form loops with rows of <strong>latch needles</strong> (or bearded needles on older frames). Each needle catches yarn, pulls a new loop through the old one, and the fabric grows row by row. This is the principle William Lee mechanised with the stocking frame in 1589.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1654108565102-5e7073b7bcd0?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1654108565102-5e7073b7bcd0?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1654108565102-5e7073b7bcd0?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Close-up of a textile machine at work\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Rows of needles form loops of yarn.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@towelstudio?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">towel.studio</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Domestic flatbed machines",
+      "html": "<p>Home knitting machines have a flat bed of needles and a carriage pushed across by hand. Many second-hand machines are still in use; they knit jumpers far faster than by hand. Ribbers add a second bed for ribbing and double knits. Parts and manuals are often found through knitting machine clubs and specialist dealers.</p>"
+    },
+    {
+      "h2": "Circular machines: socks and tights",
+      "html": "<p>Socks, tights and seamless garments are knitted on <strong>circular machines</strong>, which knit a continuous tube. Sock machines shape the heel and toe automatically; the toe is then closed by linking or seamless toe-closing. See <a href=\"/blog/how-socks-are-made/\">how socks are made</a>.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1730447619863-5349b3f6db70?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1730447619863-5349b3f6db70?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1730447619863-5349b3f6db70?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Three socks laid out on a white sheet\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Socks are knitted as a tube on circular machines.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@anevans?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Anna Evans</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Industrial flat knitting",
+      "html": "<p>Modern electronic flat knitting machines produce jumpers, cardigans and even whole garments with minimal sewing. Garment pieces are then joined on <strong>linking machines</strong>, overlockers and coverstitch machines.</p>"
+    },
+    {
+      "h2": "Knitting machines in Leicester",
+      "html": "<p>Leicester’s factories once ran thousands of knitting machines; <a href=\"/leicester-hosiery/\">read the heritage</a>. Today the city’s knitters still need sewing and finishing machines, needles and parts, supplied by specialists such as <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a>.</p>"
+    }
+  ],
+  "related": [
+    "hosiery-and-knitwear",
+    "leicester-hosiery",
+    "blog/william-lee-stocking-frame",
+    "wool-and-yarn"
+  ]
+}

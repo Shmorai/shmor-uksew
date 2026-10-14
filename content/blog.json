@@ -16,5 +16,49 @@
     "creditUrl": "https://unsplash.com/@hjrc33"
   },
   "listTitle": "All posts",
-  "search": false
+  "search": false,
+  "blocks": [
+    {
+      "type": "links",
+      "position": "top",
+      "title": "Browse by topic",
+      "items": [
+        {
+          "title": "Buying a machine",
+          "slug": "blog/how-to-choose-a-sewing-machine",
+          "icon": "search"
+        },
+        {
+          "title": "Servicing & repairs",
+          "slug": "sewing-machine-repairs",
+          "icon": "gauge"
+        },
+        {
+          "title": "Parts & needles",
+          "slug": "sewing-machine-parts",
+          "icon": "tag"
+        },
+        {
+          "title": "Wool & knitting",
+          "slug": "wool-and-yarn",
+          "icon": "heart"
+        },
+        {
+          "title": "Hosiery & knitwear",
+          "slug": "hosiery-and-knitwear",
+          "icon": "star"
+        },
+        {
+          "title": "Leicester heritage",
+          "slug": "leicester-hosiery",
+          "icon": "pin"
+        },
+        {
+          "title": "Sector news",
+          "slug": "uk-hosiery-news",
+          "icon": "file"
+        }
+      ]
+    }
+  ]
 }

@@ -147,16 +147,110 @@
           "more": "Embroidery guide"
         }
       ]
+    },
+    {
+      "type": "gallery",
+      "layout": "strip",
+      "title": "Machines in the wild",
+      "items": [
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1673786586360-19e8f8acb53f",
+            "alt": "Modern sewing machine on a table",
+            "credit": "Kemal Berkay Dogan",
+            "creditUrl": "https://unsplash.com/@kemalberkaydogan"
+          },
+          "caption": "Modern domestic"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1627812962960-0015d7d6a76f",
+            "alt": "Black and gold vintage sewing machine",
+            "credit": "Ryunosuke Kikuno",
+            "creditUrl": "https://unsplash.com/@ryunosuke_kikuno"
+          },
+          "caption": "Vintage classic",
+          "slug": "brands/singer"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1625479144604-ae69462778b7",
+            "alt": "Silver sewing machine on blue fabric",
+            "credit": "Bozhin Karaivanov",
+            "creditUrl": "https://unsplash.com/@bkaraivanov"
+          },
+          "caption": "Computerised"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1655122878062-a9e885391a1b",
+            "alt": "Large room of blue industrial machines",
+            "credit": "Lalit Kumar",
+            "creditUrl": "https://unsplash.com/@klalit"
+          },
+          "caption": "Industrial",
+          "slug": "industrial-sewing-machines"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1526290766257-c015850e4629",
+            "alt": "White domestic sewing machine",
+            "credit": "Agto Nugroho",
+            "creditUrl": "https://unsplash.com/@agto"
+          },
+          "caption": "Embroidery",
+          "slug": "overlockers-and-embroidery-machines"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1486622923572-7a7e18acf192",
+            "alt": "Chevron fabric on a black sewing machine",
+            "credit": "Clem Onojeghuo",
+            "creditUrl": "https://unsplash.com/@clemono"
+          },
+          "caption": "Heavy-duty"
+        }
+      ]
+    },
+    {
+      "type": "catalogue",
+      "title": "Browse by brand",
+      "items": [
+        {
+          "slug": "brands/singer",
+          "kicker": "Brand guide",
+          "cta": "Read the guide"
+        },
+        {
+          "slug": "brands/brother",
+          "kicker": "Brand guide",
+          "cta": "Read the guide"
+        },
+        {
+          "slug": "brands/janome",
+          "kicker": "Brand guide",
+          "cta": "Read the guide"
+        },
+        {
+          "slug": "brands/juki",
+          "kicker": "Brand guide",
+          "cta": "Read the guide"
+        }
+      ]
     }
   ],
   "sections": [
     {
       "h2": "Start with what you will sew",
-      "html": "<p>The right machine depends on the work. Light dressmaking, mending and school projects need very different things from upholstery, bag-making or a small alterations business. Write down the three fabrics you sew most, then look for a machine that handles the heaviest of them comfortably.</p>"
+      "html": "<p>The right machine depends on the work. Light dressmaking, mending and school projects need very different things from upholstery, bag-making or a small alterations business. Write down the three fabrics you sew most, then look for a machine that handles the heaviest of them comfortably.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1673201229733-69d19c5c4a87?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1673201229733-69d19c5c4a87?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1673201229733-69d19c5c4a87?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Sewing clothes on a sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Match the machine to the fabrics you sew most.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@collab_media?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Collab Media</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Features worth paying for",
       "html": "<ul><li><strong>A good one-step buttonhole</strong> if you make garments.</li><li><strong>Adjustable presser foot pressure</strong> for knits and layered fabrics.</li><li><strong>Needle up/down and speed control</strong>, which make curves and corners easier.</li><li><strong>A metal internal frame</strong> for stability and longevity.</li><li><strong>Common parts</strong>: a machine that takes standard 15x1 (130/705H) needles and widely available bobbins is cheaper to run.</li></ul>"
+    },
+    {
+      "h2": "Budget bands: what you get",
+      "html": "<p>We don’t quote prices because they change constantly, but machines fall into clear bands:</p><ul><li><strong>Entry level</strong>: mechanical machines with a handful of stitches, a four-step or simple buttonhole and plastic housings. Fine for mending and occasional projects.</li><li><strong>Mid range</strong>: the sweet spot for most home sewers, with a one-step buttonhole, needle up/down, more feet in the box and a sturdier frame.</li><li><strong>Premium</strong>: larger throat space for quilting, automatic thread cutting, knee lifters, superior feed systems and dealer support.</li><li><strong>Used and serviced</strong>: often the best value of all, especially older all-metal machines.</li></ul>"
     },
     {
       "h2": "New or used?",
@@ -165,6 +259,14 @@
     {
       "h2": "Try before you buy",
       "html": "<p>Sewing machines feel different in use. If you can, visit a dealer, bring your own fabric and test straight stitch, zigzag and a buttonhole. In Leicester and the East Midlands, <a href=\"/pk-sewing-machines-leicester/\">PK Sewing Machines</a> can advise on domestic, overlocker and embroidery machines.</p>"
+    },
+    {
+      "h2": "Throat space, weight and portability",
+      "html": "<p>The <strong>throat space</strong> (the gap to the right of the needle) matters for quilts and coats. Heavier machines vibrate less at speed; lighter ones are easier to take to classes. If you will carry it, look for a carry handle and a hard cover.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1787505136265-9a99dad3bbac?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1787505136265-9a99dad3bbac?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1787505136265-9a99dad3bbac?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Cutting white fabric in a studio\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>A larger throat space helps with bulky projects.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@soujest?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Sou Jest</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Getting the most from a new machine",
+      "html": "<ul><li>Read the manual and sew a sampler of every stitch on scrap fabric.</li><li>Keep a notebook of settings that worked for each fabric.</li><li>Buy spare needles, bobbins and a lint brush on day one.</li><li>Book a service after the first heavy year of use.</li></ul>"
     }
   ],
   "faqs": [

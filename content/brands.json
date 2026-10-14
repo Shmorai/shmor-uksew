@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-14",
+  "slug": "brands",
+  "title": "Sewing Machine Brands: Singer, Brother, Janome and Juki",
+  "description": "Guides to the sewing machine brands you meet most in the UK: their history, what each is known for, who their machines suit and how to get parts and servicing.",
+  "eyebrow": "Brand guides",
+  "h1": "Sewing machine brand guides",
+  "intro": "The history, strengths and best uses of the brands most often found in UK homes, schools and workrooms.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1587819390518-12c38c703ba2",
+    "alt": "Black and white photo of a sewing machine",
+    "credit": "Every Angle",
+    "creditUrl": "https://unsplash.com/@everyangle"
+  },
+  "cardText": "History, strengths and who suits each brand: Singer, Brother, Janome, Juki.",
+  "keywords": [
+    "sewing machine brands",
+    "singer",
+    "brother",
+    "janome",
+    "juki",
+    "best sewing machine brand"
+  ],
+  "blocks": [
+    {
+      "type": "catalogue",
+      "title": "Choose a brand",
+      "items": [
+        {
+          "slug": "brands/singer",
+          "kicker": "Brand guide",
+          "cta": "Read the guide"
+        },
+        {
+          "slug": "brands/brother",
+          "kicker": "Brand guide",
+          "cta": "Read the guide"
+        },
+        {
+          "slug": "brands/janome",
+          "kicker": "Brand guide",
+          "cta": "Read the guide"
+        },
+        {
+          "slug": "brands/juki",
+          "kicker": "Brand guide",
+          "cta": "Read the guide"
+        }
+      ]
+    },
+    {
+      "type": "brands",
+      "title": "Makes we cover",
+      "items": [
+        {
+          "title": "Singer",
+          "slug": "brands/singer"
+        },
+        {
+          "title": "Brother",
+          "slug": "brands/brother"
+        },
+        {
+          "title": "Janome",
+          "slug": "brands/janome"
+        },
+        {
+          "title": "Juki",
+          "slug": "brands/juki"
+        },
+        "Bernina",
+        "Pfaff",
+        "Jack",
+        "Yamato",
+        "Groz-Beckert",
+        "Organ"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why brand matters less than you think",
+      "html": "<p>Every major brand makes good and basic machines. What matters most is the model, its build quality, and whether a local dealer can service it. See our <a href=\"/reviews/\">brand reviews</a> for Bernina, Pfaff, Jack and Yamato too, and ask a specialist such as <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> which models they can support.</p>"
+    }
+  ],
+  "related": [
+    "reviews",
+    "sewing-machines",
+    "industrial-sewing-machines"
+  ]
+}

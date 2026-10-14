@@ -23,7 +23,7 @@
   "sections": [
     {
       "h2": "Built for different jobs",
-      "html": "<p>A domestic machine does many things reasonably well: straight stitch, zigzag, buttonholes, decorative stitches. An industrial machine usually does <strong>one job</strong> extremely well, all day, at high speed. That is why workrooms have separate lockstitch, overlock and coverstitch machines.</p>"
+      "html": "<p>A domestic machine does many things reasonably well: straight stitch, zigzag, buttonholes, decorative stitches. An industrial machine usually does <strong>one job</strong> extremely well, all day, at high speed. That is why workrooms have separate lockstitch, overlock and coverstitch machines.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1673201229733-69d19c5c4a87?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1673201229733-69d19c5c4a87?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1673201229733-69d19c5c4a87?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Sewing clothes on a sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Domestic machines do many jobs; industrial machines do one job all day.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@collab_media?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Collab Media</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Speed and control",
@@ -31,11 +31,27 @@
     },
     {
       "h2": "Space, weight and noise",
-      "html": "<p>An industrial machine comes on its own table with a motor underneath. It needs floor space and is heavier to move. Servo models are much quieter than old clutch motors.</p>"
+      "html": "<p>An industrial machine comes on its own table with a motor underneath. It needs floor space and is heavier to move. Servo models are much quieter than old clutch motors.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1675176785803-bffbbb0cd2f4?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1675176785803-bffbbb0cd2f4?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1675176785803-bffbbb0cd2f4?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"A row of industrial machines\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Industrial machines come on their own tables with a motor beneath.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@limkage?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Kevin Limbri</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Running costs",
       "html": "<p>Industrial machines use their own needle systems (for example DBx1 for many lockstitch machines) and need regular oiling unless they are dry-head models. Parts are widely available through trade suppliers.</p>"
+    },
+    {
+      "h2": "Side by side",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th></th><th>Domestic</th><th>Industrial</th></tr></thead><tbody><tr><td>Stitches</td><td>Many, on one machine</td><td>Usually one type per machine</td></tr><tr><td>Speed</td><td>Moderate</td><td>Very high, controllable with servo motors</td></tr><tr><td>Needles</td><td>130/705H (flat shank)</td><td>Round shank systems such as DBx1, DCx27</td></tr><tr><td>Set-up</td><td>Portable, on any table</td><td>Fixed table and motor</td></tr><tr><td>Maintenance</td><td>Periodic service</td><td>Daily oiling (unless dry-head) and regular checks</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Semi-industrial and heavy-duty options",
+      "html": "<p>Between the two sit heavy-duty domestic machines and portable “semi-industrial” straight-stitch machines. They suit home sewers who want speed and power without a full industrial table.</p>"
+    },
+    {
+      "h2": "Who should consider an industrial machine?",
+      "html": "<ul><li>Small businesses: alterations, curtains, upholstery, bags and clothing makers.</li><li>Home sewers who sew a lot of straight seams and want speed and consistency.</li><li>Anyone working regularly with heavy fabrics, many layers or leather (choose a walking foot model).</li></ul><p>If you mostly sew a variety of small projects, buttonholes and decorative stitches, a good domestic machine is usually more practical.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1633655442356-ab2dbc69c772?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1633655442356-ab2dbc69c772?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1633655442356-ab2dbc69c772?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Tailor working on a piece of cloth\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Alterations and small makers often go industrial.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@yasamine?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Yasamine June</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Noise and space at home",
+      "html": "<p>Clutch motors spin all the time and hum; servo motors only run when you press the pedal, so they are much quieter and better for homes. An industrial table is roughly a desk in size. Check the room has a sturdy floor, good light and a nearby socket.</p>"
     },
     {
       "h2": "Get advice from the trade",
@@ -46,6 +62,12 @@
     {
       "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
       "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I use an industrial sewing machine at home?",
+      "a": "Yes, many people do, especially with a quiet servo motor. Check space, power and that you have support for servicing and parts."
     }
   ]
 }

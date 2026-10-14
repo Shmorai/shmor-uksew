@@ -28,11 +28,27 @@
     },
     {
       "h2": "When buying wins",
-      "html": "<p>If you will sew for more than a few months, the cost of hire adds up quickly. A tested used machine keeps much of its value, so you can sell it or part-exchange it later.</p>"
+      "html": "<p>If you will sew for more than a few months, the cost of hire adds up quickly. A tested used machine keeps much of its value, so you can sell it or part-exchange it later.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1785119774611-c9d4efc4dc5a?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1785119774611-c9d4efc4dc5a?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1785119774611-c9d4efc4dc5a?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Antique sewing machine in a green room\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>A good used machine keeps its value.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@introspectivedsgn?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Erik Mclean</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Questions to ask a hire company",
       "html": "<ul><li>What is the total cost, including deposit and delivery?</li><li>Has the machine been serviced and safety-checked?</li><li>What happens if it breaks?</li><li>Are needles, bobbins and a manual included?</li></ul>"
+    },
+    {
+      "h2": "A worked example (without made-up prices)",
+      "html": "<p>Compare three numbers before you decide: the <strong>total hire cost</strong> for the period you need, the <strong>price of a serviced used machine</strong>, and its likely <strong>resale or part-exchange value</strong> afterwards. If the hire cost is close to the difference between buying and reselling, buying usually wins.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1687676626229-d55a2d0b1bc5?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1687676626229-d55a2d0b1bc5?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1687676626229-d55a2d0b1bc5?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"A sewing room with clothes on the wall\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Weigh hire costs against buying and reselling.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@tuyuloveu?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">muhammad arief</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Hire for businesses",
+      "html": "<p>For a small business, hire or short-term arrangements can cover a seasonal peak or a one-off contract without a long-term commitment. Check who services the machine, how quickly faults are fixed, and whether hire payments can count towards buying.</p>"
+    },
+    {
+      "h2": "Buying used and reselling",
+      "html": "<p>Quality used machines tend to hold their value if kept clean and serviced. Keep the manual, accessories and service receipts: they help when you sell or part-exchange later.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1627812962960-0015d7d6a76f?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1627812962960-0015d7d6a76f?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1627812962960-0015d7d6a76f?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Black and gold vintage sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Keep accessories and receipts to protect resale value.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@ryunosuke_kikuno?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Ryunosuke Kikuno</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Hire checklist to keep",
+      "html": "<ul><li>Machine make, model and serial number on the agreement.</li><li>Photos of condition on delivery.</li><li>Accessories supplied: feet, bobbins, needles, manual, pedal.</li><li>Contact for faults and expected response time.</li><li>Return date and condition expected.</li></ul>"
     },
     {
       "h2": "A middle route",
@@ -43,6 +59,12 @@
     {
       "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
       "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is it cheaper to rent or buy a sewing machine?",
+      "a": "For a few weeks, renting can be cheaper. For longer periods, buying a used machine and reselling it later is often better value."
     }
   ]
 }

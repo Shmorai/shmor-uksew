@@ -31,11 +31,31 @@
     },
     {
       "h2": "Why it matters",
-      "html": "<p>Organisers pointed to supply chain disruption, shipping pressures and new transparency rules as reasons for brands to look again at making in the UK. Reporting after the day highlighted the strength of local factories and the need for support and closer collaboration across the sector.</p>"
+      "html": "<p>Organisers pointed to supply chain disruption, shipping pressures and new transparency rules as reasons for brands to look again at making in the UK. Reporting after the day highlighted the strength of local factories and the need for support and closer collaboration across the sector.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1753162658653-d33c53910d9e?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1753162658653-d33c53910d9e?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1753162658653-d33c53910d9e?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Designers working on a dress form\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Brands and designers met manufacturers at DMU.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@silverkblack?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Vitaly Gariev</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "The machinery behind the making",
       "html": "<p>Onshore manufacturing needs well-maintained machines and fast access to parts. Leicester engineers such as <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a>, with industrial call-outs across the East Midlands, are part of that story. See our <a href=\"/industrial-sewing-machines/\">industrial machines guide</a>.</p>"
+    },
+    {
+      "h2": "Who took part",
+      "html": "<p>The showcase gathered manufacturers covering apparel, textiles, knitters, dyers and trimming suppliers, alongside brands, designers, educators and policymakers. Events like this help brands find UK factories and help factories find new customers.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1741176505800-caaa3a52631a?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1741176505800-caaa3a52631a?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1741176505800-caaa3a52631a?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Workers sewing textiles in a large factory\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Showcases connect UK factories with brands.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@equalstock?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">EqualStock</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Ethical production",
+      "html": "<p>Leicester’s garment sector has faced scrutiny in recent years over working conditions in parts of the supply chain. Industry bodies have pushed for transparency and ethical audits, and events like Leicester Made emphasise ethical production alongside quality and speed.</p>"
+    },
+    {
+      "h2": "What it means for sewers and small brands",
+      "html": "<p>For small brands, local manufacturing can mean smaller minimum orders, faster sampling and easier visits to the factory floor. For machinery suppliers and engineers, a healthy local sector means steady demand for machines, parts and servicing.</p>"
+    },
+    {
+      "h2": "Leicester’s manufacturing strengths",
+      "html": "<p>The city’s textile base includes knitwear, cut-and-sew garment making, dyeing and finishing, and the suppliers who support them, from trims to machinery. Proximity means brands can source, sample and produce within a short drive.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1782828152833-e49c0d363683?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1782828152833-e49c0d363683?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1782828152833-e49c0d363683?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Rows of thread spools on a textile machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Knitting, cut-and-sew and finishing all happen in and around Leicester.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@georgeiermann?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Georg Eiermann</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Skills and training",
+      "html": "<p>Sustaining UK manufacturing depends on skilled machinists, technicians and engineers. Colleges, universities and employers in the region work on training and apprenticeships to bring new people into the trade.</p>"
     },
     {
       "h2": "Part of a long tradition",
@@ -54,6 +74,12 @@
     {
       "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
       "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where was Leicester Made 2026 held?",
+      "a": "At The Venue at De Montfort University, Leicester, on 24 April 2026."
     }
   ]
 }

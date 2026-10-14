@@ -1,0 +1,47 @@
+{
+  "updated": "2026-10-14",
+  "slug": "schools-and-businesses",
+  "title": "Sewing Machines for Schools, Colleges and Small Businesses",
+  "description": "Choosing and maintaining sewing machines for schools, colleges, alteration shops and small production businesses, from robust classroom models to industrials.",
+  "eyebrow": "Education · Trade",
+  "h1": "Sewing machines for schools and businesses",
+  "intro": "Classrooms, alteration shops and small workrooms all need machines that are robust, easy to maintain and well supported.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1687676626229-d55a2d0b1bc5",
+    "alt": "A sewing room with clothes on the wall",
+    "credit": "muhammad arief",
+    "creditUrl": "https://unsplash.com/@tuyuloveu"
+  },
+  "cardText": "Classroom machines, alteration shops and small production rooms.",
+  "keywords": [
+    "sewing machines for schools",
+    "school sewing machines",
+    "college sewing machines",
+    "alterations business",
+    "tailoring equipment",
+    "small business sewing machine"
+  ],
+  "sections": [
+    {
+      "h2": "Schools and colleges",
+      "html": "<ul><li>Choose simple, robust mechanical or basic computerised machines.</li><li>Standardise on one model so parts, bobbins and training are simpler.</li><li>Look for finger guards and slow-speed settings for younger pupils.</li><li>Plan an annual service for the whole set, ideally in the holidays.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1533758488827-1ed0f9b03899?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1533758488827-1ed0f9b03899?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1533758488827-1ed0f9b03899?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Person sewing with a sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Classroom machines need to be simple and robust.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@spiridonov?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Roman Spiridonov</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Alteration and tailoring businesses",
+      "html": "<p>Alteration shops typically need a heavy-duty or industrial lockstitch, an overlocker, and possibly a blind hem machine, plus a good steam iron and pressing table. Downtime costs money, so pick machines with local service support.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1633655442356-ab2dbc69c772?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1633655442356-ab2dbc69c772?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1633655442356-ab2dbc69c772?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Tailor working on a piece of cloth\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Alteration businesses rely on dependable machines.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@yasamine?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Yasamine June</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Small production rooms",
+      "html": "<p>Start with industrial lockstitch and overlock machines, add coverstitch for knitwear, and plan cutting and pressing space. See our <a href=\"/industrial-sewing-machines/\">industrial guide</a> and <a href=\"/blog/starting-an-alterations-business-equipment/\">equipment checklist</a>.</p>"
+    },
+    {
+      "h2": "Support from a specialist",
+      "html": "<p><a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> works with schools, tailors, alteration businesses, workrooms and manufacturers, offering sales, servicing, parts and East Midlands industrial call-outs. Leicester’s <a href=\"/leicester-hosiery/\">textile trade</a> has relied on such support for generations.</p>"
+    }
+  ],
+  "related": [
+    "industrial-sewing-machines",
+    "sewing-machine-repairs",
+    "pk-sewing-machines-leicester"
+  ]
+}

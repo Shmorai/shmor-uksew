@@ -26,7 +26,7 @@
   "sections": [
     {
       "h2": "Why the right bobbin matters",
-      "html": "<p>A bobbin that is slightly the wrong height or diameter can wobble, causing loops, uneven tension and thread jams. Always use the type your machine is designed for.</p>"
+      "html": "<p>A bobbin that is slightly the wrong height or diameter can wobble, causing loops, uneven tension and thread jams. Always use the type your machine is designed for.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1613076321656-23dcdd3aea92?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1613076321656-23dcdd3aea92?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1613076321656-23dcdd3aea92?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Red, blue and white thread spools\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Similar-looking bobbins are not interchangeable.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@bkaraivanov?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Bozhin Karaivanov</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Common types",
@@ -41,6 +41,18 @@
       "html": "<p>Front-loading machines use a removable bobbin case with its own tension screw. Drop-in machines have a built-in case. A damaged case causes stitch problems that no amount of rethreading will fix.</p>"
     },
     {
+      "h2": "Winding a good bobbin",
+      "html": "<ol><li>Thread through the bobbin winder tension disc.</li><li>Wind a few turns by hand, then run the winder at a steady medium speed.</li><li>Stop when full; an overfilled bobbin causes problems.</li><li>Use the same thread on top and in the bobbin for most sewing.</li></ol><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1707915573116-5ec3c37b7be1?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1707915573116-5ec3c37b7be1?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1707915573116-5ec3c37b7be1?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Thread spools on a table\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Matching top and bobbin thread gives balanced stitches.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@lensyfoxography?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Victor Volkov</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "How to identify your bobbin",
+      "html": "<ul><li>Check your manual or the manufacturer’s website for the class or part number.</li><li>Measure diameter and height carefully if you only have the old bobbin.</li><li>Look at the face: class 66 bobbins have a slightly curved face, class 15 are flat.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1707915573116-5ec3c37b7be1?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1707915573116-5ec3c37b7be1?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1707915573116-5ec3c37b7be1?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Thread spools on a table\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Measure diameter and height to identify a bobbin.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@lensyfoxography?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Victor Volkov</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Industrial bobbins",
+      "html": "<p>Industrial lockstitch machines often use larger bobbins than domestic machines, which means fewer changes in production. Make sure you buy the right style for the hook on your machine.</p>"
+    },
+    {
       "h2": "Get a match",
       "html": "<p>Take the old bobbin or the machine’s model number to a specialist. <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> stocks metal and plastic bobbins, cases and rotary hooks for many makes, from its Leicester parts department. See our <a href=\"/sewing-machine-parts/\">parts guide</a>, and <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> for why the city is still a parts hub.</p>"
     }
@@ -49,6 +61,12 @@
     {
       "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
       "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I use any bobbin in my sewing machine?",
+      "a": "No. Always use the bobbin class your machine is designed for. A bobbin that looks similar but is slightly different can cause tension problems and jams."
     }
   ]
 }

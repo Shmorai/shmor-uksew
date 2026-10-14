@@ -1,0 +1,49 @@
+{
+  "updated": "2026-10-14",
+  "slug": "brands/juki",
+  "nav": "Juki",
+  "keywords": [
+    "juki",
+    "juki sewing machine",
+    "juki sewing machine uk",
+    "juki parts",
+    "juki repair",
+    "juki service"
+  ],
+  "related": [
+    "brands",
+    "reviews",
+    "sewing-machine-parts"
+  ],
+  "name": "Juki",
+  "title": "Juki Sewing Machines UK: Industrial and Domestic Guide",
+  "description": "Juki sewing machines: the Tokyo company’s history, its industrial lockstitch and overlock machines, domestic models for home sewers, and UK parts and servicing.",
+  "eyebrow": "Brand guide · Japan",
+  "h1": "Juki sewing machines",
+  "intro": "A leading name on production floors worldwide, with domestic machines that bring industrial know-how home.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1655122878062-a9e885391a1b",
+    "alt": "Large room of blue industrial machines",
+    "credit": "Lalit Kumar",
+    "creditUrl": "https://unsplash.com/@klalit"
+  },
+  "cardText": "Industrial lockstitch and overlock machines, plus domestic models.",
+  "sections": [
+    {
+      "h2": "From Tokyo to the world’s factories",
+      "html": "<p>Juki was founded in Tokyo in 1938 and moved into sewing machines after the Second World War, first household and then industrial machines. It became one of the best-known industrial sewing machine makers in the world.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1675176785803-bffbbb0cd2f4?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1675176785803-bffbbb0cd2f4?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1675176785803-bffbbb0cd2f4?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"A row of industrial machines\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Juki machines are common on production floors.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@limkage?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Kevin Limbri</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Industrial machines",
+      "html": "<p>Juki’s single-needle lockstitch machines, such as its long-running DDL series, along with overlock, coverstitch and specialist machines, are widely used in UK workrooms. Parts and needles are well supported by trade suppliers.</p>"
+    },
+    {
+      "h2": "Domestic and semi-industrial",
+      "html": "<p>Juki also sells domestic machines, overlockers and straight-stitch machines for home sewers who want speed and a strong feed.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1745847655362-fc86d76584b2?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1745847655362-fc86d76584b2?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1745847655362-fc86d76584b2?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Hands at work on a sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Domestic Juki machines bring industrial speed home.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@alexjhonson23e?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">alex jhonson</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Parts and servicing for Juki machines",
+      "html": "<p>Juki machines are among the makes <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> lists on its website. PKSM services and repairs domestic and industrial machines in Leicester and stocks needles, bobbins, feet and other parts. Send the model number to check a part before you buy. <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> means the city has deep machinery know-how.</p><aside class=\"pk-callout\"><p class=\"pk-k\">Leicester specialist</p><p><strong>PK Sewing Machines</strong> has sold, serviced and repaired domestic and industrial sewing machines from 415 St Saviours Road, Leicester LE5 4HH since 1982. Call 0116 273 6552 or visit <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>.</p></aside>"
+    }
+  ]
+}

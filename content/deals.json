@@ -78,12 +78,39 @@
           "cta": "Read more"
         }
       ]
+    },
+    {
+      "type": "facts",
+      "title": "PK Sewing Machines in numbers",
+      "items": [
+        {
+          "value": "1982",
+          "label": "Founded in Leicester by two brothers"
+        },
+        {
+          "value": "5,000+",
+          "label": "Spare parts, accessories and consumables"
+        },
+        {
+          "value": "£35",
+          "label": "Servicing listed “from” on pksm.co.uk"
+        },
+        {
+          "value": "40+ yrs",
+          "label": "Family-run sales, service and repairs"
+        }
+      ],
+      "note": "Figures as published by PK Sewing Machines on <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>. Prices are set by PKSM and can change."
     }
   ],
   "sections": [
     {
       "h2": "Is a “deal” really a deal?",
       "html": "<ul><li>Compare the <strong>total cost</strong>: delivery, a service and any missing accessories.</li><li>A machine that needs a £50+ repair is not a bargain at a low price.</li><li>Check parts availability for the model before you buy.</li><li>Ask what testing, warranty or returns the seller offers.</li></ul>"
+    },
+    {
+      "h2": "When to buy",
+      "html": "<ul><li><strong>Before the school year</strong> and <strong>after The Great British Sewing Bee</strong>, demand for beginner machines rises; compare early.</li><li><strong>Workroom clearances</strong> can release good used industrial machines.</li><li><strong>Craft shows</strong> sometimes have exhibitor offers, but compare with a local dealer who will service the machine later.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1785119774611-c9d4efc4dc5a?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1785119774611-c9d4efc4dc5a?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1785119774611-c9d4efc4dc5a?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Antique sewing machine in a green room\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>A well-kept older machine can be the best deal of all.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@introspectivedsgn?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Erik Mclean</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Buying from a business vs a private seller",

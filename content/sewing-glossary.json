@@ -1,0 +1,48 @@
+{
+  "updated": "2026-10-14",
+  "slug": "sewing-glossary",
+  "title": "Sewing, Knitting & Hosiery Glossary: Terms Explained",
+  "description": "A plain-English A to Z of sewing, knitting and hosiery terms: from bobbin case and coverstitch to denier, differential feed, linking, selvedge and throat space.",
+  "eyebrow": "Reference",
+  "h1": "Sewing, knitting and hosiery glossary",
+  "intro": "The terms you will meet in manuals, patterns and the hosiery trade, explained simply.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1707858951058-ef91d6d3035a",
+    "alt": "Sewing supplies on a wooden table",
+    "credit": "Sara Bach",
+    "creditUrl": "https://unsplash.com/@sarabach"
+  },
+  "cardText": "An A to Z of sewing, knitting and hosiery terms.",
+  "keywords": [
+    "sewing glossary",
+    "sewing terms",
+    "knitting terms",
+    "hosiery terms",
+    "what is a bobbin",
+    "what is denier",
+    "what is differential feed"
+  ],
+  "sections": [
+    {
+      "h2": "A to F",
+      "html": "<dl class=\"gloss\"><dt>Bias</dt><dd>The diagonal direction across woven fabric, which has the most stretch.</dd><dt>Bobbin</dt><dd>The small spool that holds the lower thread under the needle plate.</dd><dt>Bobbin case</dt><dd>Holder for the bobbin in front-loading machines, with its own tension screw.</dd><dt>Coverstitch</dt><dd>Parallel rows of stitching on top with a looped chain underneath, used for knit hems.</dd><dt>Denier</dt><dd>Fibre weight in grams per 9,000 metres; in tights, lower is sheerer.</dd><dt>Differential feed</dt><dd>Two feed dogs moving at different speeds to stop knits stretching or fine fabric puckering.</dd><dt>Feed dogs</dt><dd>The toothed bars under the foot that move fabric along.</dd><dt>Framework knitting</dt><dd>Knitting on a hand-operated stocking frame, the origin of the hosiery trade.</dd><dt>Fully fashioned</dt><dd>Knitwear knitted to shape and then linked, rather than cut from fabric.</dd></dl>"
+    },
+    {
+      "h2": "G to O",
+      "html": "<dl class=\"gloss\"><dt>Hook</dt><dd>The rotating part that catches the needle thread to form a lockstitch.</dd><dt>Hosier</dt><dd>A maker or seller of hosiery.</dd><dt>Interfacing</dt><dd>A layer that adds structure to collars, cuffs and facings.</dd><dt>Latch needle</dt><dd>The needle type used in most knitting machines.</dd><dt>Linking</dt><dd>Joining knitted pieces loop to loop, used in fully fashioned knitwear and sock toes.</dd><dt>Lockstitch</dt><dd>The standard machine stitch, formed by needle and bobbin threads interlocking.</dd><dt>Looper</dt><dd>The parts in an overlocker that carry the lower threads.</dd><dt>Overlocker (serger)</dt><dd>A machine that seams, trims and neatens an edge in one pass.</dd></dl><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1502217625004-89c03571bcca?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1502217625004-89c03571bcca?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1502217625004-89c03571bcca?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Macro photo of a sewing machine needle\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>The needle and hook work together to form a lockstitch.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@ilya90?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Ilya lix</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "P to Z",
+      "html": "<dl class=\"gloss\"><dt>Presser foot</dt><dd>Holds fabric against the feed dogs; many specialist feet exist.</dd><dt>Selvedge</dt><dd>The finished edge of woven fabric that doesn’t fray.</dd><dt>Servo motor</dt><dd>A quiet, efficient motor for industrial machines with fine speed control.</dd><dt>Shank</dt><dd>The way feet attach: low, high or slant shank, or snap-on.</dd><dt>Tension</dt><dd>The balance between upper and lower threads that makes an even stitch.</dd><dt>Throat space</dt><dd>The distance from the needle to the machine body, important for quilts.</dd><dt>Walking foot</dt><dd>A foot with its own feed teeth that moves layers evenly.</dd><dt>Wadding (batting)</dt><dd>The middle layer of a quilt.</dd></dl>"
+    },
+    {
+      "h2": "Need help with a machine?",
+      "html": "<p>If a term in your manual still puzzles you, a specialist can help. <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> in Leicester has worked with machines since 1982, in a city steeped in <a href=\"/leicester-hosiery/\">hosiery heritage</a>.</p>"
+    }
+  ],
+  "related": [
+    "sewing-machine-parts",
+    "hosiery-and-knitwear",
+    "blog/sewing-machine-tension-guide"
+  ]
+}

@@ -26,7 +26,7 @@
   "sections": [
     {
       "h2": "Cutting",
-      "html": "<ul><li><strong>Dressmaking shears</strong> kept for fabric only.</li><li><strong>Small snips</strong> for threads.</li><li><strong>Rotary cutter and self-healing mat</strong> for quilting and straight cuts.</li><li><strong>Seam ripper</strong>, because everyone needs one.</li></ul>"
+      "html": "<figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1774624722097-da20076c8958?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1774624722097-da20076c8958?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1774624722097-da20076c8958?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Scissors and thread spools on fabric\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Good tools make better garments.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@pixelesse?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Ksenia Pixelesse</a> / Unsplash</span></figcaption></figure><ul><li><strong>Dressmaking shears</strong> kept for fabric only.</li><li><strong>Small snips</strong> for threads.</li><li><strong>Rotary cutter and self-healing mat</strong> for quilting and straight cuts.</li><li><strong>Seam ripper</strong>, because everyone needs one.</li></ul>"
     },
     {
       "h2": "Measuring and marking",
@@ -41,6 +41,10 @@
       "html": "<p>An iron, pressing cloth and ham make seams look professional. Workrooms also need cutting tables, steam irons and heat presses. <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> supplies pressing and cutting equipment, tables, motors and workshop essentials alongside machines.</p>"
     },
     {
+      "h2": "Buttons, zips and notions",
+      "html": "<ul><li><strong>Zips</strong>: regular, invisible (concealed) and open-ended for jackets. Match the length or buy longer and shorten.</li><li><strong>Buttons</strong>: sew-through or shank; buy a spare.</li><li><strong>Interfacing</strong>: fusible or sew-in, in weights to match the fabric.</li><li><strong>Elastic, bias binding and tape</strong>: worth keeping in stock.</li></ul><div class=\"fig-pair\"><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1531376653594-e9bcf0f0c65b?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1531376653594-e9bcf0f0c65b?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1531376653594-e9bcf0f0c65b?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Red and blue zips\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Zips come in regular, invisible and open-ended types.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@tomas_nz?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Tomas Sobek</a> / Unsplash</span></figcaption></figure><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1742462925156-78e5009a9bbc?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1742462925156-78e5009a9bbc?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1742462925156-78e5009a9bbc?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Buttons arranged neatly by colour\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Always buy a spare button.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@kovalskihelga?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Olga Kovalski</a> / Unsplash</span></figcaption></figure></div>"
+    },
+    {
       "h2": "Machine care tools",
       "html": "<p>A lint brush, sewing machine oil (for machines that need it), small screwdrivers and spare needles keep a machine running between services.</p>"
     }
@@ -49,5 +53,91 @@
     "sewing-machine-parts",
     "wool-and-yarn",
     "blog/presser-feet-guide"
+  ],
+  "blocks": [
+    {
+      "type": "catalogue",
+      "title": "The essential kit",
+      "items": [
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1634225109865-7a7b6e4ef85c",
+            "alt": "Fabric scissors on a table",
+            "credit": "Divazus Fabric Store",
+            "creditUrl": "https://unsplash.com/@divazus"
+          },
+          "href": "#cutting",
+          "title": "Cutting",
+          "kicker": "Shears & snips",
+          "text": "Dressmaking shears, snips, rotary cutter and a seam ripper.",
+          "cta": "See list"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1508188317434-1fd219bb636f",
+            "alt": "Assorted tape measures",
+            "credit": "Patricia Serna",
+            "creditUrl": "https://unsplash.com/@sernarial"
+          },
+          "href": "#measuring-and-marking",
+          "title": "Measuring & marking",
+          "kicker": "Tape & chalk",
+          "text": "Tape measure, ruler, chalk and seam gauge.",
+          "cta": "See list"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1707915573116-5ec3c37b7be1",
+            "alt": "Thread spools on a table",
+            "credit": "Victor Volkov",
+            "creditUrl": "https://unsplash.com/@lensyfoxography"
+          },
+          "href": "#thread",
+          "title": "Thread",
+          "kicker": "All-purpose",
+          "text": "Good polyester thread for most jobs; cotton for quilting.",
+          "cta": "See list"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1489274495757-95c7c837b101",
+            "alt": "Steam iron on an ironing board",
+            "credit": "Filip Mroz",
+            "creditUrl": "https://unsplash.com/@mroz"
+          },
+          "href": "#pressing-and-workshop-kit",
+          "title": "Pressing",
+          "kicker": "Iron & ham",
+          "text": "Pressing is half of sewing. A good iron changes everything.",
+          "cta": "See list"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1711610378090-779a7881a789",
+            "alt": "A collection of buttons on a table",
+            "credit": "Olga Kovalski",
+            "creditUrl": "https://unsplash.com/@kovalskihelga"
+          },
+          "href": "#buttons-zips-and-notions",
+          "title": "Buttons, zips & notions",
+          "kicker": "Notions",
+          "text": "Buttons, zips, elastic, interfacing and bias binding.",
+          "cta": "See list"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1426927308491-6380b6a9936f",
+            "alt": "Hand tools hanging on a workshop rack",
+            "credit": "Barn Images",
+            "creditUrl": "https://unsplash.com/@barnimages"
+          },
+          "href": "#machine-care-tools",
+          "title": "Machine care",
+          "kicker": "Maintenance",
+          "text": "Lint brush, oil (if your machine needs it), screwdrivers.",
+          "cta": "See list"
+        }
+      ]
+    }
   ]
 }

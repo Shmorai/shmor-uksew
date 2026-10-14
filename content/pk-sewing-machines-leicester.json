@@ -54,6 +54,29 @@
       ]
     },
     {
+      "type": "facts",
+      "title": "PK Sewing Machines in numbers",
+      "items": [
+        {
+          "value": "1982",
+          "label": "Founded in Leicester by two brothers"
+        },
+        {
+          "value": "5,000+",
+          "label": "Spare parts, accessories and consumables"
+        },
+        {
+          "value": "£35",
+          "label": "Servicing listed “from” on pksm.co.uk"
+        },
+        {
+          "value": "40+ yrs",
+          "label": "Family-run sales, service and repairs"
+        }
+      ],
+      "note": "Figures as published by PK Sewing Machines on <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>. Prices are set by PKSM and can change."
+    },
+    {
       "type": "deals",
       "title": "What PKSM offers",
       "items": [
@@ -86,6 +109,90 @@
           "icon": "compass",
           "title": "Collection & delivery",
           "text": "Can be arranged; fees depend on machine, location and distance."
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "layout": "strip",
+      "title": "What you’ll find at PKSM",
+      "items": [
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1605002619330-080580537d72",
+            "alt": "White and blue domestic sewing machine",
+            "credit": "Victoria Nazaruk",
+            "creditUrl": "https://unsplash.com/@vvladimirovnna"
+          },
+          "caption": "Domestic machines"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1655122878062-a9e885391a1b",
+            "alt": "Large room of blue industrial machines",
+            "credit": "Lalit Kumar",
+            "creditUrl": "https://unsplash.com/@klalit"
+          },
+          "caption": "Industrial machines"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1502217625004-89c03571bcca",
+            "alt": "Macro photo of a sewing machine needle",
+            "credit": "Ilya lix",
+            "creditUrl": "https://unsplash.com/@ilya90"
+          },
+          "caption": "Needles & parts"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1524292332709-b33366a7f165",
+            "alt": "Person repairing a sewing machine",
+            "credit": "Lidya Nada",
+            "creditUrl": "https://unsplash.com/@lidyanada"
+          },
+          "caption": "Servicing & repairs"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1489274495757-95c7c837b101",
+            "alt": "Steam iron on an ironing board",
+            "credit": "Filip Mroz",
+            "creditUrl": "https://unsplash.com/@mroz"
+          },
+          "caption": "Pressing equipment"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1517146783983-418c681b56c5",
+            "alt": "Assorted coloured thread spools",
+            "credit": "Vishal Banik",
+            "creditUrl": "https://unsplash.com/@vishalbanik16"
+          },
+          "caption": "Thread & consumables"
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1640767760729-7bfb6ce43ad4",
+        "alt": "Coloured fabrics on a shop shelf",
+        "credit": "Cosmin Ursea",
+        "creditUrl": "https://unsplash.com/@cosminursea"
+      },
+      "kicker": "Current stock",
+      "heading": "See what’s on the shelf today",
+      "html": "<p>PKSM’s stock changes quickly. Its eBay store lists the latest machines, parts and accessories with current prices, or call the shop on 0116 273 6552.</p>",
+      "links": [
+        {
+          "title": "View PKSM on eBay",
+          "href": "https://www.ebay.co.uk/sch/i.html?_ssn=rajsud57",
+          "primary": true
+        },
+        {
+          "title": "Visit pksm.co.uk",
+          "href": "http://www.pksm.co.uk/"
         }
       ]
     }

@@ -1,0 +1,123 @@
+{
+  "updated": "2026-10-14",
+  "slug": "quilting-and-patchwork",
+  "title": "Quilting & Patchwork in the UK: Tools, Machines and Tips",
+  "description": "Start quilting and patchwork: the tools you need, sewing machine features that help, choosing fabric and wadding, and a simple first quilt plan for beginners.",
+  "eyebrow": "Quilting · Patchwork",
+  "h1": "Quilting and patchwork",
+  "intro": "Quilting combines precise cutting, accurate seams and a lot of creativity. Here is how to start, and what your sewing machine needs.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1692561141101-c1528235e6bf",
+    "alt": "Colourful patchwork quilt on a bed",
+    "credit": "K Adams",
+    "creditUrl": "https://unsplash.com/@kadams77"
+  },
+  "cardText": "Tools, machine features, fabric and wadding, and a first quilt plan.",
+  "keywords": [
+    "quilting",
+    "patchwork",
+    "quilting for beginners",
+    "quilting machine",
+    "walking foot",
+    "rotary cutter",
+    "wadding",
+    "quilting cotton"
+  ],
+  "blocks": [
+    {
+      "type": "gallery",
+      "layout": "strip",
+      "items": [
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1602730273286-22b077c994de",
+            "alt": "Close-up of a colourful patchwork quilt",
+            "credit": "Jen Couser",
+            "creditUrl": "https://unsplash.com/@couserjl"
+          },
+          "caption": "Patchwork"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1692561141101-c1528235e6bf",
+            "alt": "Colourful patchwork quilt on a bed",
+            "credit": "K Adams",
+            "creditUrl": "https://unsplash.com/@kadams77"
+          },
+          "caption": "Finished quilts"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1550376026-7375b92bb318",
+            "alt": "Assorted coloured textiles",
+            "credit": "Paul Hanaoka",
+            "creditUrl": "https://unsplash.com/@plhnk"
+          },
+          "caption": "Fabric choice"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1718184021018-d2158af6b321",
+            "alt": "Cutting fabric with tailoring scissors",
+            "credit": "SIL Group",
+            "creditUrl": "https://unsplash.com/@silgroup"
+          },
+          "caption": "Cutting"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1497997092403-f091fcf5b6c4",
+            "alt": "Sewing machine presser foot with thread on dark cloth",
+            "credit": "Alexander Andrews",
+            "creditUrl": "https://unsplash.com/@alex_andrews"
+          },
+          "caption": "Walking foot",
+          "slug": "blog/presser-feet-guide"
+        },
+        {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1542044801-30d3e45ae49a",
+            "alt": "Rows of coloured sewing thread",
+            "credit": "Héctor J. Rivas",
+            "creditUrl": "https://unsplash.com/@hjrc33"
+          },
+          "caption": "Thread"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Tools you need",
+      "html": "<ul><li>Rotary cutter, self-healing mat and a long acrylic ruler.</li><li>A ¼-inch (6mm) patchwork foot for accurate seams.</li><li>A <strong>walking foot</strong> for quilting layers evenly.</li><li>Quilting pins or clips, and basting spray or safety pins.</li><li>100% cotton thread is the traditional choice.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1718184021018-d2158af6b321?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1718184021018-d2158af6b321?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1718184021018-d2158af6b321?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Cutting fabric with tailoring scissors\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Rotary cutting makes accurate patchwork pieces.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@silgroup?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">SIL Group</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Machine features that help",
+      "html": "<ul><li><strong>Throat space</strong>: more room to the right of the needle makes quilting large pieces easier.</li><li><strong>Needle up/down</strong> and <strong>knee lifter</strong> for pivoting.</li><li><strong>Feed dogs that drop</strong> for free-motion quilting.</li><li><strong>A sturdy extension table</strong> to support the weight of the quilt.</li></ul>"
+    },
+    {
+      "h2": "Fabric and wadding",
+      "html": "<p>Quilting cotton is stable and comes in endless prints. Pre-cut bundles (fat quarters, jelly rolls and charm packs) make choosing easy. Wadding (batting) comes in cotton, polyester, wool and blends, each with different warmth, loft and shrinkage.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1602730273286-22b077c994de?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1602730273286-22b077c994de?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1602730273286-22b077c994de?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Close-up of a colourful patchwork quilt\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Pre-cut bundles make colour choices easier.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@couserjl?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Jen Couser</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Your first quilt in six steps",
+      "html": "<ol><li>Choose a simple pattern of squares or strips.</li><li>Cut accurately with a rotary cutter.</li><li>Sew with a consistent ¼-inch seam and press seams as you go.</li><li>Layer the top, wadding and backing, then baste.</li><li>Quilt straight lines with a walking foot.</li><li>Trim and bind the edges.</li></ol>"
+    },
+    {
+      "h2": "Servicing a quilting machine",
+      "html": "<p>Quilting puts a lot of hours on a machine and fills it with lint. Clean the bobbin area often and service it regularly. In Leicester, <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> services domestic machines and stocks feet, needles and bobbins; it sits in a city famous for <a href=\"/leicester-hosiery/\">textiles and hosiery</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I quilt on a normal sewing machine?",
+      "a": "Yes. Most domestic machines can piece and quilt small to medium projects, especially with a walking foot. Larger quilts are easier with more throat space."
+    }
+  ],
+  "related": [
+    "dressmaking-fabrics",
+    "blog/presser-feet-guide",
+    "sewing-machines",
+    "blog/quilting-for-beginners"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog/sewing-machine-tension-guide",
+  "type": "post",
+  "date": "2026-10-03",
+  "title": "Sewing Machine Tension: How to Get Perfect Stitches",
+  "description": "Understand sewing machine tension: how a balanced stitch looks, fixing loops and puckering, adjusting top and bobbin tension, and when to get help.",
+  "h1": "Sewing machine tension made simple",
+  "eyebrow": "Troubleshooting",
+  "intro": "Tension is the balance between the top and bobbin threads. Get it right and stitches look perfect on both sides.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1641320197434-6ae0ca235048",
+    "alt": "Close-up of fabric being stitched on a sewing machine",
+    "credit": "Ashley Diane Worsham",
+    "creditUrl": "https://unsplash.com/@worsham"
+  },
+  "keywords": [
+    "sewing machine tension",
+    "thread tension",
+    "bobbin tension",
+    "loops under fabric",
+    "puckering",
+    "balanced stitch"
+  ],
+  "cardText": "Balanced stitches, fixing loops and puckering, and adjusting safely.",
+  "sections": [
+    {
+      "h2": "What a balanced stitch looks like",
+      "html": "<p>In a balanced lockstitch, the two threads interlock in the middle of the fabric layers. You see only top thread on top and only bobbin thread underneath. Use contrasting colours on a test scrap to check.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1583836815700-ba0649cf1faa?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1583836815700-ba0649cf1faa?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1583836815700-ba0649cf1faa?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Blue, red and white thread\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Use contrasting thread colours to read tension.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@borisdunand?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Boris Dunand</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Rethread first",
+      "html": "<p>Most “tension problems” are threading problems. Raise the presser foot (which opens the tension discs) and rethread the top completely. Check the bobbin is inserted the right way round.</p>"
+    },
+    {
+      "h2": "Adjusting top tension",
+      "html": "<ul><li><strong>Top thread visible underneath</strong>: increase top tension a little.</li><li><strong>Bobbin thread visible on top</strong>: decrease top tension a little.</li><li>Change one step at a time and test.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1560796952-f1c9b838544c?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1560796952-f1c9b838544c?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1560796952-f1c9b838544c?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Close-up of a sewing machine needle and presser foot\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Adjust the top tension dial one step at a time.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@jwill14?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">J Williams</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Bobbin tension",
+      "html": "<p>On front-loading machines the bobbin case has a small screw. Adjust only in tiny turns, and only if top tension changes don’t help. Many drop-in systems shouldn’t be adjusted at home.</p>"
+    },
+    {
+      "h2": "Fabric and thread matter",
+      "html": "<p>Heavy thread, thick layers and stretch fabrics all change how tension behaves. Match needle size to thread and fabric, and test on the actual fabric you are sewing.</p>"
+    },
+    {
+      "h2": "A tension test you can repeat",
+      "html": "<ol><li>Thread a different colour on top and in the bobbin.</li><li>Sew a line of straight stitch and a line of zigzag on two layers of medium cotton.</li><li>Check both sides. Adjust the top dial one step and sew again.</li><li>Note the best setting for that fabric.</li></ol><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1613076321656-23dcdd3aea92?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1613076321656-23dcdd3aea92?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1613076321656-23dcdd3aea92?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Red, blue and white thread spools\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Contrasting colours make tension easy to read.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@bkaraivanov?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Bozhin Karaivanov</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Tension on industrial machines",
+      "html": "<p>Industrial machines have a similar top tension assembly and a bobbin case with a tension spring. Operators often set bobbin tension by the “drop test”, but follow the manufacturer’s guidance or ask your engineer.</p>"
+    },
+    {
+      "h2": "When to call a professional",
+      "html": "<p>If tension won’t balance after rethreading, a new needle and small adjustments, the machine may need a service. <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> in Leicester services all major makes. Leicester’s engineers have kept machines running since the days of <a href=\"/leicester-hosiery/\">the great hosiery mills</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
+      "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What number should my sewing machine tension be on?",
+      "a": "Many machines have a default mark (often around 4 on a 0 to 9 dial) for general sewing. Adjust from there for different fabrics and threads."
+    }
+  ]
+}

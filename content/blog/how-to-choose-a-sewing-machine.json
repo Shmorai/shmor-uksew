@@ -24,11 +24,11 @@
   "sections": [
     {
       "h2": "Step 1: list what you will sew",
-      "html": "<p>Write down your three most likely projects. Mending and alterations, dressmaking with woven cottons, stretchy jersey, quilting, bags and upholstery all ask different things of a machine. The heaviest fabric on your list sets the minimum standard.</p>"
+      "html": "<p>Write down your three most likely projects. Mending and alterations, dressmaking with woven cottons, stretchy jersey, quilting, bags and upholstery all ask different things of a machine. The heaviest fabric on your list sets the minimum standard.</p><blockquote class=\"pull\">Buy for the heaviest fabric you sew, not the lightest.</blockquote>"
     },
     {
       "h2": "Step 2: pick a machine type",
-      "html": "<ul><li><strong>Mechanical</strong>: simple, durable and easy to repair. Ideal for beginners.</li><li><strong>Computerised</strong>: more stitches, automatic buttonholes, needle up/down and speed control.</li><li><strong>Heavy-duty</strong>: stronger motor for denim and canvas.</li><li><strong>Overlocker</strong>: a second machine for neat seams on knits, not a replacement.</li></ul><p>Compare them on our <a href=\"/sewing-machines/\">sewing machines</a> page.</p>"
+      "html": "<ul><li><strong>Mechanical</strong>: simple, durable and easy to repair. Ideal for beginners.</li><li><strong>Computerised</strong>: more stitches, automatic buttonholes, needle up/down and speed control.</li><li><strong>Heavy-duty</strong>: stronger motor for denim and canvas.</li><li><strong>Overlocker</strong>: a second machine for neat seams on knits, not a replacement.</li></ul><p>Compare them on our <a href=\"/sewing-machines/\">sewing machines</a> page.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1673786586360-19e8f8acb53f?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1673786586360-19e8f8acb53f?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1673786586360-19e8f8acb53f?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Modern sewing machine on a table\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Computerised machines add stitches, speed control and automatic buttonholes.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@kemalberkaydogan?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Kemal Berkay Dogan</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Step 3: features that genuinely help",
@@ -36,7 +36,27 @@
     },
     {
       "h2": "Step 4: decide new or used",
-      "html": "<p>A good used machine that has been serviced and tested by a specialist is often better made than a budget new one. Our <a href=\"/blog/buying-a-used-sewing-machine/\">used machine checklist</a> explains what to look for.</p>"
+      "html": "<p>A good used machine that has been serviced and tested by a specialist is often better made than a budget new one. Our <a href=\"/blog/buying-a-used-sewing-machine/\">used machine checklist</a> explains what to look for.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1785119774611-c9d4efc4dc5a?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1785119774611-c9d4efc4dc5a?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1785119774611-c9d4efc4dc5a?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Antique sewing machine in a green room\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>A serviced older machine can outlast a budget new one.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@introspectivedsgn?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Erik Mclean</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Questions to ask in the shop",
+      "html": "<ul><li>Which needle system and bobbin class does it use?</li><li>Is there a hard cover or carry case?</li><li>What comes in the box: feet, bobbins, needles, a manual?</li><li>Who services it locally, and how long are parts available?</li><li>Can I bring it back if it doesn’t suit?</li></ul>"
+    },
+    {
+      "h2": "Common mistakes to avoid",
+      "html": "<ul><li>Buying hundreds of decorative stitches you won’t use instead of a better-built machine.</li><li>Choosing a toy-grade mini machine for real projects.</li><li>Forgetting the cost of a service on a cheap second-hand machine.</li><li>Not checking the machine handles several layers of your heaviest fabric.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1486622923572-7a7e18acf192?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1486622923572-7a7e18acf192?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1486622923572-7a7e18acf192?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Chevron fabric on a black sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Test on several layers of your heaviest fabric.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@clemono?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Clem Onojeghuo</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Mechanical vs computerised in more detail",
+      "html": "<p>A <strong>mechanical</strong> machine sets stitch length and width with dials and uses cams and gears to form stitches. It has fewer things to go wrong, tolerates a knock, and any good engineer can service it. The trade-off is fewer stitches, a simpler buttonhole and no speed limiter.</p><p>A <strong>computerised</strong> machine uses a circuit board and stepper motors. You gain push-button stitch selection, memorised settings, a needle that stops up or down, speed control (helpful for beginners and children) and often an automatic needle threader. Repairs to electronics can cost more, so buy from a brand and dealer with good support.</p>"
+    },
+    {
+      "h2": "Think about the bobbin system",
+      "html": "<p><strong>Drop-in (top-loading)</strong> bobbins sit under a clear cover, so you can see how much thread is left and they are easy to change. <strong>Front-loading</strong> bobbins sit in a removable metal case, which many experienced sewers prefer for fine tension control. Neither is better for everyone, but try both in the shop.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1517146783983-418c681b56c5?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1517146783983-418c681b56c5?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1517146783983-418c681b56c5?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Assorted coloured thread spools\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Drop-in or front-loading: try both bobbin systems before you buy.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@vishalbanik16?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Vishal Banik</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Accessories worth having from day one",
+      "html": "<ul><li>Zipper foot and buttonhole foot (usually included).</li><li>Walking foot if you plan to quilt or sew knits and checks.</li><li>Spare bobbins of the correct class.</li><li>A selection of needles: universal 80/12 and 90/14, ballpoint and jeans.</li><li>A hard cover or carry case if you will take it to classes.</li></ul>"
     },
     {
       "h2": "Step 5: test-sew before you buy",
@@ -47,6 +67,14 @@
     {
       "q": "How much should I spend on a first sewing machine?",
       "a": "Enough to get a solid machine from a supported brand with a good buttonhole. A serviced used machine from a specialist is a good way to stretch your budget."
+    },
+    {
+      "q": "Is a computerised sewing machine better for beginners?",
+      "a": "Not necessarily. A simple computerised machine with speed control helps some beginners, while others prefer the simplicity of a mechanical machine. Build quality and an easy buttonhole matter more."
+    },
+    {
+      "q": "Should I buy an overlocker at the same time?",
+      "a": "Most people start with a sewing machine and add an overlocker later, once they sew jersey or want faster seam finishing."
     }
   ],
   "sources": [

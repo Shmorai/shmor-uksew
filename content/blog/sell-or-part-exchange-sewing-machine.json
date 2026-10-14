@@ -25,7 +25,7 @@
   "sections": [
     {
       "h2": "What affects value",
-      "html": "<ul><li>Make, model and age.</li><li>Working condition and service history.</li><li>Accessories: feet, bobbin case, manual, table and motor for industrials.</li><li>Demand: some industrial and specialist machines are always sought after.</li></ul>"
+      "html": "<ul><li>Make, model and age.</li><li>Working condition and service history.</li><li>Accessories: feet, bobbin case, manual, table and motor for industrials.</li><li>Demand: some industrial and specialist machines are always sought after.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1627812962960-0015d7d6a76f?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1627812962960-0015d7d6a76f?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1627812962960-0015d7d6a76f?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Black and gold vintage sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Condition, accessories and history all affect value.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@ryunosuke_kikuno?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Ryunosuke Kikuno</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Selling privately",
@@ -36,6 +36,26 @@
       "html": "<p>A dealer will usually offer less than a private buyer because they test, service and resell the machine, but it is quick and simple, and part exchange reduces the cost of your next machine.</p>"
     },
     {
+      "h2": "Prepare your machine",
+      "html": "<ul><li>Clean it and gather the manual, feet, bobbins and pedal.</li><li>Note the make, model and serial number.</li><li>Take clear photos and sew a sample of its stitches.</li><li>Be upfront about any faults.</li></ul><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1606501126768-b78d4569d3f9?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1606501126768-b78d4569d3f9?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1606501126768-b78d4569d3f9?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Person sewing at a machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>A clean machine with a stitch sample sells faster.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@sharonmccutcheon?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Alexander Grey</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Where to sell",
+      "html": "<ul><li><strong>Dealers and specialists</strong>: quickest, with part-exchange options.</li><li><strong>Online marketplaces</strong>: wider audience, more work.</li><li><strong>Local groups and sewing clubs</strong>: good for vintage and specialist machines.</li></ul>"
+    },
+    {
+      "h2": "Donating a machine",
+      "html": "<p>If your machine is working but of low resale value, community projects, schools and charities may welcome it. Ask whether they can accept it and whether it needs a safety check first.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1687676626229-d55a2d0b1bc5?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1687676626229-d55a2d0b1bc5?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1687676626229-d55a2d0b1bc5?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"A sewing room with clothes on the wall\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Working machines can find a new home with community projects.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@tuyuloveu?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">muhammad arief</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Pricing your machine",
+      "html": "<p>Look at completed sales of the same model, not asking prices, to see what machines actually sell for. Adjust for condition, accessories and service history. Be realistic about common models; rare and sought-after machines can command more.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1466027397211-20d0f2449a3f?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1466027397211-20d0f2449a3f?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1466027397211-20d0f2449a3f?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Vintage black and gold sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Completed sales are a better guide than asking prices.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@anniespratt?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Annie Spratt</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Safe selling",
+      "html": "<ul><li>Meet buyers in a safe place or have someone with you.</li><li>Use secure payment methods and wait for funds to clear.</li><li>Pack carefully if posting: support the needle bar and remove the bobbin.</li></ul>"
+    },
+    {
       "h2": "Clearing a workroom",
       "html": "<p>If you are closing or downsizing a production room, a specialist can assess several machines at once. <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> in Leicester buys selected machines outright and offers part exchange against replacement machines. Many of Leicester’s old <a href=\"/leicester-hosiery/\">hosiery workrooms</a> have passed their machines on this way. See our <a href=\"/deals/\">deals page</a>.</p>"
     }
@@ -44,6 +64,12 @@
     {
       "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
       "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do sewing machine shops buy old machines?",
+      "a": "Some do, especially specialists who refurbish and resell. PK Sewing Machines in Leicester buys selected machines and offers part exchange."
     }
   ]
 }

@@ -28,15 +28,31 @@
   "sections": [
     {
       "h2": "The main UK weights",
-      "html": "<ul><li><strong>4-ply</strong> (US fingering): socks, baby wear, fine knits. Around 2.75 to 3.25mm needles.</li><li><strong>Double knit / DK</strong> (US light worsted): the all-rounder. Around 4mm needles.</li><li><strong>Aran</strong> (close to US worsted): cables and warm jumpers. Around 4.5 to 5mm needles.</li><li><strong>Chunky</strong> (US bulky): quick, cosy projects. Around 6 to 8mm needles.</li></ul><p>Needle sizes are typical ranges; always follow the ball band and your pattern.</p>"
+      "html": "<ul><li><strong>4-ply</strong> (US fingering): socks, baby wear, fine knits. Around 2.75 to 3.25mm needles.</li><li><strong>Double knit / DK</strong> (US light worsted): the all-rounder. Around 4mm needles.</li><li><strong>Aran</strong> (close to US worsted): cables and warm jumpers. Around 4.5 to 5mm needles.</li><li><strong>Chunky</strong> (US bulky): quick, cosy projects. Around 6 to 8mm needles.</li></ul><p>Needle sizes are typical ranges; always follow the ball band and your pattern.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1788712998889-0c7875bccf3c?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1788712998889-0c7875bccf3c?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1788712998889-0c7875bccf3c?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Yarn skeins on wooden shelves in a craft shop\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Yarn weights have different names in the UK and US.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@benjamin_photo_lab?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Benjamin Chambon</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Read the ball band",
-      "html": "<p>The band shows fibre content, weight, length, recommended needle size, tension (stitches and rows per 10cm) and washing instructions. Buy enough from the same <strong>dye lot</strong> for the whole project.</p>"
+      "html": "<p>The band shows fibre content, weight, length, recommended needle size, tension (stitches and rows per 10cm) and washing instructions. Buy enough from the same <strong>dye lot</strong> for the whole project.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1518732836484-bd257665c9d1?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1518732836484-bd257665c9d1?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1518732836484-bd257665c9d1?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Assorted coloured yarns\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>The ball band tells you fibre, weight, length and tension.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@clothandtwig?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Karly Santiago</a> / Unsplash</span></figcaption></figure>"
     },
     {
       "h2": "Knit a tension square",
       "html": "<p>Knit a 10cm square before you start. If you have more stitches than the pattern, go up a needle size; fewer, go down.</p>"
+    },
+    {
+      "h2": "Substituting yarn",
+      "html": "<p>If a pattern’s yarn is discontinued, match the <strong>weight</strong>, the <strong>tension</strong> and the <strong>metres per 100g</strong> as closely as possible, then knit a tension square. Similar fibre content keeps the drape and warmth closer to the original.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1699805134875-83da1a5c736a?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1699805134875-83da1a5c736a?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1699805134875-83da1a5c736a?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"A basket filled with wool\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Match weight and metres per 100g when substituting.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@kadams77?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">K Adams</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Wraps per inch",
+      "html": "<p>If a yarn has lost its ball band, wrap it around a ruler for one inch without stretching or overlapping and count the wraps. Fewer wraps means a thicker yarn. Compare with a wraps-per-inch chart to estimate the weight.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1575193506520-45ff0a377fb8?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1575193506520-45ff0a377fb8?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1575193506520-45ff0a377fb8?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Assorted coloured yarn\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Wraps per inch helps identify unlabelled yarn.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@_k8_?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">K8</a> / Unsplash</span></figcaption></figure>"
+    },
+    {
+      "h2": "Fibre and drape",
+      "html": "<p>Two yarns of the same weight can knit up very differently. Wool is springy and holds cables crisply, cotton is heavier and drapes, alpaca is warm and has a halo, and acrylic is light and easy care. Swatch to see the fabric before committing to a big project.</p>"
+    },
+    {
+      "h2": "How much yarn will I need?",
+      "html": "<p>Patterns give yardage or metres per size. If you substitute yarn, work out total metres needed and divide by metres per ball. Buy one extra ball from the same dye lot for safety.</p>"
     },
     {
       "h2": "From wool to hosiery",
@@ -51,6 +67,12 @@
     {
       "title": "PK Sewing Machines, Leicester (pksm.co.uk)",
       "url": "http://www.pksm.co.uk/"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is DK the same as 8-ply?",
+      "a": "In Australia and New Zealand, 8-ply is used for a weight similar to UK double knit (DK). Always check needle size and tension on the band."
     }
   ]
 }
