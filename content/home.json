@@ -1,12 +1,12 @@
 {
   "updated": "2026-10-14",
   "slug": "",
-  "title": "UK Sew: Sewing Machines, Parts, Wool & Repairs in the UK",
-  "description": "UK sewing machines, parts, wool and accessories, plus servicing, repairs and hire advice. Rooted in Leicester’s hosiery heritage, featuring PK Sewing Machines.",
-  "eyebrow": "Sewing machines · Parts · Wool · Repairs · Hire",
-  "h1": "Britain’s home for sewing, knitting and hosiery.",
-  "h1Html": "Britain’s home for sewing,<br><span class=\"hl\">knitting &amp; hosiery.</span>",
-  "intro": "Machines, parts, wool and workshop know-how for home sewers, tailors and trade workrooms across the UK, with roots in Leicester, the city that clothed the world.",
+  "title": "UK SEW: Sewing Machines, Parts, Wool & Repairs in the UK",
+  "description": "Independent UK guides to sewing machines, parts, wool, knitting and repairs, rooted in Leicester’s hosiery heritage. Buying advice, servicing tips and more.",
+  "eyebrow": "Sewing · Knitting · Hosiery · Since 1589 in Leicestershire",
+  "h1": "The home of British sewing and knitting.",
+  "h1Html": "The home of British<br><span class=\"hl\">sewing &amp; knitting.</span>",
+  "intro": "Machines, parts, wool and workshop know-how for home sewers, tailors and trade workrooms, from the county that invented machine knitting.",
   "searchPlaceholder": "Try “overlocker”, “Juki parts” or “sewing machine service”",
   "chips": [
     {
@@ -41,7 +41,7 @@
     "creditUrl": "https://unsplash.com/@anniespratt"
   },
   "latestPosts": 6,
-  "latestTitle": "From the UK Sew journal",
+  "latestTitle": "From the UK SEW journal",
   "blocks": [
     {
       "type": "strip",
@@ -50,22 +50,22 @@
         {
           "icon": "pin",
           "title": "Leicester roots",
-          "text": "the UK’s historic hosiery capital"
+          "text": "Britain’s historic hosiery capital"
         },
         {
-          "icon": "shield",
-          "title": "Featured specialist",
-          "text": "PK Sewing Machines, est. 1982"
+          "icon": "file",
+          "title": "Independent guides",
+          "text": "no invented reviews or prices"
         },
         {
           "icon": "tag",
-          "title": "5,000+ parts",
-          "text": "stocked by our featured workshop"
+          "title": "Parts & servicing",
+          "text": "domestic and industrial machines"
         },
         {
           "icon": "truck",
           "title": "UK-wide",
-          "text": "home, trade and industrial"
+          "text": "for home, trade and education"
         }
       ]
     },
@@ -173,34 +173,6 @@
       ]
     },
     {
-      "type": "html",
-      "class": "pk-feature",
-      "html": "<div class=\"pkf\"><div class=\"pkf-copy\"><p class=\"pkf-k\">Featured company · Leicester</p><h2>PK Sewing Machines</h2><p class=\"pkf-lede\">Family-run sewing machine specialists on St Saviours Road, Leicester, since 1982. Sales, servicing, repairs and an extensive parts department for domestic and industrial machines.</p><ul class=\"pkf-list\"><li><strong>Since 1982</strong> started by two brothers, still family-run</li><li><strong>Servicing</strong> listed from £35 on pksm.co.uk</li><li><strong>5,000+ spare parts</strong> for domestic and industrial machines</li><li><strong>Industrial call-outs</strong> across the East Midlands</li></ul><div class=\"pkf-actions\"><a class=\"btn-red\" href=\"/pk-sewing-machines-leicester/\">Read the PKSM profile</a><a class=\"btn-ghost\" href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">Visit pksm.co.uk ↗</a></div></div><div class=\"pkf-photo\"><img src=\"https://images.unsplash.com/photo-1524292332709-b33366a7f165?w=900&h=1000&fit=crop&q=70&auto=format\" width=\"900\" height=\"1000\" alt=\"Sewing machine engineer at work on a machine\" loading=\"lazy\"><p class=\"pkf-cap\">Illustrative photo: Lidya Nada on Unsplash</p></div></div>"
-    },
-    {
-      "type": "facts",
-      "title": "PK Sewing Machines in numbers",
-      "items": [
-        {
-          "value": "1982",
-          "label": "Founded in Leicester by two brothers"
-        },
-        {
-          "value": "5,000+",
-          "label": "Spare parts, accessories and consumables"
-        },
-        {
-          "value": "£35",
-          "label": "Servicing listed “from” on pksm.co.uk"
-        },
-        {
-          "value": "40+ yrs",
-          "label": "Family-run sales, service and repairs"
-        }
-      ],
-      "note": "Figures as published by PK Sewing Machines on <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>. Prices are set by PKSM and can change."
-    },
-    {
       "type": "gallery",
       "title": "Inside the sewing room",
       "intro": "From vintage Singers to modern workrooms, explore the craft.",
@@ -299,8 +271,8 @@
         {
           "icon": "store",
           "badge": "Live stock",
-          "title": "PKSM eBay store",
-          "text": "Current used and new machines, parts and accessories from our featured Leicester workshop.",
+          "title": "Leicester workshop stock",
+          "text": "Used and new machines, parts and accessories listed by an established Leicester workshop.",
           "href": "https://www.ebay.co.uk/sch/i.html?_ssn=rajsud57",
           "cta": "See current listings"
         },
@@ -308,7 +280,7 @@
           "icon": "repeat",
           "badge": "Trade-in",
           "title": "Part exchange",
-          "text": "Upgrading? Specialist dealers including PKSM buy selected machines or part-exchange them.",
+          "text": "Upgrading? Specialist dealers buy selected machines or part-exchange them against a replacement.",
           "href": "/blog/sell-or-part-exchange-sewing-machine/",
           "cta": "How part exchange works"
         },
@@ -332,7 +304,7 @@
     },
     {
       "type": "feature",
-      "reverse": true,
+      "reverse": false,
       "image": {
         "src": "https://images.unsplash.com/photo-1632944968588-3ec2870641ce",
         "alt": "Knitted socks and a hat on a wooden table",
@@ -341,7 +313,7 @@
       },
       "kicker": "Leicester · since 1589",
       "heading": "The city that clothed the world",
-      "html": "<p>For three centuries Leicester’s framework knitters and factories made stockings, socks, underwear and knitwear for Britain and beyond. Corah’s St Margaret’s Works and the Wolsey brand made the city a byword for knitted goods.</p><p>That heritage lives on in Leicester’s knitters, garment makers and machinery specialists such as <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a>.</p>",
+      "html": "<p>For three centuries Leicester’s framework knitters and factories made stockings, socks, underwear and knitwear for Britain and beyond. Corah’s St Margaret’s Works and the Wolsey brand made the city a byword for knitted goods.</p><p>That heritage lives on in the city’s knitters, garment makers, dyers and machine engineers.</p>",
       "links": [
         {
           "title": "Explore the heritage",
@@ -480,9 +452,9 @@
         "credit": "alex jhonson",
         "creditUrl": "https://unsplash.com/@alexjhonson23e"
       },
-      "kicker": "Repairs & servicing",
-      "heading": "Keep your machine stitching for decades",
-      "html": "<p>A regular service keeps stitches even and prevents expensive breakdowns. Learn what a service includes, the warning signs to watch for and the quick fixes you can try at home.</p><ul><li>Workshop servicing in Leicester, listed from £35 by PKSM</li><li>Industrial call-outs across the East Midlands</li><li>Parts for older and discontinued machines</li></ul>",
+      "kicker": "Workshop know-how",
+      "heading": "Expert servicing, the Leicester way",
+      "html": "<p>Leicester’s mills ran on skilled mechanics, and that know-how hasn’t gone anywhere. Our servicing and parts guides draw on the city’s workshops, including family-run <a href=\"/pk-sewing-machines-leicester/\">PK Sewing Machines</a>, which has kept domestic and industrial machines stitching since 1982.</p><ul><li>What a service includes and how often to book one</li><li>Quick fixes for skipped stitches and bunching</li><li>Finding parts for older and discontinued machines</li></ul>",
       "links": [
         {
           "title": "Repairs & servicing",
@@ -490,14 +462,16 @@
           "primary": true
         },
         {
-          "title": "Troubleshooting guide",
-          "slug": "blog/common-sewing-machine-problems"
+          "title": "Meet the workshop",
+          "slug": "pk-sewing-machines-leicester"
         }
-      ]
+      ],
+      "class": "is-soft",
+      "reverse": true
     },
     {
       "type": "steps",
-      "title": "How UK Sew helps",
+      "title": "How UK SEW helps",
       "items": [
         {
           "icon": "search",
@@ -525,11 +499,11 @@
   "sections": [
     {
       "h2": "Sewing machines, wool and workshop supplies for the UK",
-      "html": "<p>UK Sew is a free guide to the British sewing and knitting world. Whether you are buying your first machine after watching <em>The Great British Sewing Bee</em>, sourcing a bobbin case for a 40-year-old Singer, or keeping a row of industrial lockstitch machines running, we bring the options together in one place.</p><ul><li><a href=\"/sewing-machines/\">Sewing machines</a>: mechanical, computerised and heavy-duty machines for home use.</li><li><a href=\"/industrial-sewing-machines/\">Industrial sewing machines</a>: lockstitch, overlock, coverstitch and specialist machines for trade.</li><li><a href=\"/sewing-machine-parts/\">Parts and needles</a>: needle systems, bobbins, feet, belts and motors.</li><li><a href=\"/wool-and-yarn/\">Wool and yarn</a>: UK yarn weights, fibres and how to choose.</li><li><a href=\"/sewing-machine-repairs/\">Repairs and servicing</a> and <a href=\"/sewing-machine-hire/\">machine hire</a>.</li></ul>"
+      "html": "<p>UK SEW is a free guide to the British sewing and knitting world. Whether you are buying your first machine after watching <em>The Great British Sewing Bee</em>, sourcing a bobbin case for a 40-year-old Singer, or keeping a row of industrial lockstitch machines running, we bring the options together in one place.</p><ul><li><a href=\"/sewing-machines/\">Sewing machines</a>: mechanical, computerised and heavy-duty machines for home use.</li><li><a href=\"/industrial-sewing-machines/\">Industrial sewing machines</a>: lockstitch, overlock, coverstitch and specialist machines for trade.</li><li><a href=\"/sewing-machine-parts/\">Parts and needles</a>: needle systems, bobbins, feet, belts and motors.</li><li><a href=\"/wool-and-yarn/\">Wool and yarn</a>: UK yarn weights, fibres and how to choose.</li><li><a href=\"/sewing-machine-repairs/\">Repairs and servicing</a> and <a href=\"/sewing-machine-hire/\">machine hire</a>.</li></ul>"
     },
     {
-      "h2": "Featuring PK Sewing Machines, Leicester",
-      "html": "<p>Our featured specialist is <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines (PKSM)</a>, a family business founded in Leicester in 1982 by two brothers. PKSM sells new and used domestic and industrial machines, services and repairs all major makes, carries more than 5,000 spare parts and offers industrial call-outs across the East Midlands. Read <a href=\"/pk-sewing-machines-leicester/\">our full PKSM profile</a>, or browse their current stock on <a href=\"https://www.ebay.co.uk/sch/i.html?_ssn=rajsud57\" rel=\"noopener\" target=\"_blank\">eBay</a>.</p>"
+      "h2": "Local expertise from Leicester",
+      "html": "<p>Good advice comes from people who mend machines for a living. Our guides lean on Leicester’s workshop tradition, including <a href=\"/pk-sewing-machines-leicester/\">PK Sewing Machines</a> on St Saviours Road, a family business since 1982 that sells, services and repairs domestic and industrial machines and keeps a large parts department.</p>"
     },
     {
       "h2": "Leicester: the city that clothed the world",
@@ -542,8 +516,8 @@
   ],
   "faqs": [
     {
-      "q": "Is UK Sew a shop?",
-      "a": "No. UK Sew is a free guide to sewing machines, parts, wool and services in the UK. We point you to specialists such as PK Sewing Machines in Leicester, and you buy directly from them."
+      "q": "Is UK SEW a shop?",
+      "a": "No. UK SEW is a free, independent guide to sewing machines, parts, wool and services in the UK. When you buy, you buy directly from the seller."
     },
     {
       "q": "Where can I get a sewing machine serviced in Leicester?",
@@ -556,10 +530,11 @@
   ],
   "ctaTitle": "Search sewing machines, parts and guides",
   "related": [
-    "pk-sewing-machines-leicester",
     "leicester-hosiery",
+    "hosiery-and-knitwear",
     "uk-hosiery-news",
     "sewing-glossary"
   ],
-  "relatedTitle": "Leicester, PKSM and the hosiery trade"
+  "relatedTitle": "Leicester, PKSM and the hosiery trade",
+  "heroHtml": "<div class=\"hero-collage\" aria-hidden=\"true\"><img class=\"hc-1\" src=\"https://images.unsplash.com/photo-1557113166-86fc668c156e?w=700&h=1040&fit=crop&crop=entropy&q=72&auto=format\" width=\"700\" height=\"1040\" alt=\"\" fetchpriority=\"high\"><img class=\"hc-2\" src=\"https://images.unsplash.com/photo-1788712998889-0c7875bccf3c?w=600&h=500&fit=crop&crop=entropy&q=72&auto=format\" width=\"600\" height=\"500\" alt=\"\"><img class=\"hc-3\" src=\"https://images.unsplash.com/photo-1730447619863-5349b3f6db70?w=600&h=500&fit=crop&crop=entropy&q=72&auto=format\" width=\"600\" height=\"500\" alt=\"\"><p class=\"hc-badge\"><b>Leicester, 1589 to today</b>From the stocking frame to modern workrooms: four centuries of knitting and sewing know-how.</p></div>"
 }

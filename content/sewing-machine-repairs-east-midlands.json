@@ -21,31 +21,7 @@
     "industrial sewing machine engineer",
     "sewing machine service near me"
   ],
-  "blocks": [
-    {
-      "type": "facts",
-      "title": "PK Sewing Machines in numbers",
-      "items": [
-        {
-          "value": "1982",
-          "label": "Founded in Leicester by two brothers"
-        },
-        {
-          "value": "5,000+",
-          "label": "Spare parts, accessories and consumables"
-        },
-        {
-          "value": "£35",
-          "label": "Servicing listed “from” on pksm.co.uk"
-        },
-        {
-          "value": "40+ yrs",
-          "label": "Family-run sales, service and repairs"
-        }
-      ],
-      "note": "Figures as published by PK Sewing Machines on <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">pksm.co.uk</a>. Prices are set by PKSM and can change."
-    }
-  ],
+  "blocks": [],
   "sections": [
     {
       "h2": "Workshop servicing in Leicester",
@@ -53,7 +29,7 @@
     },
     {
       "h2": "Industrial call-outs",
-      "html": "<p>For workrooms and production environments, PKSM offers on-site industrial call-outs across the East Midlands, which keeps downtime short. Call 0116 273 6552 to arrange.</p>"
+      "html": "<p>For workrooms and production environments, PKSM offers on-site industrial call-outs across the East Midlands, which keeps downtime short.</p>"
     },
     {
       "h2": "Collection and delivery",
