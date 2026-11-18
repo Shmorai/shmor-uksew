@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-11-18",
   "slug": "brands/singer",
   "nav": "Singer",
   "keywords": [
@@ -46,6 +46,14 @@
       "html": "<p>Today’s Singer range covers mechanical beginner machines, computerised models and heavy-duty machines. As with any brand, check the build, the buttonhole and parts availability for the specific model.</p>"
     },
     {
+      "h2": "Classic Clydebank models to look out for",
+      "html": "<p>Many British-made Singers carry a <strong>K</strong> after the model number, for Kilbowie, the Clydebank works. Names you will see on the second-hand market include:</p><ul><li><strong>Singer 201K</strong>: a full-size straight-stitch machine with a reputation for a very even stitch and quiet running.</li><li><strong>Singer 99K</strong>: a smaller “three-quarter size” machine, popular as a portable.</li><li><strong>Singer 15K and 66K</strong>: workhorse domestic machines, often found in treadle tables or with hand cranks.</li><li><strong>Singer 222K Featherweight</strong>: a compact, lightweight machine with a free arm, much loved by quilters.</li></ul><p>Condition matters far more than model: a serviced 99K will out-sew a seized 201K.</p>"
+    },
+    {
+      "h2": "Checking a vintage Singer before you buy",
+      "html": "<ul><li>Turn the handwheel by hand: it should move smoothly with no grinding or tight spots.</li><li>Check the bobbin case or shuttle and at least one bobbin are present; they are model-specific.</li><li>Look at the motor wiring on electric models. Perished rubber cables need replacing by a competent repairer before use.</li><li>Ask whether it has been serviced recently. A full clean and oil often brings an old Singer back to life.</li></ul><p>Our <a href=\"/blog/buying-a-used-sewing-machine/\">used sewing machine guide</a> has a longer checklist.</p>"
+    },
+    {
       "h2": "Parts and servicing for Singer machines",
       "html": "<p>Singer machines are among the makes <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> lists on its website. PKSM services and repairs domestic and industrial machines in Leicester and stocks needles, bobbins, feet and other parts. Send the model number to check a part before you buy. <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> means the city has deep machinery know-how.</p>"
     }
@@ -54,6 +62,14 @@
     {
       "q": "Is an old Singer worth repairing?",
       "a": "Often yes. Many older all-metal Singers are robust and parts for common models are still available. A specialist can check and service it."
+    },
+    {
+      "q": "Where was my Singer made?",
+      "a": "Many Singers sold in Britain were made at Clydebank, near Glasgow. A “K” after the model number (for example 201K or 99K) usually indicates a Kilbowie (Clydebank) machine."
+    },
+    {
+      "q": "Are old Singer sewing machines worth repairing?",
+      "a": "Often yes. Older all-metal Singers are simple, strong and well supported for parts, so a service is usually cheaper than a new machine of similar quality."
     }
   ]
 }

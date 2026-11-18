@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-11-18",
   "slug": "sewing-machine-repairs-east-midlands",
   "title": "Sewing Machine Repairs in the East Midlands: Your Options",
   "description": "Sewing machine repairs and servicing across the East Midlands: workshop servicing in Leicester, industrial call-outs, collection and delivery, and what to ask.",
@@ -40,6 +40,10 @@
       "html": "<ul><li>Do you work on my make and model?</li><li>Is there a fixed service price, and what does it include?</li><li>Will you call me before doing extra work?</li><li>Do you stock the parts, and how long will it take?</li></ul>"
     },
     {
+      "h2": "Signs your machine needs a professional service",
+      "html": "<ul><li>Skipped stitches or looping underneath that a new needle and rethreading do not fix.</li><li>A knocking, grinding or unusually loud noise.</li><li>The handwheel feels stiff or the machine runs slowly.</li><li>Fabric will not feed evenly, or the timing seems off (the needle hits the hook or plate).</li><li>A burning smell or sparking from the motor: stop using it straight away.</li></ul><p>Our <a href=\"/blog/how-often-to-service-a-sewing-machine/\">servicing guide</a> explains what a service usually includes.</p>"
+    },
+    {
       "h2": "Try these first",
       "html": "<p>Many faults are fixed by rethreading and a new needle. See our <a href=\"/blog/common-sewing-machine-problems/\">troubleshooting guide</a>. The East Midlands has deep machinery know-how thanks to <a href=\"/leicester-hosiery/\">its hosiery heritage</a>.</p>"
     }
@@ -54,5 +58,19 @@
     "sewing-machine-repairs",
     "pk-sewing-machines-leicester",
     "sewing-in-leicester"
+  ],
+  "faqs": [
+    {
+      "q": "How much does a sewing machine service cost?",
+      "a": "Prices vary by repairer and machine. PK Sewing Machines in Leicester lists servicing from £35 on its website; ask any repairer what is included and how extra parts are charged."
+    },
+    {
+      "q": "Is it worth repairing an old sewing machine?",
+      "a": "Often, especially well-built older machines. Ask for a quote first and compare it with the cost of a new machine of similar quality."
+    },
+    {
+      "q": "Can industrial machines be repaired on site?",
+      "a": "Yes. Some East Midlands repairers, including PK Sewing Machines, offer on-site industrial call-outs for workrooms and factories."
+    }
   ]
 }

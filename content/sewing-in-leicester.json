@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-11-18",
   "slug": "sewing-in-leicester",
   "title": "Sewing in Leicester: Machine Shops, Heritage and Fabric",
   "description": "A sewer’s guide to Leicester: machine sales and repairs at PK Sewing Machines, textile heritage, fabric shopping on Belgrave Road and study at DMU.",
@@ -61,6 +61,10 @@
       "html": "<p>Learn about the city’s hosiery past in <a href=\"/leicester-hosiery/\">our heritage guide</a>, then visit the <strong>Wigston Framework Knitters Museum</strong> just south of the city. The <a href=\"/blog/framework-knitting-museums-east-midlands/\">framework knitting museums guide</a> has more.</p>"
     },
     {
+      "h2": "Planning a sewing day out in Leicester",
+      "html": "<p>Combine a visit to a machine shop or haberdasher with the city’s textile history. Belgrave Road’s fabric and sari shops are a short trip from the city centre, and the Wigston Framework Knitters Museum lies just to the south. Check opening times before you travel, as smaller shops and museums often keep limited hours. If you are bringing a machine in for a service, phone ahead to agree drop-off and collection times.</p>"
+    },
+    {
       "h2": "Studying textiles",
       "html": "<p>De Montfort University (DMU) in Leicester teaches fashion and textile subjects and hosted the Leicester Made &amp; Regions industry day in April 2026. Read our <a href=\"/blog/leicester-made-2026/\">Leicester Made 2026</a> article.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1557777586-f6682739fcf3?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1557777586-f6682739fcf3?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1557777586-f6682739fcf3?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Fashion illustration sketches\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Leicester has a strong fashion and textile education scene.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@charlotablunarova?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Charlota Blunarova</a> / Unsplash</span></figcaption></figure>"
     }
@@ -79,5 +83,15 @@
     "pk-sewing-machines-leicester",
     "leicester-hosiery",
     "sewing-machine-repairs-east-midlands"
+  ],
+  "faqs": [
+    {
+      "q": "Where can I buy fabric in Leicester?",
+      "a": "Belgrave Road, known as the Golden Mile, is famous for sari and fabric shops, and the city also has markets and independent haberdashers. Check opening times before you go."
+    },
+    {
+      "q": "Where can I get a sewing machine repaired in Leicester?",
+      "a": "PK Sewing Machines on St Saviours Road services and repairs domestic and industrial machines and stocks parts. See our East Midlands repairs page for other options and questions to ask."
+    }
   ]
 }

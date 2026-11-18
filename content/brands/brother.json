@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-11-18",
   "slug": "brands/brother",
   "nav": "Brother",
   "keywords": [
@@ -46,8 +46,30 @@
       "html": "<p>Brother also makes industrial sewing machines used in workrooms and factories, alongside its domestic range.</p>"
     },
     {
+      "h2": "Where Brother comes from",
+      "html": "<p>Brother traces its roots to Nagoya, Japan, in 1908, when it began as a sewing machine repair business. Sewing machines remain one of its core products alongside printers and labelling machines. In the UK, Brother machines are widely sold through high street shops, department stores and independent sewing centres.</p>"
+    },
+    {
+      "h2": "Which Brother machine suits which sewer",
+      "html": "<ul><li><strong>Beginners</strong>: lightweight mechanical or simple computerised models with an automatic needle threader and a one-step buttonhole are easy to learn on.</li><li><strong>Dressmakers</strong>: computerised models with more stitches, speed control and a range of presser feet.</li><li><strong>Embroidery</strong>: combination sewing and embroidery machines (including the Innov-is range) take a hoop and stitch designs from files.</li><li><strong>Overlocking</strong>: Brother also makes overlockers for neat seams on knits; see our <a href=\"/overlockers-and-embroidery-machines/\">overlocker and embroidery guide</a>.</li></ul>"
+    },
+    {
+      "h2": "Common Brother problems and quick fixes",
+      "html": "<p>Most “faults” on modern domestic machines come down to threading, the wrong needle or lint. Rethread with the presser foot up, fit a fresh needle of the right type for your fabric, and brush out the bobbin area. If the machine shows an error code, the manual lists what it means. See <a href=\"/blog/common-sewing-machine-problems/\">common sewing machine problems</a>.</p>"
+    },
+    {
       "h2": "Parts and servicing for Brother machines",
       "html": "<p>Brother machines are among the makes <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> lists on its website. PKSM services and repairs domestic and industrial machines in Leicester and stocks needles, bobbins, feet and other parts. Send the model number to check a part before you buy. <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> means the city has deep machinery know-how.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Brother a good brand for beginners?",
+      "a": "Brother is one of the most common beginner brands in the UK, with many affordable, easy-to-thread models. As with any machine, try it or read the specification before buying."
+    },
+    {
+      "q": "Can I use generic presser feet on a Brother?",
+      "a": "Many Brother domestic machines take standard low-shank snap-on feet, but check your manual for the shank type before buying."
     }
   ]
 }

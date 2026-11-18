@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-11-18",
   "slug": "brands/janome",
   "nav": "Janome",
   "keywords": [
@@ -42,8 +42,30 @@
       "html": "<p>Janome also makes overlockers and coverstitch machines for home sewers who want professional finishes on knits.</p>"
     },
     {
+      "h2": "Janome’s story in brief",
+      "html": "<p>Janome is a Japanese company founded in 1921. Its name means “snake’s eye” in Japanese, a nod to the round bobbin system used in its early machines. Janome later acquired the American New Home brand, which is why you may see older New Home machines with very similar designs. Janome has a long-established UK operation and a network of UK dealers.</p>"
+    },
+    {
+      "h2": "Who Janome machines suit",
+      "html": "<ul><li><strong>Quilters</strong>: Janome is popular with quilters thanks to wide throat space on larger models and good straight-stitch quality. See our <a href=\"/quilting-and-patchwork/\">quilting and patchwork guide</a>.</li><li><strong>Dressmakers</strong>: mid-range computerised models offer a good balance of stitches, speed control and buttonholes.</li><li><strong>Schools and classes</strong>: simple, sturdy mechanical models are common in classrooms.</li></ul>"
+    },
+    {
+      "h2": "Looking after a Janome",
+      "html": "<p>Use the needle type and bobbins your manual specifies; many Janome models use a particular bobbin class, and a near-fit bobbin can cause stitch problems. Clean the bobbin area regularly and book a service if the stitch quality changes. Our <a href=\"/blog/how-often-to-service-a-sewing-machine/\">servicing guide</a> explains how often.</p>"
+    },
+    {
       "h2": "Parts and servicing for Janome machines",
       "html": "<p>Janome machines are among the makes <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> lists on its website. PKSM services and repairs domestic and industrial machines in Leicester and stocks needles, bobbins, feet and other parts. Send the model number to check a part before you buy. <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> means the city has deep machinery know-how.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does Janome mean?",
+      "a": "It means “snake’s eye” in Japanese, referring to the round bobbin used in the company’s early machines."
+    },
+    {
+      "q": "Are Janome machines good for quilting?",
+      "a": "Many quilters choose Janome, particularly larger models with extra space to the right of the needle. Check the throat space and feed options of the specific model."
     }
   ]
 }

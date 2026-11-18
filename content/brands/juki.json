@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-11-18",
   "slug": "brands/juki",
   "nav": "Juki",
   "keywords": [
@@ -42,8 +42,30 @@
       "html": "<p>Juki also sells domestic machines, overlockers and straight-stitch machines for home sewers who want speed and a strong feed.</p><figure class=\"fig \"><img src=\"https://images.unsplash.com/photo-1745847655362-fc86d76584b2?w=1200&q=70&auto=format\" srcset=\"https://images.unsplash.com/photo-1745847655362-fc86d76584b2?w=700&q=70&auto=format 700w, https://images.unsplash.com/photo-1745847655362-fc86d76584b2?w=1200&q=70&auto=format 1200w\" sizes=\"(max-width: 800px) 100vw, 760px\" alt=\"Hands at work on a sewing machine\" loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"800\"><figcaption>Domestic Juki machines bring industrial speed home.<span class=\"fig-credit\">Photo: <a href=\"https://unsplash.com/@alexjhonson23e?utm_source=shmor&amp;utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">alex jhonson</a> / Unsplash</span></figcaption></figure>"
     },
     {
+      "h2": "An industrial name at home",
+      "html": "<p>Juki is a Japanese company founded in 1938 and is best known worldwide for industrial sewing machines used in clothing factories and workrooms. Its home range brings some of that engineering to domestic sewers, which is why Juki is popular with tailors, alteration businesses and serious hobbyists.</p>"
+    },
+    {
+      "h2": "Semi-industrial straight-stitch machines",
+      "html": "<p>Juki’s semi-industrial straight-stitch models (such as the TL series) sew only a straight stitch but do it quickly and through thick layers. They suit quilting, bag-making and heavy fabrics. They are not a replacement for a zig-zag machine if you need buttonholes or stretch stitches, so many sewers keep both.</p>"
+    },
+    {
+      "h2": "Domestic vs industrial Juki machines",
+      "html": "<p>A true industrial Juki is built for one job, often bolted to a table with a separate motor, and needs space and setting up. A domestic or semi-industrial Juki plugs in and sits on a table like any home machine. Our <a href=\"/blog/domestic-vs-industrial-sewing-machines/\">domestic vs industrial guide</a> and <a href=\"/industrial-sewing-machines/\">industrial machines page</a> explain the trade-offs.</p>"
+    },
+    {
       "h2": "Parts and servicing for Juki machines",
       "html": "<p>Juki machines are among the makes <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> lists on its website. PKSM services and repairs domestic and industrial machines in Leicester and stocks needles, bobbins, feet and other parts. Send the model number to check a part before you buy. <a href=\"/leicester-hosiery/\">Leicester’s hosiery heritage</a> means the city has deep machinery know-how.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Juki only for professionals?",
+      "a": "No. Juki makes domestic and semi-industrial machines for home use as well as industrial machines for factories."
+    },
+    {
+      "q": "Can a Juki straight-stitch machine sew zig-zag?",
+      "a": "No. Straight-stitch models such as the TL series sew straight stitch only. You need a zig-zag or computerised machine for buttonholes and stretch stitches."
     }
   ]
 }

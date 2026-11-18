@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-11-18",
   "slug": "knitting-machines",
   "title": "Knitting Machines: Domestic, Industrial and Hosiery Types",
   "description": "How knitting machines work: domestic flatbeds, circular sock machines and the industrial knitters behind UK knitwear and hosiery production.",
@@ -39,6 +39,10 @@
       "html": "<p>Modern electronic flat knitting machines produce jumpers, cardigans and even whole garments with minimal sewing. Garment pieces are then joined on <strong>linking machines</strong>, overlockers and coverstitch machines.</p>"
     },
     {
+      "h2": "Buying a second-hand domestic knitting machine",
+      "html": "<ul><li>Check that every needle is present and none are bent; missing or damaged needles cause dropped stitches.</li><li>Ask for the carriage, the manual, weights, clamps and tools; replacing a set piecemeal adds up.</li><li>The sponge bar (a foam strip that holds the needles in place on many flatbed machines) perishes with age and often needs replacing.</li><li>Knit a test swatch if you can, or ask the seller to show the machine working.</li></ul><p>Knitting machine clubs and online groups are a good source of manuals, parts and advice.</p>"
+    },
+    {
       "h2": "Knitting machines in Leicester",
       "html": "<p>Leicester’s factories once ran thousands of knitting machines; <a href=\"/leicester-hosiery/\">read the heritage</a>. Today the city’s knitters still need sewing and finishing machines, needles and parts, supplied by specialists such as <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a>.</p>"
     }
@@ -48,5 +52,15 @@
     "leicester-hosiery",
     "blog/william-lee-stocking-frame",
     "wool-and-yarn"
+  ],
+  "faqs": [
+    {
+      "q": "Are domestic knitting machines still made?",
+      "a": "A few brands still make home knitting machines, but many people buy second-hand models, which remain widely available and repairable."
+    },
+    {
+      "q": "What is the difference between a knitting machine and a sewing machine?",
+      "a": "A knitting machine forms fabric from yarn by making rows of loops with needles. A sewing machine joins existing pieces of fabric with a stitch."
+    }
   ]
 }

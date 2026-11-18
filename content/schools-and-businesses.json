@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-11-18",
   "slug": "schools-and-businesses",
   "title": "Sewing Machines for Schools, Colleges and Small Businesses",
   "description": "Choosing and maintaining sewing machines for schools, colleges, alteration shops and small production businesses, from robust classroom models to industrials.",
@@ -35,6 +35,10 @@
       "html": "<p>Start with industrial lockstitch and overlock machines, add coverstitch for knitwear, and plan cutting and pressing space. See our <a href=\"/industrial-sewing-machines/\">industrial guide</a> and <a href=\"/blog/starting-an-alterations-business-equipment/\">equipment checklist</a>.</p>"
     },
     {
+      "h2": "Budgeting for a set of machines",
+      "html": "<p>For a classroom or workroom, the purchase price is only part of the cost. Budget for spare bobbins and needles for every machine, a stock of common parts (presser feet, bobbin cases, belts on industrial machines), an annual service, and replacement machines over time. Buying the same model across a room keeps all of these simpler. For businesses, ask suppliers whether they offer servicing contracts or call-outs, since a broken machine in a busy alteration shop costs income every day.</p>"
+    },
+    {
       "h2": "Support from a specialist",
       "html": "<p><a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> works with schools, tailors, alteration businesses, workrooms and manufacturers, offering sales, servicing, parts and East Midlands industrial call-outs. Leicester’s <a href=\"/leicester-hosiery/\">textile trade</a> has relied on such support for generations.</p>"
     }
@@ -43,5 +47,19 @@
     "industrial-sewing-machines",
     "sewing-machine-repairs",
     "pk-sewing-machines-leicester"
+  ],
+  "faqs": [
+    {
+      "q": "What sewing machines are best for a school classroom?",
+      "a": "Simple, robust mechanical or basic computerised machines with finger guards and speed control are the usual choice. Using one model throughout makes training, parts and servicing easier."
+    },
+    {
+      "q": "What machines does an alterations business need?",
+      "a": "Typically a heavy-duty or industrial lockstitch machine, an overlocker and often a blind hem machine, plus good pressing equipment. Our alterations equipment guide lists the essentials."
+    },
+    {
+      "q": "How often should classroom machines be serviced?",
+      "a": "Once a year is a sensible minimum for machines used every week, ideally during the school holidays so they are ready for the new term."
+    }
   ]
 }
