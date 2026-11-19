@@ -1,0 +1,74 @@
+{
+  "updated": "2026-11-19",
+  "date": "2026-11-19",
+  "type": "post",
+  "slug": "blog/buying-sewing-machine-online-your-rights",
+  "title": "Buying a Sewing Machine Online: Know Your Rights",
+  "description": "Buying a sewing machine online in the UK? Your 14-day cancellation right, faulty-goods rights and a checklist for Black Friday and Christmas sales.",
+  "h1": "Buying a sewing machine online: your rights and a pre-purchase checklist",
+  "eyebrow": "Buying guide",
+  "intro": "Sales season is when many people buy a first sewing machine or upgrade an old one. Before you click, it helps to know what the law gives you if you change your mind or the machine turns out to be faulty.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1526290766257-c015850e4629",
+    "alt": "White domestic sewing machine",
+    "credit": "Agto Nugroho",
+    "creditUrl": "https://unsplash.com/@agto"
+  },
+  "keywords": [
+    "buying a sewing machine online",
+    "sewing machine black friday",
+    "sewing machine consumer rights",
+    "faulty sewing machine refund",
+    "return a sewing machine",
+    "sewing machine 14 day cancellation",
+    "sewing machine christmas gift",
+    "sewing machine uk"
+  ],
+  "cardText": "Cancellation and faulty-goods rights when you buy a sewing machine online, plus a checklist.",
+  "sections": [
+    {
+      "h2": "Your 14-day right to change your mind",
+      "html": "<p>Under the rules for distance sales, Citizens Advice explains that if you buy goods online, by phone or by mail order you normally have a <strong>14-day cooling-off period</strong>. It starts the day after you receive the order. You must tell the seller you are cancelling within that time, then return the goods within a further 14 days, and the seller must refund you within 14 days of getting the item back.</p><ul><li>You may have to pay the cost of returning the machine, unless the seller says otherwise, so check the terms first.</li><li>There are exceptions, such as made-to-order or personalised goods.</li><li>If you buy in a shop, you generally have no legal right to a refund just because you changed your mind, although many shops offer one.</li></ul><p>Sewing machines are heavy, so keep all the packaging until you are sure.</p>"
+    },
+    {
+      "h2": "If the machine is faulty",
+      "html": "<p>The Consumer Rights Act 2015 says goods must be of satisfactory quality, fit for purpose and as described. Citizens Advice summarises the main rights:</p><ul><li><strong>Within 30 days</strong> you can normally reject a faulty item and get a refund.</li><li><strong>Up to six months:</strong> you can ask for a repair or replacement, and if that does not fix it you can get a full refund. In this period the seller generally has to show the fault was not there at the start.</li><li><strong>After six months</strong> you may still be entitled to a repair or replacement, but any refund may be reduced to reflect the use you have had.</li></ul><p>Your contract is with the <strong>seller</strong>, not the manufacturer. The <a href=\"https://www.legislation.gov.uk/ukpga/2015/15/part/1/chapter/2\" rel=\"noopener\" target=\"_blank\">Act itself</a> sets these rules out. A manufacturer's warranty is extra and does not remove them.</p>"
+    },
+    {
+      "h2": "Pre-purchase checklist",
+      "html": "<ol><li><strong>Match the machine to the work.</strong> Read our <a href=\"/blog/how-to-choose-a-sewing-machine/\">guide to choosing a sewing machine</a> and compare <a href=\"/blog/domestic-vs-industrial-sewing-machines/\">domestic and industrial machines</a> before you buy.</li><li><strong>Check the exact model number</strong> in the listing, and what is in the box: foot, bobbins, needles, power lead.</li><li><strong>Look for a UK seller</strong> with a UK address, a UK plug and clear returns terms.</li><li><strong>Ask about servicing and parts</strong>, since you may need them later. See <a href=\"/sewing-machine-repairs/\">sewing machine repairs</a> and <a href=\"/sewing-machine-parts/\">parts</a>.</li><li><strong>Keep the receipt</strong> and order email in a safe place, and test the machine as soon as it arrives.</li></ol><p>Pay attention to \"was\" prices. Check what the machine costs elsewhere rather than trusting a headline discount.</p>"
+    },
+    {
+      "h2": "Used machines and part exchange",
+      "html": "<p>Rights are different if you buy privately. Buying from a private seller is largely \"as seen\", so inspect and test the machine first, as covered in our <a href=\"/blog/buying-a-used-sewing-machine/\">used sewing machine guide</a>. If you are upgrading, you can also look at <a href=\"/blog/sell-or-part-exchange-sewing-machine/\">selling or part-exchanging your old machine</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I return a sewing machine I bought online if I change my mind?",
+      "a": "Usually yes. Online, phone and mail-order purchases normally have a 14-day cooling-off period starting the day after delivery, with some exceptions such as personalised goods. You may have to pay return costs."
+    },
+    {
+      "q": "What if my new sewing machine is faulty?",
+      "a": "Within 30 days you can normally reject it for a refund. Within six months you can ask for a repair or replacement, and if that fails, a refund. Contact the seller, not the manufacturer."
+    },
+    {
+      "q": "Do these rules apply in Scotland and Northern Ireland?",
+      "a": "The 14-day cancellation rules apply across the UK. Faulty-goods rights are similar but time limits and wording differ in places, so check Advice Direct Scotland or Consumerline if you live there."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Citizens Advice: Changing your mind about something you've bought",
+      "url": "https://www.citizensadvice.org.uk/consumer/changed-your-mind/changing-your-mind-about-something-youve-bought/"
+    },
+    {
+      "title": "Citizens Advice: Faulty goods and your consumer rights",
+      "url": "https://www.citizensadvice.org.uk/about-us/media-centre/press-releases/shoppers-urged-to-use-their-consumer-rights/"
+    },
+    {
+      "title": "legislation.gov.uk: Consumer Rights Act 2015, Part 1 Chapter 2",
+      "url": "https://www.legislation.gov.uk/ukpga/2015/15/part/1/chapter/2"
+    }
+  ]
+}
