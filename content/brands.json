@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-11-21",
   "slug": "brands",
   "title": "Sewing Machine Brands: Singer, Brother, Janome and Juki",
   "description": "Guides to the sewing machine brands you meet most in the UK: their history, what each is known for, who their machines suit and how to get parts and servicing.",
@@ -81,11 +81,25 @@
     {
       "h2": "Why brand matters less than you think",
       "html": "<p>Every major brand makes good and basic machines. What matters most is the model, its build quality, and whether a local dealer can service it. See our <a href=\"/reviews/\">brand reviews</a> for Bernina, Pfaff, Jack and Yamato too, and ask a specialist such as <a href=\"http://www.pksm.co.uk/\" rel=\"noopener\" target=\"_blank\">PK Sewing Machines</a> which models they can support.</p>"
+    },
+    {
+      "h2": "How to compare brands for your sewing",
+      "html": "<p>Rather than picking by name alone, start with what you will sew: dressmaking, quilting, alterations or heavy fabrics. Then compare the features you will actually use, the availability of spare parts and presser feet, and how easy servicing is where you live. Our <a href=\"/blog/how-to-choose-a-sewing-machine/\">how to choose a sewing machine</a> guide walks through this, and <a href=\"/sewing-machine-parts/\">sewing machine parts</a> covers spares.</p>"
     }
   ],
   "related": [
     "reviews",
     "sewing-machines",
     "industrial-sewing-machines"
+  ],
+  "faqs": [
+    {
+      "q": "Which sewing machine brand is best for beginners?",
+      "a": "There is no single best brand. Look for a model with simple controls, a good stitch selection for your projects and easy access to servicing and parts. Our brand guides and the choosing guide help you narrow it down."
+    },
+    {
+      "q": "Do these brands all make industrial machines?",
+      "a": "Some brands are better known for domestic machines and others for industrial work. See our <a href=\"/industrial-sewing-machines/\">industrial sewing machines</a> page for the differences."
+    }
   ]
 }

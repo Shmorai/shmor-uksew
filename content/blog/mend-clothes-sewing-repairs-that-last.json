@@ -1,0 +1,71 @@
+{
+  "updated": "2026-11-21",
+  "date": "2026-11-21",
+  "type": "post",
+  "slug": "blog/mend-clothes-sewing-repairs-that-last",
+  "title": "How to Mend Clothes: Simple Sewing Repairs That Last",
+  "description": "How to mend clothes at home: sew on a button, fix a seam, darn a hole and shorten a hem, with machine tips and why longer-lasting clothes matter in the UK.",
+  "h1": "How to mend clothes: simple sewing repairs that last",
+  "eyebrow": "Sewing skills · Make do and mend",
+  "intro": "Most clothing repairs take ten minutes and a few basic stitches. Learning five of them keeps good garments in use and out of the bin, and a sewing machine makes several of them quicker still.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1578353022142-09264fd64295",
+    "alt": "Thread spools beside a pair of scissors",
+    "credit": "Darling Arias",
+    "creditUrl": "https://unsplash.com/@darlingarias"
+  },
+  "keywords": [
+    "how to mend clothes",
+    "how to sew a button",
+    "how to fix a seam",
+    "how to darn a hole",
+    "how to shorten a hem",
+    "mending clothes by hand",
+    "sewing repairs for beginners",
+    "make do and mend",
+    "clothing repair uk"
+  ],
+  "cardText": "Five simple clothing repairs for beginners: buttons, seams, holes, hems and zips, by hand or machine.",
+  "sections": [
+    {
+      "h2": "Why mending is worth learning",
+      "html": "<p>UK charity WRAP has found that extending the average life of clothes by just nine months would save £5 billion in resources. You do not need a statistic to see the point: a coat with a loose lining or a favourite shirt missing a button is usually one small repair from being wearable again.</p><p>Start with a small kit: a few hand needles, strong thread in common colours, small sharp scissors, pins and a thimble or seam ripper. Our <a href=\"/haberdashery-and-accessories/\">haberdashery and accessories</a> page covers more of the basics.</p>"
+    },
+    {
+      "h2": "How to sew on a button",
+      "html": "<ol><li>Mark where the old button sat, and match the thread to the fabric or button.</li><li>Use doubled thread with a knot at the end and stitch up through the fabric and a hole in the button.</li><li>Lay a matchstick or pin on top of the button so you leave slack, and stitch through each pair of holes five or six times.</li><li>Remove the spacer, wind the thread around the stitches under the button to make a short <strong>shank</strong>, and fasten off on the back.</li></ol><p>The shank gives the button room to sit over the buttonhole instead of pulling flat.</p>"
+    },
+    {
+      "h2": "How to fix a split seam",
+      "html": "<p>Turn the garment inside out and pin the split edges back together along the original stitch line. By hand, use a small <strong>backstitch</strong> for strength, overlapping the old stitching by about a centimetre at each end. By machine, sew a straight stitch along the line, reverse for a few stitches at the start and end, and trim loose threads. Test on a scrap first, and make sure the needle is sharp and suits the fabric: see our <a href=\"/blog/sewing-machine-needles-guide/\">sewing machine needles guide</a>. If you need a refresher on setting up, read <a href=\"/blog/how-to-thread-a-sewing-machine/\">how to thread a sewing machine</a>.</p>"
+    },
+    {
+      "h2": "How to darn a hole or patch worn knees",
+      "html": "<p>For a small hole in a knitted jumper or sock, <strong>darning</strong> rebuilds the missing threads: stitch rows of parallel running stitches across the hole, extending a little into sound fabric on all sides, then weave a second set of rows at right angles over and under the first. Use a darning mushroom or a jar to hold the fabric taut.</p><p>For worn trousers or elbows, an <strong>iron-on or sewn patch</strong> on the inside is quicker. Trim any frayed edges, cut the patch larger than the damage and sew around its edges. Patches also work well on denim and workwear, where a visible repair is part of the look.</p>"
+    },
+    {
+      "h2": "Shorten a hem, then decide if it needs a machine",
+      "html": "<p>To take up a hem, measure and pin the new length, press the fold, and stitch with a slip stitch by hand (nearly invisible from the right side) or a straight stitch on the machine. Jersey and knit fabrics need a stretch needle and stitch; see <a href=\"/blog/sewing-with-jersey-knits/\">sewing with jersey knits</a>.</p><p>If you are mending regularly, a basic <a href=\"/sewing-machines/\">sewing machine</a> pays for itself in time, and when yours skips stitches or jams, <a href=\"/sewing-machine-repairs/\">sewing machine repairs</a> explains your options. A zip replacement or leather work may need a heavier machine or a professional, and it is fine to say so.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What thread should I use to mend clothes?",
+      "a": "Use a good-quality all-purpose polyester or cotton-wrapped thread that matches the fabric colour. For sewing buttons on coats or jeans, a stronger thread is worth using."
+    },
+    {
+      "q": "Can I mend clothes without a sewing machine?",
+      "a": "Yes. Buttons, small seam splits, darns, patches and hems can all be done by hand with a needle and thread, and hand repairs are often the neatest option for delicate fabrics."
+    },
+    {
+      "q": "When is a repair not worth doing?",
+      "a": "If the fabric has worn thin all over, a repair may not hold for long. Zips, leather and structured tailoring are often better left to a specialist repairer or alteration service."
+    }
+  ],
+  "sources": [
+    {
+      "title": "WRAP: Clothing design for longevity",
+      "url": "https://www.wrap.ngo/content/clothing-design-for-longevity"
+    }
+  ]
+}
