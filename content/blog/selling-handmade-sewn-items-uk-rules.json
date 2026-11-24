@@ -1,0 +1,87 @@
+{
+  "updated": "2026-11-24",
+  "date": "2026-11-24",
+  "type": "post",
+  "slug": "blog/selling-handmade-sewn-items-uk-rules",
+  "title": "Selling Handmade Sewn Items in the UK: The Rules",
+  "description": "Selling handmade clothes or crafts at Christmas fairs or online? UK rules on the £1,000 trading allowance, fibre content labels and what to check first.",
+  "h1": "Selling handmade sewn items in the UK: tax, labelling and what to check",
+  "eyebrow": "Sewing for profit · UK rules",
+  "intro": "Christmas fairs and online shops are a natural next step if people keep asking where you bought your sewing. Before you sell, two official rules matter most: HMRC's trading allowance and the UK textile labelling regulations. Here is how they work in plain English.",
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sewing_Machine_on_Table_%2844049850164%29.jpg/1920px-Sewing_Machine_on_Table_%2844049850164%29.jpg",
+    "alt": "Close-up of an old electric sewing machine on a table",
+    "credit": "Dejan Krsmanovic / CC BY 2.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sewing_Machine_on_Table_(44049850164).jpg"
+  },
+  "keywords": [
+    "selling handmade items uk",
+    "do i need to register as self employed selling crafts",
+    "trading allowance £1000",
+    "textile labelling uk",
+    "sell handmade clothes uk rules",
+    "craft fair selling rules uk",
+    "fibre content label handmade",
+    "sewing business tax uk",
+    "selling sewn items online"
+  ],
+  "cardText": "The £1,000 trading allowance and fibre content labelling for UK makers who sell what they sew.",
+  "sections": [
+    {
+      "h2": "Is selling what you sew a trade? The £1,000 trading allowance",
+      "html": "<p>Income from regularly selling things you make can count as trading income. HMRC's <strong>trading allowance</strong> lets individuals earn up to <strong>£1,000 gross per tax year</strong> from trading without needing to tell HMRC, although you must still keep records of the income.</p><p>If your gross trading income is over £1,000, you need to register for Self Assessment, by 5 October following the end of the tax year in which you started. Above the limit you can either deduct the £1,000 allowance or your actual expenses, whichever works out better, but not both. The allowance covers gross income (sales, before costs), so fabric and thread costs do not reduce the figure you compare against £1,000.</p><p>HMRC also lists reasons to register even if you are under £1,000, such as wanting to claim a loss. A tax adviser or accountant can confirm your own position.</p>"
+    },
+    {
+      "h2": "Fibre content labels on clothes and textiles",
+      "html": "<p>Under the Textile Products (Labelling and Fibre Composition) Regulations 2012, textile products must show their fibre content. GOV.UK says manufacturers and retailers share responsibility for this. Trading Standards' Business Companion guide adds that:</p><ul><li>if two or more fibres make up 85% or more of the product, each is named with its percentage, for example \"cotton 80%, polyester 15%, nylon 5%\";</li><li>components with different fibres, such as a jacket and its lining, each show their own content;</li><li>fibre names must come from the approved list;</li><li>labels must be in English, and durable, legible, visible and accessible.</li></ul><p>The Business Companion guide lists some exempt products, such as toys and labels and badges, but it does not address items sold by handmakers, so ask your local Trading Standards service if you are unsure.</p>"
+    },
+    {
+      "h2": "Describing your products online",
+      "html": "<p>If someone can order an item from its listing alone, Business Companion says the fibre content must appear in that listing, and fibre claims must be accurate: inaccurate descriptions can breach section 11 of the Consumer Rights Act 2015. So say \"100% cotton poplin\" only if it is, and keep fabric receipts or supplier details to back it up.</p><p>The same Act gives buyers rights when goods are not as described, so photograph items honestly. Our guide to <a href=\"/blog/buying-sewing-machine-online-your-rights/\">your rights when buying online</a> explains how those rights work from the buyer's side.</p>"
+    },
+    {
+      "h2": "Children's items and other products: check before you sell",
+      "html": "<p>Rules for products aimed at children (for example nightwear) are stricter and are enforced by Trading Standards, and council guidance points to the Nightwear (Safety) Regulations 1985 and the General Product Safety Regulations 2005. We have not summarised those rules here, so contact Trading Standards before selling anything for babies and children.</p>"
+    },
+    {
+      "h2": "Kit and servicing for a small sewing business",
+      "html": "<p>Selling means your machine works harder. Read our guides to <a href=\"/blog/starting-an-alterations-business-equipment/\">equipment for an alterations business</a>, <a href=\"/blog/how-often-to-service-a-sewing-machine/\">how often to service a sewing machine</a> and <a href=\"/blog/domestic-vs-industrial-sewing-machines/\">domestic versus industrial machines</a>, and see <a href=\"/schools-and-businesses/\">machines for businesses</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I have to tell HMRC if I sell a few handmade items?",
+      "a": "If your gross trading income is £1,000 or less in a tax year you generally do not need to tell HMRC, but you must keep records. Over £1,000 you need to register for Self Assessment."
+    },
+    {
+      "q": "Does the £1,000 allowance apply to profit or sales?",
+      "a": "It applies to gross trading income, meaning your sales before deducting costs."
+    },
+    {
+      "q": "Do handmade clothes need a fibre content label?",
+      "a": "The 2012 Regulations require textile products to show fibre content. Business Companion does not address handmade items specifically, so check with your local Trading Standards service."
+    },
+    {
+      "q": "Do these rules apply in Northern Ireland?",
+      "a": "The GOV.UK textile labelling guidance covers England, Scotland and Wales. Check with Trading Standards NI for Northern Ireland."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Tax-free allowances on property and trading income",
+      "url": "https://www.gov.uk/guidance/tax-free-allowances-on-property-and-trading-income"
+    },
+    {
+      "title": "GOV.UK: Textile labelling",
+      "url": "https://www.gov.uk/guidance/textile-labelling"
+    },
+    {
+      "title": "Business Companion: Labelling of textiles",
+      "url": "https://www.businesscompanion.info/en/quick-guides/goods/labelling-of-textiles"
+    },
+    {
+      "title": "legislation.gov.uk: The Textile Products (Labelling and Fibre Composition) Regulations 2012",
+      "url": "https://www.legislation.gov.uk/uksi/2012/1102/contents"
+    }
+  ]
+}
