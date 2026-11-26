@@ -1,0 +1,75 @@
+{
+  "updated": "2026-11-26",
+  "date": "2026-11-26",
+  "type": "post",
+  "slug": "blog/what-to-do-with-an-old-sewing-machine",
+  "title": "Old Sewing Machine: Sell, Donate or Recycle It",
+  "description": "What to do with an old or broken sewing machine in the UK: repair, sell, donate or recycle it, plus how shop take-back and council recycling centres work.",
+  "h1": "What to do with an old sewing machine: repair, sell, donate or recycle",
+  "eyebrow": "Care and clear-out · UK",
+  "intro": "A sewing machine from a relative's loft, or one that has finally given up, does not have to go in the bin. Electrical items cannot go in your household rubbish, but there are several better routes, from a service to a take-back scheme. Here is how to decide.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1466027397211-20d0f2449a3f",
+    "alt": "Vintage black and gold sewing machine",
+    "credit": "Annie Spratt",
+    "creditUrl": "https://unsplash.com/@anniespratt"
+  },
+  "keywords": [
+    "old sewing machine what to do",
+    "recycle sewing machine uk",
+    "dispose of sewing machine",
+    "donate sewing machine uk",
+    "broken sewing machine",
+    "sell old sewing machine",
+    "sewing machine recycling centre",
+    "sewing machine weee",
+    "vintage sewing machine worth repairing"
+  ],
+  "cardText": "Repair, sell, donate or recycle: the best routes for an old or broken sewing machine in the UK.",
+  "sections": [
+    {
+      "h2": "Is it worth repairing first?",
+      "html": "<p>Many older machines are mechanically simple and fail because of dust, old oil, a worn belt or a needle problem rather than anything serious. Before you give up, read our guides to <a href=\"/blog/common-sewing-machine-problems/\">common sewing machine problems</a> and <a href=\"/blog/how-often-to-service-a-sewing-machine/\">how often to service a machine</a>. If it still will not run, ask a repairer for an honest opinion on cost versus value; our <a href=\"/sewing-machine-repairs/\">repairs page</a> explains what to ask.</p><p>Be careful with very old electrical machines: if the cable is cracked or the foot control smells hot, do not plug it in until someone qualified has checked it.</p>"
+    },
+    {
+      "h2": "Selling or part-exchanging a working machine",
+      "html": "<p>A machine that runs can often be sold, passed on or traded in. Clean it, test it with a few types of fabric, and describe faults honestly. Our guide to <a href=\"/blog/sell-or-part-exchange-sewing-machine/\">selling or part-exchanging a sewing machine</a> covers what buyers look for. Be realistic: price depends on brand, condition and demand, and we do not quote figures here.</p>"
+    },
+    {
+      "h2": "Donating it",
+      "html": "<p>Community groups, schools, makerspaces, repair cafes and charity shops sometimes accept working sewing machines, but policies differ and not all charity shops take electrical goods because they must be safety tested. Ring first, and offer a machine that runs, with its foot control and cable. Do not leave items outside a shop.</p>"
+    },
+    {
+      "h2": "Recycling a machine that is beyond repair",
+      "html": "<p>A sewing machine with a motor is waste electrical and electronic equipment (WEEE). GOV.UK guidance says you can take waste electricals to your local household waste recycling centre, and many councils also run kerbside or bring-bank schemes, so check your council's website.</p><p>Shops can help too. GOV.UK sets out that retailers must offer to take back an old item of the same type when you buy a new one, whether you buy in store, online or by mail order, regardless of brand. The in-store service must be free and customers must get at least 28 days to bring the old item back. Larger electrical retailers (more than 400 square metres of electrical sales space) must also take back very small WEEE, items under 25 cm on their longest side, free of charge even if you buy nothing. A full-size sewing machine is usually bigger than that, so the like-for-like route is the one most relevant for a replacement purchase. Ask the shop before you buy.</p>"
+    },
+    {
+      "h2": "Before you hand it over",
+      "html": "<ul><li>Remove the needle, bobbin and any loose thread, and wrap the needle safely.</li><li>Pack the cable and foot control together with the machine.</li><li>Keep the instruction manual, spare feet and case to pass on.</li><li>Check whether the case or accessories can be reused by someone else.</li></ul><p>If you are buying a replacement, our <a href=\"/blog/how-to-choose-a-sewing-machine/\">guide to choosing a sewing machine</a> is a good next step.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I put a broken sewing machine in the household bin?",
+      "a": "No. Machines with a motor or cable are electrical waste and should go to a household waste recycling centre, a council electrical collection or a retailer take-back scheme."
+    },
+    {
+      "q": "Will a shop take my old sewing machine if I buy a new one?",
+      "a": "Retailers must offer to take back an old item of the same type when you buy a new one, but check with the shop before you buy how they arrange it."
+    },
+    {
+      "q": "Can I donate a sewing machine to a charity shop?",
+      "a": "Some accept them, but many do not take electrical goods. Phone first, and offer a working machine with its cable and foot control."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Electrical waste: retailer and distributor responsibilities (take back waste in store)",
+      "url": "https://www.gov.uk/electricalwaste-producer-supplier-responsibilities/take-back-waste-in-store"
+    },
+    {
+      "title": "GOV.UK: Consumer products: recycling batteries and electrical waste",
+      "url": "https://www.gov.uk/guidance/consumer-products-recycling-batteries-and-electrical-waste"
+    }
+  ]
+}
