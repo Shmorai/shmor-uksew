@@ -1,0 +1,80 @@
+{
+  "updated": "2026-11-28",
+  "date": "2026-11-28",
+  "type": "post",
+  "slug": "blog/sewing-machine-electrical-safety",
+  "title": "Sewing Machine Electrical Safety: UK Checks",
+  "description": "Sewing machine electrical safety in the UK: plug and fuse, cord checks, RCD protection, recalls and warning signs that mean stop sewing.",
+  "h1": "Sewing machine electrical safety: the checks every UK sewer should make",
+  "eyebrow": "Safety · Machine care",
+  "intro": "A sewing machine is a small mains appliance that often sits on a table for hours, with a cord and foot pedal on the floor and fabric dust around it. A few minutes of checking now and then keeps it safe. This guide follows the advice from Electrical Safety First, the UK charity, and adds some practical habits for the sewing room.",
+  "cardText": "Plug, cord, RCD and recall checks for electric sewing machines in UK homes, and the warning signs to act on.",
+  "keywords": [
+    "sewing machine electrical safety",
+    "sewing machine plug and fuse",
+    "is my sewing machine safe",
+    "sewing machine burning smell",
+    "sewing machine recall check",
+    "rcd for sewing machine",
+    "check sewing machine cord",
+    "second hand sewing machine safety",
+    "sewing machine safety uk",
+    "sewing machine sparking"
+  ],
+  "sections": [
+    {
+      "h2": "Start with the plug, the fuse and the cord",
+      "html": "<p>Electrical Safety First says sewing machines must be fitted with a <strong>UK 3-pin plug and fuse</strong>. If a machine arrives with a foreign or adapter plug, or the plug looks damaged, do not carry on using it: ask the seller or a qualified repairer to put it right.</p><p>Before you sew, spend a few minutes inspecting the <strong>cord</strong>, as the charity advises, and check it is in good condition. Look along its length for cuts, kinks, exposed wire and signs of overheating. Check the <strong>plug and socket</strong> regularly for burn or scorch marks, for buzzing or crackling (arcing) sounds, and for any heat when you touch them. If any appear, stop using the machine until it has been checked.</p>"
+    },
+    {
+      "h2": "Warning signs: when to switch off straight away",
+      "html": "<p>Electrical Safety First advises switching the machine off immediately and contacting the retailer or manufacturer if you notice any of these:</p><ul><li>a <strong>burning smell</strong>;</li><li><strong>sparking</strong>;</li><li><strong>cracks or damage</strong> to the casing;</li><li><strong>unusual noises</strong>; or</li><li><strong>fuses blowing</strong> or circuit-breakers tripping while you use it.</li></ul><p>Do not keep trying the machine to see if it comes right. For repairs, see our guide to <a href=\"/sewing-machine-repairs/\">sewing machine repairs</a>; a workshop such as our recommended supplier <a href=\"http://www.pksm.co.uk/\">PK Sewing Machines</a> can service machines and replace worn parts.</p>"
+    },
+    {
+      "h2": "Protect yourself with an RCD",
+      "html": "<p>An RCD (residual current device) in your consumer unit, also known as the fuse box, protects you from electric shock if there is a fault with an appliance. Electrical Safety First says that if you do not have RCD protection, you can use an <strong>RCD plug</strong> on the socket where the appliance is connected. It is worth doing in a spare room, garage or shed where the sewing set-up may share a socket with other equipment. If you are unsure what your consumer unit has, ask a qualified electrician; our sister site TradesStation has a guide to <a href=\"https://tradesstation.shmor.ai/electricians/\">finding an electrician</a>.</p>"
+    },
+    {
+      "h2": "Foot pedals, extension leads and the sewing table",
+      "html": "<p>The cord and pedal run along the floor where feet, chair legs and pets can catch them. Route them so they are not stretched tight or pinched under furniture, and check them again if the machine has been moved. Avoid plugging a machine, an iron and a light into the same overloaded multi-way adaptor; the fuse in the machine's plug is there to protect the cable, so never replace it with a higher-rated one. If you are not sure what rating applies, check the manual or ask a repairer.</p><p>The same goes for any extras on the table. An iron, a heated pressing mat and a task lamp each draw current, and each has its own plug and cord that deserve the same regular checks as the machine itself.</p>"
+    },
+    {
+      "h2": "Everyday habits that keep you safe",
+      "html": "<ul><li><strong>Unplug when not in use.</strong> The charity recommends keeping sewing machines unplugged when not in use.</li><li><strong>Switch off to thread.</strong> Turn the machine off when threading the needle, and tie back long hair and loose clothing.</li><li><strong>Keep your fingers clear</strong> of the feeder and needle area.</li><li><strong>Read the manual.</strong> Follow the manufacturer's instructions on use and care.</li></ul><p>Cleaning is part of safe use too: lint builds up around the bobbin area, so follow our guide on <a href=\"/blog/how-to-clean-a-sewing-machine/\">how to clean a sewing machine</a>, with the machine unplugged, and book a service at the intervals in <a href=\"/blog/how-often-to-service-a-sewing-machine/\">how often to service a sewing machine</a>.</p>"
+    },
+    {
+      "h2": "Buying safely, and recalls",
+      "html": "<p>Electrical Safety First recommends buying from a <strong>reputable retailer</strong> rather than a third-party seller online, because the appliance may not have passed all the necessary safety checks. It also warns that online reviews can be faked. Look for machines with safety guards that protect against accidental needle pricks.</p><p><strong>Register your machine</strong> with the manufacturer so you can be contacted if there is a safety recall; it also makes repairs and returns easier. If you are buying second-hand, read our guide to <a href=\"/blog/buying-a-used-sewing-machine/\">buying a used sewing machine</a> and have an older machine's wiring checked by a repairer before regular use. Browse our <a href=\"/sewing-machines/\">sewing machine</a> guides if you are choosing a new one.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Should I leave my sewing machine plugged in?",
+      "a": "Electrical Safety First says to keep sewing machines unplugged when not in use, and to switch off when threading the needle."
+    },
+    {
+      "q": "What should I do if my sewing machine smells of burning?",
+      "a": "Switch it off immediately and contact the retailer or manufacturer, as Electrical Safety First advises. Do not use it again until it has been checked."
+    },
+    {
+      "q": "Does my sewing machine need an RCD?",
+      "a": "An RCD in your consumer unit protects against electric shock from a faulty appliance. If you do not have one, Electrical Safety First suggests using an RCD plug on the socket."
+    },
+    {
+      "q": "How do I find out about a recall?",
+      "a": "Register the machine with the manufacturer so they can contact you, and check for recalls using Electrical Safety First's online tool."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Electrical Safety First: Sewing machines",
+      "url": "https://electricalsafetyfirst.org.uk/guidance/product-safety/sewing-machines"
+    }
+  ],
+  "image": {
+    "src": "https://images.unsplash.com/photo-1605002619330-080580537d72",
+    "alt": "White and blue domestic sewing machine",
+    "credit": "Victoria Nazaruk",
+    "creditUrl": "https://unsplash.com/@vvladimirovnna"
+  }
+}
